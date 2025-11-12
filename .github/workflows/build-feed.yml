@@ -12,23 +12,48 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Show repo tree (pre)
+        run: |
+            pwd
+            ls -la
+            echo "----"
+            if [ -d img ]; then ls -la img; fi
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Prepare publish dir
-        run: |
-          mkdir -p public
-          if [ -d img ]; then mkdir -p public/img && cp -r img/* public/img/ || true; fi
+      - name: Python version
+        run: python -V
 
       - name: Generate RSS (scores + news with images)
         run: |
+          set -euo pipefail
+          mkdir -p public
+          # Publish logos too (if present)
+          if [ -d img ]; then mkdir -p public/img && cp -r img/* public/img/ || true; fi
+          # Build the feed
           python wisco_core_teams_rss_MEDIA4_JPG.py \
             --out public/wisconsin-sports.xml \
             --days 6 --max-items 240 --live-final-only \
             --fallback-base-url "https://gjngh001-glitch.github.io/risevision-sports" \
             --prefer-event-photos --scrape-og
+          # Prove the file exists and looks right
+          echo "---- HEAD public/wisconsin-sports.xml"
+          head -n 30 public/wisconsin-sports.xml
+          echo "---- TAIL public/wisconsin-sports.xml"
+          tail -n 20 public/wisconsin-sports.xml
+          echo "---- Done"
+
+      - name: Upload feed artifact (for debugging)
+        uses: actions/upload-artifact@v4
+        with:
+          name: wisconsin-sports.xml
+          path: public/wisconsin-sports.xml
 
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v3
