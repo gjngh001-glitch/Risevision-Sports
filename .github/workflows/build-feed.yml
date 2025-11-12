@@ -27,7 +27,7 @@ jobs:
           python wisco_core_teams_rss_MEDIA4_JPG.py \
             --out public/wisconsin-sports.xml \
             --days 6 --max-items 240 --live-final-only \
-            --fallback-base-url "https://gjngh001-glitch.github.io/wisconsin-sports-feed" \
+            --fallback-base-url "https://gjngh001-glitch.github.io/risevision-sports" \
             --prefer-event-photos --scrape-og
 
       - name: Publish to gh-pages
