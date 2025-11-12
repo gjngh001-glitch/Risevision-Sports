@@ -1,67 +1,38 @@
-name: Build & Publish Wisconsin RSS (MEDIA5 • ASCII • Debug)
+name: Build Wisconsin RSS to /docs (MEDIA5 ASCII)
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # every 15 minutes
+    - cron: '*/15 * * * *'   # every 15 minutes
   workflow_dispatch:
 
 permissions:
-  contents: write  # REQUIRED for publishing to gh-pages
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Show repo tree (preflight)
-        run: |
-          pwd
-          echo "== Top level =="
-          ls -la
-          echo "== .github/workflows =="
-          ls -la .github/workflows || true
-          echo "== img (if present) =="
-          ls -la img || true
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Check Python version
-        run: python -V
-
-      - name: Verify script exists (exact name)
-        run: |
-          test -f "wisco_core_teams_rss_MEDIA5_ASCII.py" || (echo "SCRIPT NOT FOUND: wisco_core_teams_rss_MEDIA5_ASCII.py" && exit 1)
-          head -n 40 wisco_core_teams_rss_MEDIA5_ASCII.py
-
-      - name: Generate Wisconsin Sports RSS feed
+      - name: Build feed into /docs
         run: |
           set -euo pipefail
-          mkdir -p public
-          if [ -d img ]; then mkdir -p public/img && cp -r img/* public/img/ || true; fi
+          mkdir -p docs
+          if [ -d img ]; then mkdir -p docs/img && cp -r img/* docs/img/ || true; fi
           python wisco_core_teams_rss_MEDIA5_ASCII.py \
-            --out public/wisconsin-sports.xml \
+            --out docs/wisconsin-sports.xml \
             --days 6 --max-items 240 --live-final-only \
-            --fallback-base-url "https://gjngh001-glitch.github.io/REPO_NAME_CASE" \
+            --fallback-base-url "https://gjngh001-glitch.github.io/risevision-sports" \
             --prefer-event-photos --scrape-og
-          echo "---- HEAD public/wisconsin-sports.xml"
-          head -n 30 public/wisconsin-sports.xml || true
-          echo "---- TAIL public/wisconsin-sports.xml"
-          tail -n 30 public/wisconsin-sports.xml || true
 
-      - name: Upload feed artifact (always)
-        if: always()
-        uses: actions/upload-artifact@v4
+      - name: Commit updated XML to main
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          name: wisconsin-sports.xml
-          path: public/wisconsin-sports.xml
-
-      - name: Publish to gh-pages branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          commit_message: "Auto-update RSS feed (/docs)"
+          file_pattern: docs/wisconsin-sports.xml docs/img/*
