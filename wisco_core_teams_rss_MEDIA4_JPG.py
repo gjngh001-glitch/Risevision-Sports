@@ -1,6 +1,6 @@
 
 #!/usr/bin/env python3
-Wisconsin Sports Aggregator RSS — Packers, Bucks, Brewers, Badgers (MEDIA4 • JPG)
+#Wisconsin Sports Aggregator RSS — Packers, Bucks, Brewers, Badgers (MEDIA4 • JPG)
 -------------------------------------------------------------------------------------
 - Scores: Packers (NFL), Bucks (NBA), Brewers (MLB), Badgers (NCAAF/NCAAM/NCAAW/W-Volleyball)
 - News: Packers, Bucks, Brewers, Badgers (football/mbb/wbb/volleyball)
