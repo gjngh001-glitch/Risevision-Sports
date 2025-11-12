@@ -1,0 +1,37 @@
+name: Build & Publish Wisconsin RSS (MEDIA4 • JPG)
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Prepare publish dir
+        run: |
+          mkdir -p public
+          if [ -d img ]; then mkdir -p public/img && cp -r img/* public/img/ || true; fi
+
+      - name: Generate RSS (scores + news with images)
+        run: |
+          python wisco_core_teams_rss_MEDIA4_JPG.py \
+            --out public/wisconsin-sports.xml \
+            --days 6 --max-items 240 --live-final-only \
+            --fallback-base-url "https://gjngh001-glitch.github.io/wisconsin-sports-feed" \
+            --prefer-event-photos --scrape-og
+
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
