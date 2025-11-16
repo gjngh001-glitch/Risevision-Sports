@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 15 Nov 2025 23:50:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Nov 2025 03:43:16 +0000</lastBuildDate>
+<item>
+<title>NBA - Final: Los Angeles Lakers 119 @ Milwaukee Bucks 95 (Final)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810086</link>
+<guid isPermaLink='false'>a6314d963d7393609f46e23de60f26297032ca40</guid>
+<pubDate>Sun, 16 Nov 2025 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Los Angeles Lakers vs Milwaukee Bucks - Final]]></description>
+</item>
 <item>
 <title>UW News - Football: Badgers fall at No. 2 Indiana</title>
 <link>https://uwbadgers.com/news/2025/11/15/football-badgers-fall-at-no-2-indiana</link>
@@ -174,15 +183,6 @@
 <guid isPermaLink='false'>2eb259cab7f940674a21ea392a0e4b6bcab374a2</guid>
 <pubDate>Thu, 13 Nov 2025 01:01:12 +0000</pubDate>
 <description><![CDATA[Peralta's strong campaign recognized with NL Cy Young votes]]></description>
-</item>
-<item>
-<title>NBA - Final: Milwaukee Bucks 100 @ Charlotte Hornets 111 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401810068</link>
-<guid isPermaLink='false'>2ec9b3dcad9eb28e70ee43c0a57123ca0f2f2b50</guid>
-<pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs Charlotte Hornets - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
