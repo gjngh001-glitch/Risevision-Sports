@@ -4,7 +4,25 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Mon, 17 Nov 2025 23:49:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 18 Nov 2025 03:36:19 +0000</lastBuildDate>
+<item>
+<title>NCAAM - Final: SIU Edwardsville Cougars 69 @ Wisconsin Badgers 94 (Final)</title>
+<link>https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401826912</link>
+<guid isPermaLink='false'>ba121fd05a56df1ccace1127e2abf75577933f57</guid>
+<pubDate>Tue, 18 Nov 2025 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" medium="image" />
+<description><![CDATA[SIU Edwardsville Cougars vs Wisconsin Badgers - Final]]></description>
+</item>
+<item>
+<title>NBA - Final: Milwaukee Bucks 106 @ Cleveland Cavaliers 118 (Final)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810096</link>
+<guid isPermaLink='false'>0535d8b9165c64e8cd7f523d79394f82ed348986</guid>
+<pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png" medium="image" />
+<description><![CDATA[Milwaukee Bucks vs Cleveland Cavaliers - Final]]></description>
+</item>
 <item>
 <title>UW News - Volleyball: Colyer and Fuerbringer Collect Conference Weekly Awards</title>
 <link>https://uwbadgers.com/news/2025/11/17/volleyball-colyer-and-fuerbringer-collect-conference-weekly-awards</link>
@@ -167,51 +185,6 @@
 <guid isPermaLink='false'>205af9e2c134a6b6037b143856f967c689193efd</guid>
 <pubDate>Sat, 15 Nov 2025 01:25:00 +0000</pubDate>
 <description><![CDATA[Three Brewers prospects come up big during AFL Championship Game]]></description>
-</item>
-<item>
-<title>NBA - Final: Charlotte Hornets 134 @ Milwaukee Bucks 147 (Final/OT)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401809785</link>
-<guid isPermaLink='false'>7b11d3e98ac3f8b42d6f27061d06f2ca4f157c85</guid>
-<pubDate>Sat, 15 Nov 2025 01:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Charlotte Hornets vs Milwaukee Bucks - Final/OT]]></description>
-</item>
-<item>
-<title>NCAAM - Final: Milwaukee Panthers 63 @ Texas Tech Red Raiders 80 (Final)</title>
-<link>https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401819900</link>
-<guid isPermaLink='false'>1c49570ea9bbf14a42f3458e10bcabf8d29be858</guid>
-<pubDate>Sat, 15 Nov 2025 01:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png" medium="image" />
-<description><![CDATA[Milwaukee Panthers vs Texas Tech Red Raiders - Final]]></description>
-</item>
-<item>
-<title>NCAAWV - Final: Wisconsin Badgers 3 @ Michigan State Spartans 0 (Final)</title>
-<link>https://www.espn.com/</link>
-<guid isPermaLink='false'>5e33bc2abac0ff2f6360e6a2b8dca0396e3fd5cb</guid>
-<pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/127.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/127.png" medium="image" />
-<description><![CDATA[Wisconsin Badgers vs Michigan State Spartans - Final]]></description>
-</item>
-<item>
-<title>NCAAWV - Final: Milwaukee Panthers 3 @ Cleveland State Vikings 0 (Final)</title>
-<link>https://www.espn.com/</link>
-<guid isPermaLink='false'>4f761f178e8d5746f5f0cfd6dbc1f574ddc2e5b2</guid>
-<pubDate>Fri, 14 Nov 2025 23:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/325.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/325.png" medium="image" />
-<description><![CDATA[Milwaukee Panthers vs Cleveland State Vikings - Final]]></description>
-</item>
-<item>
-<title>NCAAWV - Final: Green Bay Phoenix 3 @ Robert Morris Colonials 1 (Final)</title>
-<link>https://www.espn.com/</link>
-<guid isPermaLink='false'>b8b9f5da1854abbcd701460eafa5771e4d9243cd</guid>
-<pubDate>Fri, 14 Nov 2025 21:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/2523.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/2523.png" medium="image" />
-<description><![CDATA[Green Bay Phoenix vs Robert Morris Colonials - Final]]></description>
 </item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Fenderson to join Badgers next year</title>
