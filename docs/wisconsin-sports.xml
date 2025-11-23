@@ -4,15 +4,24 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 23 Nov 2025 19:27:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Nov 2025 19:40:49 +0000</lastBuildDate>
 <item>
-<title>NFL - Live: Minnesota Vikings 6 @ Green Bay Packers 10 (Halftime)</title>
+<title>NCAAWV - Live: Iowa Hawkeyes 0 @ Wisconsin Badgers 0 (1st Set)</title>
+<link>https://www.espn.com/</link>
+<guid isPermaLink='false'>ecb05b83501087540e9aa63f48cc1670f5e47cff</guid>
+<pubDate>Sun, 23 Nov 2025 19:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" medium="image" />
+<description><![CDATA[Iowa Hawkeyes vs Wisconsin Badgers - 1st Set]]></description>
+</item>
+<item>
+<title>NFL - Live: Minnesota Vikings 6 @ Green Bay Packers 10 (11:37 - 3rd)</title>
 <link>https://www.espn.com/nfl/boxscore/_/gameId/401772887</link>
-<guid isPermaLink='false'>da4c35669c23d9acceda35080a01f72e5a706b25</guid>
+<guid isPermaLink='false'>194ccbbe6e5afc41fc2a2ea43ad60f5354f45de9</guid>
 <pubDate>Sun, 23 Nov 2025 18:00:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png" medium="image" />
-<description><![CDATA[Minnesota Vikings vs Green Bay Packers - Halftime]]></description>
+<description><![CDATA[Minnesota Vikings vs Green Bay Packers - 11:37 - 3rd]]></description>
 </item>
 <item>
 <title>UW News - Football: Wisconsin takes down No. 21 Illinois on senior day</title>
