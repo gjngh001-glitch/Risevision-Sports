@@ -4,7 +4,25 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 22 Nov 2025 23:50:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 23 Nov 2025 03:50:34 +0000</lastBuildDate>
+<item>
+<title>NBA - Final: Detroit Pistons 129 @ Milwaukee Bucks 116 (Final)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810127</link>
+<guid isPermaLink='false'>974ceaf52733eff630da60ab8750e632201b4c6d</guid>
+<pubDate>Sun, 23 Nov 2025 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Detroit Pistons vs Milwaukee Bucks - Final]]></description>
+</item>
+<item>
+<title>NCAAF - Live: Illinois Fighting Illini 10 @ Wisconsin Badgers 27 (End of 4th)</title>
+<link>https://www.espn.com/college-football/boxscore/_/gameId/401752915</link>
+<guid isPermaLink='false'>59d5bbd732451dd319601bf062e93f9eb17581b3</guid>
+<pubDate>Sun, 23 Nov 2025 00:30:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" medium="image" />
+<description><![CDATA[Illinois Fighting Illini vs Wisconsin Badgers - End of 4th]]></description>
+</item>
 <item>
 <title>UW News - Volleyball: No. 10 Badgers look to Senior Day</title>
 <link>https://uwbadgers.com/news/2025/11/22/volleyball-no-10-badgers-look-to-senior-day</link>
@@ -131,15 +149,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/19/UIC-13.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/19/UIC-13.jpg" medium="image" />
 <description><![CDATA[<img alt="Wisconsin @ UIC" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/19/UIC-13.jpg" /><br /><br />Coach Pingeton claims best start by first-year head coach in program history]]></description>
-</item>
-<item>
-<title>NCAAWV - Final: Purdue Boilermakers 0 @ Wisconsin Badgers 3 (Final)</title>
-<link>https://www.espn.com/</link>
-<guid isPermaLink='false'>ebf8d1b019d3cd22672a1b8c81d98385de9d670d</guid>
-<pubDate>Thu, 20 Nov 2025 01:30:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" medium="image" />
-<description><![CDATA[Purdue Boilermakers vs Wisconsin Badgers - Final]]></description>
 </item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Five Things to Know: UW vs. BYU</title>
