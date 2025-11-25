@@ -4,7 +4,7 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 25 Nov 2025 15:57:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Nov 2025 16:57:23 +0000</lastBuildDate>
 <item>
 <title>NBA - Final: Portland Trail Blazers 115 @ Milwaukee Bucks 103 (Final)</title>
 <link>https://www.espn.com/nba/boxscore/_/gameId/401810143</link>
@@ -13,6 +13,15 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
 <description><![CDATA[Portland Trail Blazers vs Milwaukee Bucks - Final]]></description>
+</item>
+<item>
+<title>UW News - Men&#x27;s Basketball: Five Things to Know: UW vs. Providence</title>
+<link>https://uwbadgers.com/news/2025/11/24/mens-basketball-five-things-to-know-uw-vs-providence</link>
+<guid isPermaLink='false'>906786b96d99e0960d1ddbe156304df8701b38e9</guid>
+<pubDate>Mon, 24 Nov 2025 22:07:00 +0000</pubDate>
+<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/10/29/MBB-20251029-UWP-FELIX-11.jpg" type="image/jpeg" />
+<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/10/29/MBB-20251029-UWP-FELIX-11.jpg" medium="image" />
+<description><![CDATA[<img alt="Badgers beat Platteville" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/10/29/MBB-20251029-UWP-FELIX-11.jpg" /><br /><br />The No. 23 Wisconsin men's basketball team hits the road to face off with No. 9 BYU on Friday as a part of the Bad Boy Mower's Series - Salt Lake City.]]></description>
 </item>
 <item>
 <title>UW News - Volleyball: Fuerbringer Tabbed B1G Setter of the Week</title>
@@ -554,15 +563,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/10/251108FB-19755.JPG" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/10/251108FB-19755.JPG" medium="image" />
 <description><![CDATA[<img alt="Carter Smith field rush" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/10/251108FB-19755.JPG" /><br /><br />MADISON, Wis. - The Wisconsin football team earned its first ranked win in four years after taking down No. 23 Washington, 13-10, on Saturday afternoon at Camp Randall Stadium.]]></description>
-</item>
-<item>
-<title>UW News - Men&#x27;s Basketball: Badgers blitz Huskies, 97-72</title>
-<link>https://uwbadgers.com/news/2025/11/7/mens-basketball-badgers-blitz-huskies-97-72</link>
-<guid isPermaLink='false'>f57d76b3c559ff8ba4da34886405b891dbcec85c</guid>
-<pubDate>Sat, 08 Nov 2025 03:58:00 +0000</pubDate>
-<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/7/dsc08612.jpg" type="image/jpeg" />
-<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/7/dsc08612.jpg" medium="image" />
-<description><![CDATA[<img alt="Jack Janicki throws it down against NIU" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/7/dsc08612.jpg" /><br /><br />Thanks to a career-high 25 points by Nick Boyd, the No. 24 Wisconsin men's basketball team collected a 97-72 win over Northern Illinois on Friday night at the Kohl Center.]]></description>
 </item>
 <item>
 <title>Brewers News: Woodruff, the longest-tenured Brewer, receives qualifying offer</title>
