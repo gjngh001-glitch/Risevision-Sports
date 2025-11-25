@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Mon, 24 Nov 2025 23:49:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 25 Nov 2025 03:39:19 +0000</lastBuildDate>
+<item>
+<title>NBA - Final: Portland Trail Blazers 115 @ Milwaukee Bucks 103 (Final)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810143</link>
+<guid isPermaLink='false'>9b75560d92b0315394d0639e468b7b159136f999</guid>
+<pubDate>Tue, 25 Nov 2025 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Portland Trail Blazers vs Milwaukee Bucks - Final]]></description>
+</item>
 <item>
 <title>UW News - Volleyball: Fuerbringer Tabbed B1G Setter of the Week</title>
 <link>https://uwbadgers.com/news/2025/11/24/volleyball-fuerbringer-tabbed-b1g-setter-of-the-week</link>
@@ -151,33 +160,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/21/11212025_WISCO_MBB_vs_BYU_Cougars_edits_LM_19.JPG" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/21/11212025_WISCO_MBB_vs_BYU_Cougars_edits_LM_19.JPG" medium="image" />
 <description><![CDATA[<img alt="Nick Boyd hits tough layup over BYU" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/21/11212025_WISCO_MBB_vs_BYU_Cougars_edits_LM_19.JPG" /><br /><br />The Wisconsin men's basketball team fell 98-70 to No. 9 BYU on Friday at the Delta Center in Salt Lake City.]]></description>
-</item>
-<item>
-<title>NCAAWV - Final: Milwaukee Panthers 0 @ IU Indianapolis Jaguars 3 (Final)</title>
-<link>https://www.espn.com/</link>
-<guid isPermaLink='false'>6a27591566867d4f7c1851679e715f1afaa6e154</guid>
-<pubDate>Fri, 21 Nov 2025 23:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/85.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/85.png" medium="image" />
-<description><![CDATA[Milwaukee Panthers vs IU Indianapolis Jaguars - Final]]></description>
-</item>
-<item>
-<title>NCAAM - Final: Wisconsin Badgers 70 @ BYU Cougars 98 (Final)</title>
-<link>https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401819836</link>
-<guid isPermaLink='false'>67ce6e7d0dd0c99329b7cff1efdefa6e3c768b5d</guid>
-<pubDate>Fri, 21 Nov 2025 21:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/252.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/252.png" medium="image" />
-<description><![CDATA[Wisconsin Badgers vs BYU Cougars - Final]]></description>
-</item>
-<item>
-<title>NCAAWV - Final: Green Bay Phoenix 2 @ Youngstown State Penguins 3 (Final)</title>
-<link>https://www.espn.com/</link>
-<guid isPermaLink='false'>16e148bae83bb726eec6dbda8884da2ffd379fd6</guid>
-<pubDate>Fri, 21 Nov 2025 20:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/2754.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/2754.png" medium="image" />
-<description><![CDATA[Green Bay Phoenix vs Youngstown State Penguins - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Top 30 prospects from the &#x27;25 Fall League campaign</title>
