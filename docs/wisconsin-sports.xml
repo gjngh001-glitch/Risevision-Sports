@@ -4,7 +4,25 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 26 Nov 2025 23:49:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Nov 2025 03:36:23 +0000</lastBuildDate>
+<item>
+<title>NCAAWV - Final: Wisconsin Badgers 3 @ Northwestern Wildcats 1 (Final)</title>
+<link>https://www.espn.com/</link>
+<guid isPermaLink='false'>6a9a1a5402f0aa5db410c6595cff33ac2db5b61e</guid>
+<pubDate>Thu, 27 Nov 2025 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/77.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/77.png" medium="image" />
+<description><![CDATA[Wisconsin Badgers vs Northwestern Wildcats - Final]]></description>
+</item>
+<item>
+<title>NBA - Final: Milwaukee Bucks 103 @ Miami Heat 106 (Final)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401809804</link>
+<guid isPermaLink='false'>a3bddc7b5075d79e8b89cd152453dd2db90e87c6</guid>
+<pubDate>Thu, 27 Nov 2025 00:30:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png" medium="image" />
+<description><![CDATA[Milwaukee Bucks vs Miami Heat - Final]]></description>
+</item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Starting Five: Badgers go to the beach</title>
 <link>https://uwbadgers.com/news/2025/11/26/badgers-go-to-the-beach</link>
@@ -131,24 +149,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/23/251122VB-10603.jpeg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/23/251122VB-10603.jpeg" medium="image" />
 <description><![CDATA[<img alt="VB Senior Day Photo" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/23/251122VB-10603.jpeg" /><br /><br />MADISON, Wis. - The No. 10 Wisconsin volleyball team stifled Iowa in their final home regular season match of the year, defeating the Hawkeyes in straight sets (25-17, 25-15, 25-19) on Senior Day.]]></description>
-</item>
-<item>
-<title>NCAAWV - Final: Iowa Hawkeyes 0 @ Wisconsin Badgers 3 (Final)</title>
-<link>https://www.espn.com/</link>
-<guid isPermaLink='false'>5cd2b1febc9b6777495c1de5c6e5383cc40b48ef</guid>
-<pubDate>Sun, 23 Nov 2025 19:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" medium="image" />
-<description><![CDATA[Iowa Hawkeyes vs Wisconsin Badgers - Final]]></description>
-</item>
-<item>
-<title>NFL - Final: Minnesota Vikings 6 @ Green Bay Packers 23 (Final)</title>
-<link>https://www.espn.com/nfl/boxscore/_/gameId/401772887</link>
-<guid isPermaLink='false'>2ce95d829f1cf7c055ab3e1e49fb4b18cce543dd</guid>
-<pubDate>Sun, 23 Nov 2025 18:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png" medium="image" />
-<description><![CDATA[Minnesota Vikings vs Green Bay Packers - Final]]></description>
 </item>
 <item>
 <title>UW News - Football: Wisconsin takes down No. 21 Illinois on senior day</title>
