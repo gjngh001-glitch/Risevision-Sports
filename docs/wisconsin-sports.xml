@@ -4,7 +4,25 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 29 Nov 2025 23:49:52 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Nov 2025 03:49:50 +0000</lastBuildDate>
+<item>
+<title>NBA - Final: Brooklyn Nets 99 @ Milwaukee Bucks 116 (Final)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810152</link>
+<guid isPermaLink='false'>59dc0b14b92d41c359d9b3b3d150fe48584472d5</guid>
+<pubDate>Sun, 30 Nov 2025 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Brooklyn Nets vs Milwaukee Bucks - Final]]></description>
+</item>
+<item>
+<title>UW News - Football: Wisconsin falls at Minnesota in season finale</title>
+<link>https://uwbadgers.com/news/2025/11/29/football-badgers-fall-to-gophers-in-snowy-season-finale</link>
+<guid isPermaLink='false'>e4051b457f4544573c9348c5b3ff5cb1a87649ea</guid>
+<pubDate>Sun, 30 Nov 2025 00:14:00 +0000</pubDate>
+<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/29/251129FB-13496.jpeg" type="image/jpeg" />
+<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/29/251129FB-13496.jpeg" medium="image" />
+<description><![CDATA[<img alt="Wisconsin Badgers during a Big Ten Conference NCAA college football game against the Minnesota Golden Gophers, Sat., Nov. 29, 2025, in Minneapolis, Min. (Photo by David Stluka/Wisconsin Athletic Communications)" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/29/251129FB-13496.jpeg" /><br /><br />The Wisconsin Badgers (4-8) fell to the Minnesota Golden Gophers (7-5) by a 17-7 score Saturday evening to wrap up the 2025 season.]]></description>
+</item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Badgers fall to JMU in Daytona Beach Classic finale</title>
 <link>https://uwbadgers.com/news/2025/11/29/womens-basketball-badgers-fall-to-jmu-in-daytona-finale</link>
@@ -135,24 +153,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/26/VB-20251109-NU-STELTENPOHL--2.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/26/VB-20251109-NU-STELTENPOHL--2.jpg" medium="image" />
 <description><![CDATA[<img alt="Charlie Fuerbringer celebrates after a point against Northwestern." src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/26/VB-20251109-NU-STELTENPOHL--2.jpg" /><br /><br />EVANSTON, Ill. - The No. 10 Wisconsin volleyball team notched its eighth victory in a row by defeating Northwestern on the road in four sets (25-18, 25-22, 20-25, 25-22) to kick off the final week of the regular season.]]></description>
-</item>
-<item>
-<title>NCAAWV - Final: Wisconsin Badgers 3 @ Northwestern Wildcats 1 (Final)</title>
-<link>https://www.espn.com/</link>
-<guid isPermaLink='false'>6a9a1a5402f0aa5db410c6595cff33ac2db5b61e</guid>
-<pubDate>Thu, 27 Nov 2025 01:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/77.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/77.png" medium="image" />
-<description><![CDATA[Wisconsin Badgers vs Northwestern Wildcats - Final]]></description>
-</item>
-<item>
-<title>NBA - Final: Milwaukee Bucks 103 @ Miami Heat 106 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401809804</link>
-<guid isPermaLink='false'>a3bddc7b5075d79e8b89cd152453dd2db90e87c6</guid>
-<pubDate>Thu, 27 Nov 2025 00:30:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs Miami Heat - Final]]></description>
 </item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Starting Five: Badgers go to the beach</title>
@@ -595,15 +595,6 @@
 <guid isPermaLink='false'>aa2f55e910824f6bb2a5caea0d4d88a9ecbbf8b0</guid>
 <pubDate>Wed, 12 Nov 2025 01:11:00 +0000</pubDate>
 <description><![CDATA[Arnold sounds ready to deal; could Peralta be on the move?]]></description>
-</item>
-<item>
-<title>UW News - Football: Catalano and Posa earn Big Ten weekly awards</title>
-<link>https://uwbadgers.com/news/2025/11/10/football-catalano-and-posa-earn-big-ten-weekly-awards</link>
-<guid isPermaLink='false'>7c86c02989d1296e2b008c772513f8d65c878c3e</guid>
-<pubDate>Mon, 10 Nov 2025 19:58:00 +0000</pubDate>
-<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/10/Headline.png" type="image/jpeg" />
-<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/10/Headline.png" medium="image" />
-<description><![CDATA[<img alt="No alternative text provided." src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/10/Headline.png" /><br /><br />True freshman tandem helped Wisconsin down #23 Washington on Saturday]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers&#x27; Top 30 Prospects list</title>
