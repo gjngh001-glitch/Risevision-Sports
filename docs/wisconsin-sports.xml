@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Mon, 01 Dec 2025 23:50:06 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Dec 2025 03:43:17 +0000</lastBuildDate>
+<item>
+<title>NBA - Final: Milwaukee Bucks 126 @ Washington Wizards 129 (Final)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810166</link>
+<guid isPermaLink='false'>e03ae4452ccc329dc6f996b448dd1a3c7ee04002</guid>
+<pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png" medium="image" />
+<description><![CDATA[Milwaukee Bucks vs Washington Wizards - Final]]></description>
+</item>
 <item>
 <title>UW News - Volleyball: Colyer tallies fifth weekly conference award</title>
 <link>https://uwbadgers.com/news/2025/12/1/volleyball-colyer-tallies-fifth-weekly-conference-award</link>
@@ -90,15 +99,6 @@
 <description><![CDATA[From No. 755 to pennant chases, these are the Brewers' 10 best on-field moments]]></description>
 </item>
 <item>
-<title>NCAAWV - Final: Wisconsin Badgers 3 @ Minnesota Golden Gophers 0 (Final)</title>
-<link>https://www.espn.com/</link>
-<guid isPermaLink='false'>199e095fcb46869b92883b004f3f9db04dbf8795</guid>
-<pubDate>Sat, 29 Nov 2025 02:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/135.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/135.png" medium="image" />
-<description><![CDATA[Wisconsin Badgers vs Minnesota Golden Gophers - Final]]></description>
-</item>
-<item>
 <title>UW News - Men&#x27;s Basketball: Badgers fall to TCU</title>
 <link>https://uwbadgers.com/news/2025/11/28/mens-basketball-badgers-fall-to-tcu</link>
 <guid isPermaLink='false'>f86a9571576b4b6b06e523afc730b817fe5efd5f</guid>
@@ -108,15 +108,6 @@
 <description><![CDATA[<img alt="Badgers huddle against TCU" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/28/DSC00376.jpg" /><br /><br />The Wisconsin men's basketball team fell to TCU 74-63 in the Rady Children's Invitational Championship Game on Friday at the Jenny Craig Pavilion.]]></description>
 </item>
 <item>
-<title>NBA - Final: Milwaukee Bucks 109 @ New York Knicks 118 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401809816</link>
-<guid isPermaLink='false'>a77d5b6398c25eec79fce2c8667fbfc9f46a7551</guid>
-<pubDate>Sat, 29 Nov 2025 00:30:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs New York Knicks - Final]]></description>
-</item>
-<item>
 <title>UW News - Women&#x27;s Basketball: No. 13 Ole Miss edges past Wisconsin</title>
 <link>https://uwbadgers.com/news/2025/11/28/womens-basketball-badgers-fall-to-no-13-ole-miss</link>
 <guid isPermaLink='false'>a55e1756714313e66d47f2b2b06dd6a666790060</guid>
@@ -124,15 +115,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/28/OleMiss-2.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/28/OleMiss-2.jpg" medium="image" />
 <description><![CDATA[<img alt="Ronnie Porter vs. Ole Miss" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/28/OleMiss-2.jpg" /><br /><br />Wisconsin's fourth-quarter rally comes up short]]></description>
-</item>
-<item>
-<title>NCAAW - Final: Wisconsin Badgers 56 @ Ole Miss Rebels 65 (Final)</title>
-<link>https://www.espn.com/womens-college-basketball/boxscore/_/gameId/401827924</link>
-<guid isPermaLink='false'>acb00023f40df18d073cdeda9cdc0d6ab432fa2b</guid>
-<pubDate>Fri, 28 Nov 2025 21:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/145.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/145.png" medium="image" />
-<description><![CDATA[Wisconsin Badgers vs Ole Miss Rebels - Final]]></description>
 </item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Five Things to Know: UW takes on TCU in Rady Children&#x27;s Championship</title>
