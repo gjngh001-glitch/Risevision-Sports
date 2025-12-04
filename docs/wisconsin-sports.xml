@@ -4,7 +4,23 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 03 Dec 2025 23:49:44 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Dec 2025 03:44:16 +0000</lastBuildDate>
+<item>
+<title>NBA - Final: Detroit Pistons 109 @ Milwaukee Bucks 113 (Final)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810186</link>
+<guid isPermaLink='false'>bb16e061bfea59dc6909558c5bcb868c760673ea</guid>
+<pubDate>Thu, 04 Dec 2025 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Detroit Pistons vs Milwaukee Bucks - Final]]></description>
+</item>
+<item>
+<title>Brewers News: Here are 30 Rule 5 candidates -- one from each club</title>
+<link>https://www.mlb.com/brewers/news/mlb-rule-5-draft-candidates-from-each-club-2025</link>
+<guid isPermaLink='false'>6c122a1eac390818f3eb3fb93d0cda1893a31c36</guid>
+<pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+<description><![CDATA[Here are 30 Rule 5 candidates -- one from each club]]></description>
+</item>
 <item>
 <title>UW News - Football: Six Badgers earn Big Ten accolades</title>
 <link>https://uwbadgers.com/news/2025/12/3/football-six-badgers-earn-big-ten-accolades</link>
@@ -518,13 +534,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/12/WBB-20251112-BGU-FELIX-17.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/12/WBB-20251112-BGU-FELIX-17.jpg" medium="image" />
 <description><![CDATA[<img alt="WBB vs Bowling Green " src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/12/WBB-20251112-BGU-FELIX-17.jpg" /><br /><br />Wisconsin boasted six players scoring in double figures.]]></description>
-</item>
-<item>
-<title>Brewers News: Peralta&#x27;s strong campaign recognized with NL Cy Young votes</title>
-<link>https://www.mlb.com/brewers/news/2025-mlb-cy-young-award-voting-results</link>
-<guid isPermaLink='false'>2eb259cab7f940674a21ea392a0e4b6bcab374a2</guid>
-<pubDate>Thu, 13 Nov 2025 01:01:12 +0000</pubDate>
-<description><![CDATA[Peralta's strong campaign recognized with NL Cy Young votes]]></description>
 </item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Badgers ink three in-state standouts on National Signing Day</title>
