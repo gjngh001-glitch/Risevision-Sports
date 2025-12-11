@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 10 Dec 2025 23:49:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Dec 2025 03:48:34 +0000</lastBuildDate>
+<item>
+<title>NCAAM - Live: Wisconsin Badgers 51 @ Nebraska Cornhuskers 81 (7:30 - 2nd)</title>
+<link>https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401825405</link>
+<guid isPermaLink='false'>b38ff83bd7a610b68e04c97f85b6dc40ed8798b9</guid>
+<pubDate>Thu, 11 Dec 2025 02:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/158.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/158.png" medium="image" />
+<description><![CDATA[Wisconsin Badgers vs Nebraska Cornhuskers - 7:30 - 2nd]]></description>
+</item>
 <item>
 <title>Brewers News: Murphy realistic about Peralta, Megill&#x27;s trade chances as Winter Meetings wrap</title>
 <link>https://www.mlb.com/brewers/news/brewers-wrap-2025-winter-meetings</link>
@@ -40,11 +49,13 @@
 <description><![CDATA[<img alt="Breauna Ware dribbles up the floor against San Diego" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/10/WBB-20251210-SD-KROMKE-019_FDc8u.jpg" /><br /><br />Thanks to 42 points off the bench, the Wisconsin women's basketball team beat San Diego 75-46 on Wednesday at the Kohl Center.]]></description>
 </item>
 <item>
-<title>Brewers News: Everything to know about today&#x27;s Rule 5 Draft (2 p.m. ET)</title>
-<link>https://www.mlb.com/brewers/news/2025-rule-5-draft-preview</link>
-<guid isPermaLink='false'>7211e3eb91855a60a0f7d0209e2ebf1475ae735e</guid>
-<pubDate>Wed, 10 Dec 2025 15:45:00 +0000</pubDate>
-<description><![CDATA[Everything to know about today's Rule 5 Draft (2 p.m. ET)]]></description>
+<title>UW News - Volleyball: How Sweet It Is: No. 3 Badgers take on NCAA Regionals</title>
+<link>https://uwbadgers.com/news/2025/12/10/volleyball-how-sweet-it-is-no-3-badgers-take-on-ncaa-regionals</link>
+<guid isPermaLink='false'>984ef7cd7289c128c78a5bfa450e8f4052f29047</guid>
+<pubDate>Wed, 10 Dec 2025 15:27:00 +0000</pubDate>
+<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/12/10/VB-20251205-NCAA-UNC-STELTENPOHL-15.jpg" type="image/jpeg" />
+<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/12/10/VB-20251205-NCAA-UNC-STELTENPOHL-15.jpg" medium="image" />
+<description><![CDATA[<img alt="Badgers gather after a point versus North Carolina." src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/10/VB-20251205-NCAA-UNC-STELTENPOHL-15.jpg" /><br /><br />MADISON, Wis. - The No. 3 Wisconsin volleyball team will look to continue their NCAA Tournament run, as they are set to take on No. 2 Stanford in Austin, Texas, on Friday, Dec. 12 at Gregory Gymnasium. The match will begin 30 minutes after the conclusion of the first regional semifinal between No. 4 Indiana and No. 1 Texas, slated to start at 11:00 a.m. CT. Both matches will be televised on ESPN.]]></description>
 </item>
 <item>
 <title>Brewers News: Here&#x27;s Pipeline&#x27;s first full 2026 mock draft</title>
@@ -150,24 +161,6 @@
 <description><![CDATA[Each team's most recent Rule 5 keeper]]></description>
 </item>
 <item>
-<title>NCAAW - Final: Michigan State Spartans 64 @ Wisconsin Badgers 78 (Final)</title>
-<link>https://www.espn.com/womens-college-basketball/boxscore/_/gameId/401825223</link>
-<guid isPermaLink='false'>5c2a957d4912acd55cdc08199102565020d0906b</guid>
-<pubDate>Sun, 07 Dec 2025 23:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" medium="image" />
-<description><![CDATA[Michigan State Spartans vs Wisconsin Badgers - Final]]></description>
-</item>
-<item>
-<title>NFL - Final: Chicago Bears 21 @ Green Bay Packers 28 (Final)</title>
-<link>https://www.espn.com/nfl/boxscore/_/gameId/401772897</link>
-<guid isPermaLink='false'>17048b32dae822c793aff4a393c25197933dc598</guid>
-<pubDate>Sun, 07 Dec 2025 21:25:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png" medium="image" />
-<description><![CDATA[Chicago Bears vs Green Bay Packers - Final]]></description>
-</item>
-<item>
 <title>Brewers News: Each team&#x27;s biggest need entering the Winter Meetings</title>
 <link>https://www.mlb.com/brewers/news/each-team-s-biggest-need-entering-2025-winter-meetings</link>
 <guid isPermaLink='false'>a3605baf3f31d2808d35fd14efac24b8a4252a4e</guid>
@@ -257,13 +250,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/11/250906FB-2232-86-Lance_Mason.JPG" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/11/250906FB-2232-86-Lance_Mason.JPG" medium="image" />
 <description><![CDATA[<img alt="Wisconsin Badgers tight end Lance Mason (86) carries the ball during an NCAA college football game against the Middle Tennessee Blue Raiders, Sat., Sept. 6, 2025, in Madison, Wis. The Badgers won 42-10. (Photo by David Stluka/Wisconsin Athletic Communications)" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/11/250906FB-2232-86-Lance_Mason.JPG" /><br /><br />Mason landed on the All-Big Ten Second Team]]></description>
-</item>
-<item>
-<title>Brewers News: What do Brewers have planned heading into Winter Meetings?</title>
-<link>https://www.mlb.com/brewers/news/brewers-2025-winter-meetings-preview</link>
-<guid isPermaLink='false'>8f22ce62b4e35237e590976906975bf9586570a6</guid>
-<pubDate>Thu, 04 Dec 2025 16:36:42 +0000</pubDate>
-<description><![CDATA[What do Brewers have planned heading into Winter Meetings?]]></description>
 </item>
 <item>
 <title>Brewers News: Here are 30 Rule 5 candidates -- one from each club</title>
@@ -436,15 +422,6 @@
 <description><![CDATA[Here's a reason for every team in MLB -- and their fans -- to give thanks]]></description>
 </item>
 <item>
-<title>UW News - Volleyball: No. 10 Badgers tally eighth-straight victory</title>
-<link>https://uwbadgers.com/news/2025/11/26/volleyball-no-10-badgers-tally-eighth-straight-victory</link>
-<guid isPermaLink='false'>bb53513ece6da190211d369a413a90ee358a9c0f</guid>
-<pubDate>Thu, 27 Nov 2025 03:33:00 +0000</pubDate>
-<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/26/VB-20251109-NU-STELTENPOHL--2.jpg" type="image/jpeg" />
-<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/26/VB-20251109-NU-STELTENPOHL--2.jpg" medium="image" />
-<description><![CDATA[<img alt="Charlie Fuerbringer celebrates after a point against Northwestern." src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/26/VB-20251109-NU-STELTENPOHL--2.jpg" /><br /><br />EVANSTON, Ill. - The No. 10 Wisconsin volleyball team notched its eighth victory in a row by defeating Northwestern on the road in four sets (25-18, 25-22, 20-25, 25-22) to kick off the final week of the regular season.]]></description>
-</item>
-<item>
 <title>UW News - Women&#x27;s Basketball: Starting Five: Badgers go to the beach</title>
 <link>https://uwbadgers.com/news/2025/11/26/badgers-go-to-the-beach</link>
 <guid isPermaLink='false'>b03fbdff05969ea56b71fd39270bc9d88ff46f83</guid>
@@ -532,6 +509,20 @@
 <guid isPermaLink='false'>e9af88e7c6290b2f9691ca85284c416ed4fe8275</guid>
 <pubDate>Fri, 21 Nov 2025 23:35:00 +0000</pubDate>
 <description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>Brewers News: Brewers, Bauers agree to deal; all 6 other eligible players tendered</title>
+<link>https://www.mlb.com/brewers/news/jake-bauers-brewers-1-year-deal-2026</link>
+<guid isPermaLink='false'>c518a1b3cfa8df227e5385c2d8a7032feba820a7</guid>
+<pubDate>Fri, 21 Nov 2025 23:30:36 +0000</pubDate>
+<description><![CDATA[Brewers, Bauers agree to deal; all 6 other eligible players tendered]]></description>
+</item>
+<item>
+<title>Brewers News: Big Woo and his &#x27;easy decision&#x27; to run it back in Milwaukee</title>
+<link>https://www.mlb.com/brewers/news/brandon-woodruff-discusses-accepting-brewers-qualifying-offer</link>
+<guid isPermaLink='false'>718fdd2eb00f320ff8f201e3413ed4fb95487b94</guid>
+<pubDate>Thu, 20 Nov 2025 14:21:26 +0000</pubDate>
+<description><![CDATA[Big Woo and his 'easy decision' to run it back in Milwaukee]]></description>
 </item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Wisconsin extinguishes UIC for fourth-straight win</title>
