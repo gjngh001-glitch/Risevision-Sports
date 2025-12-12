@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Thu, 11 Dec 2025 23:49:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Dec 2025 01:23:05 +0000</lastBuildDate>
+<item>
+<title>NBA - Live: Boston Celtics 21 @ Milwaukee Bucks 8 (6:29 - 1st)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401836747</link>
+<guid isPermaLink='false'>0f01a3eec7e56c4c00a84d3ed4f053355217b27f</guid>
+<pubDate>Fri, 12 Dec 2025 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Boston Celtics vs Milwaukee Bucks - 6:29 - 1st]]></description>
+</item>
 <item>
 <title>Brewers News: Crew adds outfield depth, agrees to deal with Baddoo</title>
 <link>https://www.mlb.com/brewers/news/akil-baddoo-deal-with-brewers</link>
@@ -150,13 +159,6 @@
 <guid isPermaLink='false'>26ff13af2d4bad9f4d39bda7f30d119f4d01a846</guid>
 <pubDate>Mon, 08 Dec 2025 22:43:00 +0000</pubDate>
 <description><![CDATA[Brewers named Baseball America's Org of Year for MLB-best 5th time]]></description>
-</item>
-<item>
-<title>Brewers News: Bid now on a Brice Turang autographed jersey -- and support a great cause</title>
-<link>https://www.mlb.com/brewers/news/2025-winter-meetings-charity-auction-to-support-little-league-disaster-relief-fund</link>
-<guid isPermaLink='false'>c5db591bfb29e6d9c55ae38c1fb922277bad57b4</guid>
-<pubDate>Mon, 08 Dec 2025 22:38:00 +0000</pubDate>
-<description><![CDATA[Bid now on a Brice Turang autographed jersey -- and support a great cause]]></description>
 </item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Blackwell named Big Ten Player of the Week</title>
@@ -523,6 +525,13 @@
 <guid isPermaLink='false'>c518a1b3cfa8df227e5385c2d8a7032feba820a7</guid>
 <pubDate>Fri, 21 Nov 2025 23:30:36 +0000</pubDate>
 <description><![CDATA[Brewers, Bauers agree to deal; all 6 other eligible players tendered]]></description>
+</item>
+<item>
+<title>Brewers News: Big Woo and his &#x27;easy decision&#x27; to run it back in Milwaukee</title>
+<link>https://www.mlb.com/brewers/news/brandon-woodruff-discusses-accepting-brewers-qualifying-offer</link>
+<guid isPermaLink='false'>718fdd2eb00f320ff8f201e3413ed4fb95487b94</guid>
+<pubDate>Thu, 20 Nov 2025 14:21:26 +0000</pubDate>
+<description><![CDATA[Big Woo and his 'easy decision' to run it back in Milwaukee]]></description>
 </item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Wisconsin extinguishes UIC for fourth-straight win</title>
