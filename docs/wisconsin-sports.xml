@@ -4,15 +4,24 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 14 Dec 2025 22:49:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Dec 2025 23:16:10 +0000</lastBuildDate>
 <item>
-<title>NFL - Live: Green Bay Packers 13 @ Denver Broncos 14 (0:17 - 2nd)</title>
+<title>NBA - Live: Milwaukee Bucks 12 @ Brooklyn Nets 12 (8:14 - 1st)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401836800</link>
+<guid isPermaLink='false'>331342ab0214334d89bd6c55375f6ad121c4d14c</guid>
+<pubDate>Sun, 14 Dec 2025 23:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" medium="image" />
+<description><![CDATA[Milwaukee Bucks vs Brooklyn Nets - 8:14 - 1st]]></description>
+</item>
+<item>
+<title>NFL - Live: Green Bay Packers 23 @ Denver Broncos 14 (13:10 - 3rd)</title>
 <link>https://www.espn.com/nfl/boxscore/_/gameId/401772800</link>
-<guid isPermaLink='false'>3a476bac7626a928ac83009343ec7fb317ef2c4b</guid>
+<guid isPermaLink='false'>1a6e91a86eeb5527bd55b9f973ea5b8143e4546b</guid>
 <pubDate>Sun, 14 Dec 2025 21:25:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png" medium="image" />
-<description><![CDATA[Green Bay Packers vs Denver Broncos - 0:17 - 2nd]]></description>
+<description><![CDATA[Green Bay Packers vs Denver Broncos - 13:10 - 3rd]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers add bullpen depth by acquiring Zerpa from Royals</title>
