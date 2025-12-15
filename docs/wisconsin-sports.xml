@@ -4,24 +4,33 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 14 Dec 2025 23:49:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 15 Dec 2025 01:25:37 +0000</lastBuildDate>
 <item>
-<title>NBA - Live: Milwaukee Bucks 31 @ Brooklyn Nets 50 (7:29 - 2nd)</title>
+<title>NCAAWV - Live: Wisconsin Badgers 1 @ Texas Longhorns 0 (2nd Set)</title>
+<link>https://www.espn.com/</link>
+<guid isPermaLink='false'>e94440c0a8d2b9d204390f0d9f0d2a1aa029f680</guid>
+<pubDate>Mon, 15 Dec 2025 00:30:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/251.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/251.png" medium="image" />
+<description><![CDATA[Wisconsin Badgers vs Texas Longhorns - 2nd Set]]></description>
+</item>
+<item>
+<title>NBA - Final: Milwaukee Bucks 82 @ Brooklyn Nets 127 (Final)</title>
 <link>https://www.espn.com/nba/boxscore/_/gameId/401836800</link>
-<guid isPermaLink='false'>1fe1f936d02c64e5420cfcb789ca852810203ba1</guid>
+<guid isPermaLink='false'>52c3c7c56f8b95cc8329e7e5b67f1021ef4d5e71</guid>
 <pubDate>Sun, 14 Dec 2025 23:00:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs Brooklyn Nets - 7:29 - 2nd]]></description>
+<description><![CDATA[Milwaukee Bucks vs Brooklyn Nets - Final]]></description>
 </item>
 <item>
-<title>NFL - Live: Green Bay Packers 23 @ Denver Broncos 21 (0:44 - 3rd)</title>
+<title>NFL - Final: Green Bay Packers 26 @ Denver Broncos 34 (Final)</title>
 <link>https://www.espn.com/nfl/boxscore/_/gameId/401772800</link>
-<guid isPermaLink='false'>73eac1f5cd59175005589dfcf45a1bee5ba36058</guid>
+<guid isPermaLink='false'>f26f18914137c0b247697af1a4e49b4071a21561</guid>
 <pubDate>Sun, 14 Dec 2025 21:25:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png" medium="image" />
-<description><![CDATA[Green Bay Packers vs Denver Broncos - 0:44 - 3rd]]></description>
+<description><![CDATA[Green Bay Packers vs Denver Broncos - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers add bullpen depth by acquiring Zerpa from Royals</title>
@@ -81,15 +90,6 @@
 <guid isPermaLink='false'>f5c29308830be5dd0f4d1155dc76fb305718e5d9</guid>
 <pubDate>Fri, 12 Dec 2025 03:42:37 +0000</pubDate>
 <description><![CDATA[Brewers' Schlesinger tabbed Executive of the Year by Business Journal]]></description>
-</item>
-<item>
-<title>NBA - Final: Boston Celtics 101 @ Milwaukee Bucks 116 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401836747</link>
-<guid isPermaLink='false'>b25eaac037edb90d44d314c162a6000353610ec9</guid>
-<pubDate>Fri, 12 Dec 2025 01:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Boston Celtics vs Milwaukee Bucks - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Crew adds outfield depth, agrees to deal with Baddoo</title>
