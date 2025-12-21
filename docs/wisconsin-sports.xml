@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 21 Dec 2025 01:28:30 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 03:17:04 +0000</lastBuildDate>
 <item>
-<title>NFL - Live: Green Bay Packers 0 @ Chicago Bears 0 (11:55 - 1st)</title>
+<title>Brewers News: The 10 biggest stories of an incredible 2025</title>
+<link>https://www.mlb.com/brewers/news/best-stories-in-major-league-baseball-in-2025</link>
+<guid isPermaLink='false'>0bde651c1541c01259260b9b643dcb7fe0b997d0</guid>
+<pubDate>Sun, 21 Dec 2025 02:10:06 +0000</pubDate>
+<description><![CDATA[The 10 biggest stories of an incredible 2025]]></description>
+</item>
+<item>
+<title>NFL - Live: Green Bay Packers 6 @ Chicago Bears 3 (4:15 - 3rd)</title>
 <link>https://www.espn.com/nfl/boxscore/_/gameId/401772613</link>
-<guid isPermaLink='false'>2e4c19dac98042360685b5e06f6affae296ad009</guid>
+<guid isPermaLink='false'>2eaac8b7d2034b40378042c25692a3a3cbf79202</guid>
 <pubDate>Sun, 21 Dec 2025 01:20:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png" medium="image" />
-<description><![CDATA[Green Bay Packers vs Chicago Bears - 11:55 - 1st]]></description>
+<description><![CDATA[Green Bay Packers vs Chicago Bears - 4:15 - 3rd]]></description>
 </item>
 <item>
 <title>Brewers News: Each team&#x27;s best single-game performance of &#x27;25</title>
@@ -466,13 +473,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/12/1/74d123e2-9d9e-488a-ab5f-5be6f1fe5a58thumbnail10899168322616210141.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/12/1/74d123e2-9d9e-488a-ab5f-5be6f1fe5a58thumbnail10899168322616210141.jpg" medium="image" />
 <description><![CDATA[<img alt="Nolan Winter fires pass against Providence" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/1/74d123e2-9d9e-488a-ab5f-5be6f1fe5a58thumbnail10899168322616210141.jpg" /><br /><br />]]></description>
-</item>
-<item>
-<title>Brewers News: Finding a perfect free-agent match for every team</title>
-<link>https://www.mlb.com/brewers/news/free-agent-match-for-every-team-2025-26</link>
-<guid isPermaLink='false'>2043ba52b329d85c12329aa00a0eb1abb6687fe6</guid>
-<pubDate>Mon, 01 Dec 2025 02:38:45 +0000</pubDate>
-<description><![CDATA[Finding a perfect free-agent match for every team]]></description>
 </item>
 <item>
 <title>UW News - Football: Wisconsin falls at Minnesota in season finale</title>
