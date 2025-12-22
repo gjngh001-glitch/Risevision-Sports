@@ -4,7 +4,23 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 21 Dec 2025 23:49:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Dec 2025 01:26:40 +0000</lastBuildDate>
+<item>
+<title>NBA - Live: Milwaukee Bucks 60 @ Minnesota Timberwolves 48 (Halftime)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810255</link>
+<guid isPermaLink='false'>ded4968f73a0af8495049b050097130c6afa8508</guid>
+<pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png" medium="image" />
+<description><![CDATA[Milwaukee Bucks vs Minnesota Timberwolves - Halftime]]></description>
+</item>
+<item>
+<title>Brewers News: 9 farm systems that improved the most in 2025</title>
+<link>https://www.mlb.com/brewers/news/mlb-most-improved-farm-systems-2025</link>
+<guid isPermaLink='false'>f97cc929fd35b8d6f84f0b2b4c0247565c738357</guid>
+<pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+<description><![CDATA[9 farm systems that improved the most in 2025]]></description>
+</item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Badgers tame Jaguars in final non-conference battle</title>
 <link>https://uwbadgers.com/news/2025/12/21/womens-basketball-badgers-tame-jaguars-in-final-non-conference-battle</link>
@@ -81,24 +97,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/12/18/DSC02171_zmd0L.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/12/18/DSC02171_zmd0L.jpg" medium="image" />
 <description><![CDATA[<img alt="Badgers gather after a rally in the NCAA National Semifinal." src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/18/DSC02171_zmd0L.jpg" /><br /><br />KANSAS CITY, Mo. - The No. 3 Wisconsin volleyball team saw their season come to a conclusion in the NCAA National Semifinals versus No. 1 Kentucky (25-12, 22-25, 25-21, 24-26, 13-15) in a five-set thriller.]]></description>
-</item>
-<item>
-<title>NCAAWV - Final: Wisconsin Badgers 2 @ Kentucky Wildcats 3 (Final)</title>
-<link>https://www.espn.com/</link>
-<guid isPermaLink='false'>190c867fdfac30bab33ec1de3a032167488ac317</guid>
-<pubDate>Fri, 19 Dec 2025 02:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/96.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/96.png" medium="image" />
-<description><![CDATA[Wisconsin Badgers vs Kentucky Wildcats - Final]]></description>
-</item>
-<item>
-<title>NBA - Final: Toronto Raptors 111 @ Milwaukee Bucks 105 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401810229</link>
-<guid isPermaLink='false'>f8ea1ca2a581a7ceab1196dfab61e4c570c6429d</guid>
-<pubDate>Fri, 19 Dec 2025 01:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Toronto Raptors vs Milwaukee Bucks - Final]]></description>
 </item>
 <item>
 <title>Brewers News: How the 2025 Crew paid it forward in the community</title>
@@ -441,13 +439,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/11/250906FB-2232-86-Lance_Mason.JPG" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/11/11/250906FB-2232-86-Lance_Mason.JPG" medium="image" />
 <description><![CDATA[<img alt="Wisconsin Badgers tight end Lance Mason (86) carries the ball during an NCAA college football game against the Middle Tennessee Blue Raiders, Sat., Sept. 6, 2025, in Madison, Wis. The Badgers won 42-10. (Photo by David Stluka/Wisconsin Athletic Communications)" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/11/11/250906FB-2232-86-Lance_Mason.JPG" /><br /><br />Mason landed on the All-Big Ten Second Team]]></description>
-</item>
-<item>
-<title>Brewers News: Here are 30 Rule 5 candidates -- one from each club</title>
-<link>https://www.mlb.com/brewers/news/mlb-rule-5-draft-candidates-from-each-club-2025</link>
-<guid isPermaLink='false'>0e4b5b43fa233e3f14746b0b75b241b934a35696</guid>
-<pubDate>Thu, 04 Dec 2025 16:15:00 +0000</pubDate>
-<description><![CDATA[Here are 30 Rule 5 candidates -- one from each club]]></description>
 </item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Badgers thwart Northwestern to open Big Ten action</title>
