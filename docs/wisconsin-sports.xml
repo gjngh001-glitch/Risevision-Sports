@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 24 Dec 2025 01:22:15 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Dec 2025 03:09:10 +0000</lastBuildDate>
 <item>
-<title>NBA - Live: Milwaukee Bucks 41 @ Indiana Pacers 28 (7:35 - 2nd)</title>
+<title>Brewers News: Revisiting every team&#x27;s best win in 2025</title>
+<link>https://www.mlb.com/brewers/news/each-mlb-team-s-best-win-in-2025</link>
+<guid isPermaLink='false'>7f61d9e306718eaca26aeca556f5e356518adcd0</guid>
+<pubDate>Wed, 24 Dec 2025 02:07:35 +0000</pubDate>
+<description><![CDATA[Revisiting every team's best win in 2025]]></description>
+</item>
+<item>
+<title>NBA - Final: Milwaukee Bucks 111 @ Indiana Pacers 94 (Final)</title>
 <link>https://www.espn.com/nba/boxscore/_/gameId/401810268</link>
-<guid isPermaLink='false'>3ba1899fa95c5156412fbd9ff9209e90aba5dbdc</guid>
+<guid isPermaLink='false'>a2fa66090bf4ef97f44ee5bc11ea9cffb5f0ed11</guid>
 <pubDate>Wed, 24 Dec 2025 00:30:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs Indiana Pacers - 7:35 - 2nd]]></description>
+<description><![CDATA[Milwaukee Bucks vs Indiana Pacers - Final]]></description>
 </item>
 <item>
 <title>UW News - Football: Wisconsin adds Robert Steeples to staff</title>
@@ -421,13 +428,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/12/7/WBB-20251207-MSU-KROMKE-035.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/12/7/WBB-20251207-MSU-KROMKE-035.jpg" medium="image" />
 <description><![CDATA[<img alt="WBB vs Michigan State " src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/7/WBB-20251207-MSU-KROMKE-035.jpg" /><br /><br />Badgers earn first ranked win since 2023]]></description>
-</item>
-<item>
-<title>Brewers News: Each team&#x27;s biggest need entering the Winter Meetings</title>
-<link>https://www.mlb.com/brewers/news/each-team-s-biggest-need-entering-2025-winter-meetings</link>
-<guid isPermaLink='false'>a3605baf3f31d2808d35fd14efac24b8a4252a4e</guid>
-<pubDate>Sun, 07 Dec 2025 02:14:50 +0000</pubDate>
-<description><![CDATA[Each team's biggest need entering the Winter Meetings]]></description>
 </item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Badgers blow by Marquette, 96-76</title>
