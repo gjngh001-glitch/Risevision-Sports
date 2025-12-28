@@ -4,7 +4,32 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 27 Dec 2025 23:49:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 01:41:31 +0000</lastBuildDate>
+<item>
+<title>NFL - Live: Baltimore Ravens 7 @ Green Bay Packers 7 (14:28 - 2nd)</title>
+<link>https://www.espn.com/nfl/boxscore/_/gameId/401772953</link>
+<guid isPermaLink='false'>15235e8de7a152ec65d44becbab5fb386684f455</guid>
+<pubDate>Sun, 28 Dec 2025 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png" medium="image" />
+<description><![CDATA[Baltimore Ravens vs Green Bay Packers - 14:28 - 2nd]]></description>
+</item>
+<item>
+<title>NBA - Live: Milwaukee Bucks 34 @ Chicago Bulls 29 (9:40 - 2nd)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810292</link>
+<guid isPermaLink='false'>20a93ffe12dd9bb4489bb66317046440d3f90390</guid>
+<pubDate>Sun, 28 Dec 2025 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png" medium="image" />
+<description><![CDATA[Milwaukee Bucks vs Chicago Bulls - 9:40 - 2nd]]></description>
+</item>
+<item>
+<title>Brewers News: A 2026 bounce-back candidate for each team</title>
+<link>https://www.mlb.com/brewers/news/2026-mlb-bounce-back-candidates-for-every-team</link>
+<guid isPermaLink='false'>4296471a089706b33026152a101f7a29f477dff4</guid>
+<pubDate>Sun, 28 Dec 2025 00:30:00 +0000</pubDate>
+<description><![CDATA[A 2026 bounce-back candidate for each team]]></description>
+</item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Starting Five: Badgers head east for first Big Ten road trip</title>
 <link>https://uwbadgers.com/news/2025/12/27/womens-basketball-starting-five-badgers-head-east-for-first-big-ten-road-trips</link>
@@ -367,13 +392,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/12/10/WBB-20251210-SD-KROMKE-019_FDc8u.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/12/10/WBB-20251210-SD-KROMKE-019_FDc8u.jpg" medium="image" />
 <description><![CDATA[<img alt="Breauna Ware dribbles up the floor against San Diego" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/10/WBB-20251210-SD-KROMKE-019_FDc8u.jpg" /><br /><br />Thanks to 42 points off the bench, the Wisconsin women's basketball team beat San Diego 75-46 on Wednesday at the Kohl Center.]]></description>
-</item>
-<item>
-<title>Brewers News: Next step in Turang&#x27;s ascent? Joining Team USA for Classic</title>
-<link>https://www.mlb.com/brewers/news/brice-turang-joins-team-usa-for-2026-world-baseball-classic</link>
-<guid isPermaLink='false'>481ed078b6db5bb4693574c09163649b9ac0550f</guid>
-<pubDate>Tue, 09 Dec 2025 22:35:35 +0000</pubDate>
-<description><![CDATA[Contreras, Chourio, Durbin among Brewers who may potentially join WBC rosters]]></description>
 </item>
 <item>
 <title>UW News - Football: Montee Ball inducted into College Football Hall of Fame</title>
