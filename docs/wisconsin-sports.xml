@@ -4,15 +4,33 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 03 Jan 2026 01:20:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 03:06:21 +0000</lastBuildDate>
 <item>
-<title>NBA - Live: Charlotte Hornets 15 @ Milwaukee Bucks 15 (6:42 - 1st)</title>
+<title>NBA - Live: Charlotte Hornets 102 @ Milwaukee Bucks 102 (6:48 - 4th)</title>
 <link>https://www.espn.com/nba/boxscore/_/gameId/401810336</link>
-<guid isPermaLink='false'>2e6009835d4c20d6a695b1c9dd66db22a2d47500</guid>
+<guid isPermaLink='false'>0c7eeb0282a940f70250a8a4039244946fa01bce</guid>
 <pubDate>Sat, 03 Jan 2026 01:00:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Charlotte Hornets vs Milwaukee Bucks - 6:42 - 1st]]></description>
+<description><![CDATA[Charlotte Hornets vs Milwaukee Bucks - 6:48 - 4th]]></description>
+</item>
+<item>
+<title>NCAAW - Final: Robert Morris Colonials 62 @ Milwaukee Panthers 52 (Final)</title>
+<link>https://www.espn.com/womens-college-basketball/boxscore/_/gameId/401817715</link>
+<guid isPermaLink='false'>cedda3c5cb9690ef5c837fc235a4d88ec7ee0183</guid>
+<pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/270.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/270.png" medium="image" />
+<description><![CDATA[Robert Morris Colonials vs Milwaukee Panthers - Final]]></description>
+</item>
+<item>
+<title>NCAAW - Final: Cleveland State Vikings 55 @ Green Bay Phoenix 58 (Final)</title>
+<link>https://www.espn.com/womens-college-basketball/boxscore/_/gameId/401817714</link>
+<guid isPermaLink='false'>bfab2f7230562a8b38a3704e443fe85af8b68bc0</guid>
+<pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/2739.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/2739.png" medium="image" />
+<description><![CDATA[Cleveland State Vikings vs Green Bay Phoenix - Final]]></description>
 </item>
 <item>
 <title>UW News - Volleyball: Booth signs with Italian Serie A1 League</title>
