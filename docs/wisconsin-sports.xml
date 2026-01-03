@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Fri, 02 Jan 2026 23:49:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 01:20:41 +0000</lastBuildDate>
+<item>
+<title>NBA - Live: Charlotte Hornets 15 @ Milwaukee Bucks 15 (6:42 - 1st)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810336</link>
+<guid isPermaLink='false'>2e6009835d4c20d6a695b1c9dd66db22a2d47500</guid>
+<pubDate>Sat, 03 Jan 2026 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Charlotte Hornets vs Milwaukee Bucks - 6:42 - 1st]]></description>
+</item>
 <item>
 <title>UW News - Volleyball: Booth signs with Italian Serie A1 League</title>
 <link>https://uwbadgers.com/news/2026/1/2/volleyball-booth-signs-with-italian-serie-a1-league</link>
@@ -97,15 +106,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/12/30/DSC03324.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/12/30/DSC03324.jpg" medium="image" />
 <description><![CDATA[<img alt="Rohde nails 3 against UWM" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/30/DSC03324.jpg" /><br /><br />The Wisconsin men's basketball team topped UW-Milwaukee 80-60 to round out the regular season non-conference slate on Tuesday at the Kohl Center.]]></description>
-</item>
-<item>
-<title>NCAAW - Final: Green Bay Phoenix 89 @ Wright State Raiders 55 (Final)</title>
-<link>https://www.espn.com/womens-college-basketball/boxscore/_/gameId/401817710</link>
-<guid isPermaLink='false'>31690845bb0d24d69d688ffa18b2a13bdd29fb9b</guid>
-<pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/2750.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/2750.png" medium="image" />
-<description><![CDATA[Green Bay Phoenix vs Wright State Raiders - Final]]></description>
 </item>
 <item>
 <title>Brewers News: 1 breakout candidate for each MLB team in 2026</title>
