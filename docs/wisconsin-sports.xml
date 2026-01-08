@@ -4,7 +4,7 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 07 Jan 2026 23:51:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 01:25:57 +0000</lastBuildDate>
 <item>
 <title>UW News - Volleyball: Colyer Named CWSA Honda Cup Finalist</title>
 <link>https://uwbadgers.com/news/2026/1/7/volleyball-colyer-named-cwsa-honda-cup-finalist</link>
@@ -105,15 +105,6 @@
 <description><![CDATA[Kurtz and then ... ? Ranking the top 25 rookies of 2025]]></description>
 </item>
 <item>
-<title>NBA - Final: Milwaukee Bucks 115 @ Sacramento Kings 98 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401810355</link>
-<guid isPermaLink='false'>cf08a3df5d86720c829b49f8fad856be737d8e94</guid>
-<pubDate>Mon, 05 Jan 2026 02:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs Sacramento Kings - Final]]></description>
-</item>
-<item>
 <title>UW News - Women&#x27;s Basketball: Badgers claim 74-73 comeback win over Penn State, remain undefeated at home</title>
 <link>https://uwbadgers.com/news/2026/1/4/womens-basketball-badgers-claim-74-73-comeback-win-over-penn-state-remain-undefeated-at-home</link>
 <guid isPermaLink='false'>05e2871ed976f7a336041f31fab554c9ee935384</guid>
@@ -130,15 +121,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/1/4/DSC03507.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/1/4/DSC03507.jpg" medium="image" />
 <description><![CDATA[<img alt="Nick Boyd crowd pumps against No. 5 Purdue" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/4/DSC03507.jpg" /><br /><br />The Wisconsin men's basketball team looks to bounce back against UCLA on Tuesday at the Kohl Center.]]></description>
-</item>
-<item>
-<title>NFL - Final: Green Bay Packers 3 @ Minnesota Vikings 16 (Final)</title>
-<link>https://www.espn.com/nfl/boxscore/_/gameId/401772968</link>
-<guid isPermaLink='false'>75ea39e09fdad75abff242758a8e3ec0f8b3a23f</guid>
-<pubDate>Sun, 04 Jan 2026 18:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png" medium="image" />
-<description><![CDATA[Green Bay Packers vs Minnesota Vikings - Final]]></description>
 </item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Badgers fall to No. 5 Purdue</title>
