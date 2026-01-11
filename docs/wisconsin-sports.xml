@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 10 Jan 2026 23:50:24 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Jan 2026 01:42:31 +0000</lastBuildDate>
+<item>
+<title>NFL - Live: Green Bay Packers 7 @ Chicago Bears 3 (15:00 - 2nd)</title>
+<link>https://www.espn.com/nfl/boxscore/_/gameId/401772981</link>
+<guid isPermaLink='false'>7f1e1eb2d3e3f8f7844937705254244537d964bf</guid>
+<pubDate>Sun, 11 Jan 2026 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png" medium="image" />
+<description><![CDATA[Green Bay Packers vs Chicago Bears - 15:00 - 2nd]]></description>
+</item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Badgers take down No. 2 Michigan in thriller</title>
 <link>https://uwbadgers.com/news/2026/1/10/mens-basketball-badgers-take-down-no-2-michigan-in-thriller</link>
@@ -88,15 +97,6 @@
 <guid isPermaLink='false'>de9bafa81d205e951c46c7dbde4c450342b3f532</guid>
 <pubDate>Thu, 08 Jan 2026 14:32:31 +0000</pubDate>
 <description><![CDATA[Vogey shares his thoughts about his new coaching gig]]></description>
-</item>
-<item>
-<title>NBA - Final: Milwaukee Bucks 113 @ Golden State Warriors 120 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401810381</link>
-<guid isPermaLink='false'>e28dde28f45913d9ca667d2ffe10ab925204c6b2</guid>
-<pubDate>Thu, 08 Jan 2026 03:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs Golden State Warriors - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Baseball execs reveal which prospects have the top tools</title>
