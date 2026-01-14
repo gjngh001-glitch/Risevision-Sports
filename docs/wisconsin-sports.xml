@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 13 Jan 2026 23:50:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 01:28:45 +0000</lastBuildDate>
+<item>
+<title>NBA - Live: Minnesota Timberwolves 22 @ Milwaukee Bucks 15 (3:34 - 1st)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810421</link>
+<guid isPermaLink='false'>f8bf187ed379db5b6164ba6fb562623493a8c2a0</guid>
+<pubDate>Wed, 14 Jan 2026 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Minnesota Timberwolves vs Milwaukee Bucks - 3:34 - 1st]]></description>
+</item>
 <item>
 <title>Brewers News: Brewers’ Top 5 right fielders: McCalvy&#x27;s take</title>
 <link>https://www.mlb.com/brewers/news/brewers-right-fielders-all-time-ranking</link>
@@ -88,15 +97,6 @@
 <description><![CDATA[<img alt="Badgers lift BC" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/10/833be642-fe3a-4b58-9422-9ef6f376d1b8thumbnail1698468984999741137.jpg" /><br /><br />The Wisconsin men's basketball team looks to keep their forward momentum with a rivalry matchup against Minnesota on Tuesday at the Williams Arena in the Twin Cities.]]></description>
 </item>
 <item>
-<title>NFL - Final: Green Bay Packers 27 @ Chicago Bears 31 (Final)</title>
-<link>https://www.espn.com/nfl/boxscore/_/gameId/401772981</link>
-<guid isPermaLink='false'>b3c7f8da69c9e17d39dd3d91ab52ef1f323753f1</guid>
-<pubDate>Sun, 11 Jan 2026 01:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png" medium="image" />
-<description><![CDATA[Green Bay Packers vs Chicago Bears - Final]]></description>
-</item>
-<item>
 <title>UW News - Men&#x27;s Basketball: Badgers take down No. 2 Michigan in thriller</title>
 <link>https://uwbadgers.com/news/2026/1/10/mens-basketball-badgers-take-down-no-2-michigan-in-thriller</link>
 <guid isPermaLink='false'>079401d50c8957a817567ea90d06684e181a4b62</guid>
@@ -104,15 +104,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/1/10/DSC00041.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/1/10/DSC00041.jpg" medium="image" />
 <description><![CDATA[<img alt="Nick Boyd crowd pumps against Michigan" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/10/DSC00041.jpg" /><br /><br />The Wisconsin men's basketball team overcame a 14-point first half deficit to upset No. 2 Michigan, 91-88, at the Crisler Center in Ann Arbor on Saturday]]></description>
-</item>
-<item>
-<title>NCAAM - Final: Wisconsin Badgers 91 @ Michigan Wolverines 88 (Final)</title>
-<link>https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401825432</link>
-<guid isPermaLink='false'>756d979a4e4ca37d4ecab9bb6450bd57fad0d738</guid>
-<pubDate>Sat, 10 Jan 2026 18:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/130.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/130.png" medium="image" />
-<description><![CDATA[Wisconsin Badgers vs Michigan Wolverines - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Crew reaches deal with Turang, potentially heads to hearing with Contreras</title>
