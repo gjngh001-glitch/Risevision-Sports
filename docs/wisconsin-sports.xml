@@ -4,7 +4,7 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 14 Jan 2026 23:50:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Jan 2026 01:24:12 +0000</lastBuildDate>
 <item>
 <title>Brewers News: Here are each team&#x27;s first workout dates of Spring Training 2026</title>
 <link>https://www.mlb.com/brewers/news/spring-training-2026-first-workout-dates</link>
@@ -100,15 +100,6 @@
 <description><![CDATA[Get to know the Brewers' 2026 non-roster invitees]]></description>
 </item>
 <item>
-<title>NBA - Final: Milwaukee Bucks 104 @ Denver Nuggets 108 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401810409</link>
-<guid isPermaLink='false'>1570eef246ba1fe124bd55cf49ac5372dc0cba4e</guid>
-<pubDate>Mon, 12 Jan 2026 01:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs Denver Nuggets - Final]]></description>
-</item>
-<item>
 <title>UW News - Women&#x27;s Basketball: Badgers fall to No. 9 Michigan, 86-60</title>
 <link>https://uwbadgers.com/news/2026/1/11/womens-basketball-badgers-fall-to-michigan-86-60</link>
 <guid isPermaLink='false'>bc2e4c5bd5dd6cfeea641614b9e01468a9045b06</guid>
@@ -116,15 +107,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/1/11/fdb70be6-9e76-45d3-9478-d18824007a09Michigan-32.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/1/11/fdb70be6-9e76-45d3-9478-d18824007a09Michigan-32.jpg" medium="image" />
 <description><![CDATA[<img alt="WBB @ Michigan " src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/11/fdb70be6-9e76-45d3-9478-d18824007a09Michigan-32.jpg" /><br /><br />Wisconsin unable to overcome a strong first-half surge by the Wolverines]]></description>
-</item>
-<item>
-<title>NCAAW - Final: Wisconsin Badgers 60 @ Michigan Wolverines 86 (Final)</title>
-<link>https://www.espn.com/womens-college-basketball/boxscore/_/gameId/401825266</link>
-<guid isPermaLink='false'>6eece042064fe314dcc242068102d5deada866aa</guid>
-<pubDate>Sun, 11 Jan 2026 19:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/130.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/130.png" medium="image" />
-<description><![CDATA[Wisconsin Badgers vs Michigan Wolverines - Final]]></description>
 </item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Five Things to Know: UW at Minnesota</title>
