@@ -4,7 +4,7 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Fri, 16 Jan 2026 15:21:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 15:45:46 +0000</lastBuildDate>
 <item>
 <title>Brewers News: Here are the Top 10 first base prospects for 2026</title>
 <link>https://www.mlb.com/brewers/news/top-10-first-base-prospects-for-2026</link>
@@ -36,6 +36,15 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png" medium="image" />
 <description><![CDATA[Milwaukee Bucks vs San Antonio Spurs - Final]]></description>
+</item>
+<item>
+<title>UW News - Men&#x27;s Basketball: Five Things To Know: Badgers return home to face Rutgers</title>
+<link>https://uwbadgers.com/news/2026/1/15/mens-basketball-five-things-to-know-badgers-return-home-to-face-rutgers</link>
+<guid isPermaLink='false'>b284e6835e0bc628c369891c268217783fcbb4c4</guid>
+<pubDate>Thu, 15 Jan 2026 23:40:00 +0000</pubDate>
+<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/1/14/DSC02632.jpg" type="image/jpeg" />
+<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/1/14/DSC02632.jpg" medium="image" />
+<description><![CDATA[<img alt="MBB at Minnesota" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/14/DSC02632.jpg" /><br /><br />]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers snap up three of the Top 50 international prospects</title>
@@ -374,15 +383,6 @@
 <guid isPermaLink='false'>b9eb0a40184d8e6a6425f9f8494c7734b527a880</guid>
 <pubDate>Wed, 31 Dec 2025 22:19:00 +0000</pubDate>
 <description><![CDATA[Every team's biggest question to answer before Spring Training]]></description>
-</item>
-<item>
-<title>UW News - Men&#x27;s Basketball: Badgers top Milwaukee, 80-60</title>
-<link>https://uwbadgers.com/news/2025/12/30/mens-basketball-badgers-top-milwaukee-80-60</link>
-<guid isPermaLink='false'>6b507be6721a85b529ed54fb99cd5fabfc5c7c99</guid>
-<pubDate>Wed, 31 Dec 2025 02:12:00 +0000</pubDate>
-<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/12/30/DSC03324.jpg" type="image/jpeg" />
-<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/12/30/DSC03324.jpg" medium="image" />
-<description><![CDATA[<img alt="Rohde nails 3 against UWM" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/12/30/DSC03324.jpg" /><br /><br />The Wisconsin men's basketball team topped UW-Milwaukee 80-60 to round out the regular season non-conference slate on Tuesday at the Kohl Center.]]></description>
 </item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Wisconsin drops to No. 7 Maryland</title>
