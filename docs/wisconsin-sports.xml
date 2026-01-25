@@ -4,7 +4,7 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 25 Jan 2026 22:17:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 22:43:49 +0000</lastBuildDate>
 <item>
 <title>NBA - Final: Dallas Mavericks 0 @ Milwaukee Bucks 0 (Postponed)</title>
 <link>https://www.espn.com/nba/game/_/gameId/401810507/mavericks-bucks</link>
@@ -15,13 +15,22 @@
 <description><![CDATA[Dallas Mavericks vs Milwaukee Bucks - Postponed]]></description>
 </item>
 <item>
-<title>NCAAM - Live: USC Trojans 44 @ Wisconsin Badgers 48 (13:25 - 2nd)</title>
+<title>UW News - Women&#x27;s Basketball: Badgers drop road contest to Golden Gophers</title>
+<link>https://uwbadgers.com/news/2026/1/25/womens-basketball-badgers-drop-road-contest-to-gophers-88-53</link>
+<guid isPermaLink='false'>52c3c1f4ad42252c0fbc6ae1dde702f32df7774b</guid>
+<pubDate>Sun, 25 Jan 2026 22:06:00 +0000</pubDate>
+<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/1/25/e1a3e905-066a-48cd-8c8f-3e29fc79ac35Minnesota-25.jpg" type="image/jpeg" />
+<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/1/25/e1a3e905-066a-48cd-8c8f-3e29fc79ac35Minnesota-25.jpg" medium="image" />
+<description><![CDATA[<img alt="wbb " src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/25/e1a3e905-066a-48cd-8c8f-3e29fc79ac35Minnesota-25.jpg" /><br /><br />Second half push not enough for Wisconsin]]></description>
+</item>
+<item>
+<title>NCAAM - Live: USC Trojans 62 @ Wisconsin Badgers 60 (4:52 - 2nd)</title>
 <link>https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401825471</link>
-<guid isPermaLink='false'>f217651c1063aacc6bcc7969170f964f49943f91</guid>
+<guid isPermaLink='false'>90fefc0876fd07ff48ccecae9661c0e20aa57c24</guid>
 <pubDate>Sun, 25 Jan 2026 21:00:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" medium="image" />
-<description><![CDATA[USC Trojans vs Wisconsin Badgers - 13:25 - 2nd]]></description>
+<description><![CDATA[USC Trojans vs Wisconsin Badgers - 4:52 - 2nd]]></description>
 </item>
 <item>
 <title>Brewers News: A closer look at each team&#x27;s Top 100 prospects</title>
@@ -446,15 +455,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/1/5/FB-20260102-Transfer_Signed_Website_Header.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/1/5/FB-20260102-Transfer_Signed_Website_Header.jpg" medium="image" />
 <description><![CDATA[<img alt="FB header" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/5/FB-20260102-Transfer_Signed_Website_Header.jpg" /><br /><br />Follow along as the Badgers sign players during the 2026 transfer portal window]]></description>
-</item>
-<item>
-<title>UW News - Women&#x27;s Basketball: Badgers claim 74-73 comeback win over Penn State, remain undefeated at home</title>
-<link>https://uwbadgers.com/news/2026/1/4/womens-basketball-badgers-claim-74-73-comeback-win-over-penn-state-remain-undefeated-at-home</link>
-<guid isPermaLink='false'>05e2871ed976f7a336041f31fab554c9ee935384</guid>
-<pubDate>Sun, 04 Jan 2026 23:40:00 +0000</pubDate>
-<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/1/4/Wbb-PSU-Jan4.png" type="image/jpeg" />
-<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/1/4/Wbb-PSU-Jan4.png" medium="image" />
-<description><![CDATA[<img alt="Women's basketball win over Penn State" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/1/4/Wbb-PSU-Jan4.png" /><br /><br />A back-and-forth game ended with an electric fourth-quarter comeback for the Badgers as the Wisconsin women's basketball team (11-4, 3-1 B1G) defeated the Penn State Nittany Lions (7-8, 0-4 B1G), 74-73, on Sunday afternoon at the Kohl Center to extend its home win streak to nine games.]]></description>
 </item>
 <item>
 <title>UW News - Volleyball: Booth signs with Italian Serie A1 League</title>
