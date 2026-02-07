@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Fri, 06 Feb 2026 23:57:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Feb 2026 02:10:13 +0000</lastBuildDate>
+<item>
+<title>NBA - Live: Indiana Pacers 47 @ Milwaukee Bucks 54 (Halftime)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810598</link>
+<guid isPermaLink='false'>f17fac049d14f028d35697a2c98dc074ef2cac35</guid>
+<pubDate>Sat, 07 Feb 2026 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Indiana Pacers vs Milwaukee Bucks - Halftime]]></description>
+</item>
 <item>
 <title>Brewers News: One intriguing prospect from each team who can make a run at an Opening Day spot</title>
 <link>https://www.mlb.com/brewers/news/prospects-who-can-compete-for-opening-day-spot-2026</link>
@@ -100,15 +109,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/4/MBB-20260126-Greg_Gard_Radio_Show_3-Web.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/4/MBB-20260126-Greg_Gard_Radio_Show_3-Web.jpg" medium="image" />
 <description><![CDATA[<img alt="Greg Gard Live Show - Feb. 11" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/4/MBB-20260126-Greg_Gard_Radio_Show_3-Web.jpg" /><br /><br />MADISON, Wis. – Fans are welcome to join the Badgers at Buck and Honey's on Wednesday, Feb. 11 for a live edition of the Greg Gard Show.]]></description>
-</item>
-<item>
-<title>NBA - Final: Chicago Bulls 115 @ Milwaukee Bucks 131 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401810577</link>
-<guid isPermaLink='false'>a3c5659da07e3226fe27668a8ff9e0a278913663</guid>
-<pubDate>Wed, 04 Feb 2026 01:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Chicago Bulls vs Milwaukee Bucks - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Reddit AMA: Gearing up for Brewers Spring Training</title>
