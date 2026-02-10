@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 10 Feb 2026 01:02:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Feb 2026 04:06:54 +0000</lastBuildDate>
 <item>
-<title>NBA - Live: Milwaukee Bucks 13 @ Orlando Magic 13 (3:20 - 1st)</title>
+<title>Brewers News: Here are the Top 100 prospects heading to big league camp</title>
+<link>https://www.mlb.com/brewers/news/top-100-prospects-in-big-league-spring-training-2026</link>
+<guid isPermaLink='false'>ce85f76fff5111e9cce36027156cd5fcc66ddc9a</guid>
+<pubDate>Tue, 10 Feb 2026 01:42:00 +0000</pubDate>
+<description><![CDATA[Here are the Top 100 prospects heading to big league camp]]></description>
+</item>
+<item>
+<title>NBA - Final: Milwaukee Bucks 99 @ Orlando Magic 118 (Final)</title>
 <link>https://www.espn.com/nba/boxscore/_/gameId/401810619</link>
-<guid isPermaLink='false'>ffcad3051c52d37f700a08d456c68d7367ae928c</guid>
+<guid isPermaLink='false'>8e0beae155071f5f24434a007ea07605f9ca3e51</guid>
 <pubDate>Tue, 10 Feb 2026 00:30:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs Orlando Magic - 3:20 - 1st]]></description>
+<description><![CDATA[Milwaukee Bucks vs Orlando Magic - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers add LHP Harrison, trade Durbin to Red Sox in 6-player swap</title>
@@ -20,13 +27,6 @@
 <guid isPermaLink='false'>ffc4d61250ce80df4d964931f17b1bcb05c3e1f2</guid>
 <pubDate>Mon, 09 Feb 2026 19:25:00 +0000</pubDate>
 <description><![CDATA[Brewers add LHP Harrison, trade Durbin to Red Sox in 6-player swap]]></description>
-</item>
-<item>
-<title>Brewers News: Here are the Top 100 prospects heading to big league camp</title>
-<link>https://www.mlb.com/brewers/news/top-100-prospects-in-big-league-spring-training-2026</link>
-<guid isPermaLink='false'>29ceb069dba06cb02c6c99ef50d6e1d903c35303</guid>
-<pubDate>Mon, 09 Feb 2026 18:30:00 +0000</pubDate>
-<description><![CDATA[Here are the Top 100 prospects heading to big league camp]]></description>
 </item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Wisconsin set to travel to Illinois</title>
