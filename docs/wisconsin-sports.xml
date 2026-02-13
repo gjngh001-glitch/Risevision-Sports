@@ -4,7 +4,25 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Thu, 12 Feb 2026 23:53:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Feb 2026 02:00:45 +0000</lastBuildDate>
+<item>
+<title>NBA - Live: Milwaukee Bucks 67 @ Oklahoma City Thunder 58 (10:57 - 3rd)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810644</link>
+<guid isPermaLink='false'>5b47dfac8c2ff84cfc28c3069e90ce897d72f9b0</guid>
+<pubDate>Fri, 13 Feb 2026 00:30:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png" medium="image" />
+<description><![CDATA[Milwaukee Bucks vs Oklahoma City Thunder - 10:57 - 3rd]]></description>
+</item>
+<item>
+<title>NCAAM - Final: Purdue Fort Wayne Mastodons 59 @ Green Bay Phoenix 76 (Final)</title>
+<link>https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401817661</link>
+<guid isPermaLink='false'>6d795b7941c48395b689eb6116526ed82f9db171</guid>
+<pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/2739.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/2739.png" medium="image" />
+<description><![CDATA[Purdue Fort Wayne Mastodons vs Green Bay Phoenix - Final]]></description>
+</item>
 <item>
 <title>Brewers News: Contreras agrees to 1-year deal with Crew to avoid arbitration</title>
 <link>https://www.mlb.com/brewers/news/william-contreras-brewers-avoid-arbitration</link>
@@ -130,15 +148,6 @@
 <guid isPermaLink='false'>ce85f76fff5111e9cce36027156cd5fcc66ddc9a</guid>
 <pubDate>Tue, 10 Feb 2026 01:42:00 +0000</pubDate>
 <description><![CDATA[Here are the Top 100 prospects heading to big league camp]]></description>
-</item>
-<item>
-<title>NBA - Final: Milwaukee Bucks 99 @ Orlando Magic 118 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401810619</link>
-<guid isPermaLink='false'>8e0beae155071f5f24434a007ea07605f9ca3e51</guid>
-<pubDate>Tue, 10 Feb 2026 00:30:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs Orlando Magic - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers add LHP Harrison, trade Durbin to Red Sox in 6-player swap</title>
