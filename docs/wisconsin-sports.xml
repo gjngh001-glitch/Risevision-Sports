@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Fri, 20 Feb 2026 23:51:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Feb 2026 01:48:00 +0000</lastBuildDate>
+<item>
+<title>NBA - Live: Milwaukee Bucks 50 @ New Orleans Pelicans 49 (6:32 - 2nd)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810662</link>
+<guid isPermaLink='false'>261e85b275377cf58094ac69c6a3c4cb7214f17a</guid>
+<pubDate>Sat, 21 Feb 2026 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png" medium="image" />
+<description><![CDATA[Milwaukee Bucks vs New Orleans Pelicans - 6:32 - 2nd]]></description>
+</item>
 <item>
 <title>Brewers News: Breaking down 3 priorities for Brewers as spring play begins</title>
 <link>https://www.mlb.com/brewers/news/brewers-prioritize-experimenting-with-abs-challenge-system-more-this-spring</link>
@@ -101,15 +110,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/17/RAD02792.JPG" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/17/RAD02792.JPG" medium="image" />
 <description><![CDATA[<img alt="Nick Boyd fast break" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/17/RAD02792.JPG" /><br /><br />The No. 24 Wisconsin men's basketball fell to Ohio State on Tuesday night at the Schottenstein Center.]]></description>
-</item>
-<item>
-<title>NCAAM - Final: Wisconsin Badgers 69 @ Ohio State Buckeyes 86 (Final)</title>
-<link>https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401825522</link>
-<guid isPermaLink='false'>4c4931a1727d25b8a31d1a3c6a28c60eb7ac63b4</guid>
-<pubDate>Wed, 18 Feb 2026 01:30:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/194.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/194.png" medium="image" />
-<description><![CDATA[Wisconsin Badgers vs Ohio State Buckeyes - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Here&#x27;s a fun fact for one Minor League team in every farm system</title>
