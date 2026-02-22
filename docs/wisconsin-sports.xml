@@ -4,24 +4,33 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 22 Feb 2026 20:23:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 20:50:01 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Kansas City Royals 0 @ Milwaukee Brewers 0 (End 1st)</title>
+<title>NBA - Live: Toronto Raptors 10 @ Milwaukee Bucks 11 (7:50 - 1st)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810674</link>
+<guid isPermaLink='false'>64fc6912f2059b6a0966144cc70a0b910931f51e</guid>
+<pubDate>Sun, 22 Feb 2026 20:30:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Toronto Raptors vs Milwaukee Bucks - 7:50 - 1st]]></description>
+</item>
+<item>
+<title>MLB - Live: Kansas City Royals 0 @ Milwaukee Brewers 0 (Bot 3rd)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401832919</link>
-<guid isPermaLink='false'>faea4ef67e80df0d788dcff132c3d11b21fa8da5</guid>
+<guid isPermaLink='false'>645b2af0f02734d375f2767a698d37564134af10</guid>
 <pubDate>Sun, 22 Feb 2026 20:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Kansas City Royals vs Milwaukee Brewers - End 1st]]></description>
+<description><![CDATA[Kansas City Royals vs Milwaukee Brewers - Bot 3rd]]></description>
 </item>
 <item>
-<title>MLB - Live: Milwaukee Brewers 1 @ Chicago White Sox 0 (Mid 1st)</title>
+<title>MLB - Live: Milwaukee Brewers 1 @ Chicago White Sox 1 (Bot 2nd)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401832914</link>
-<guid isPermaLink='false'>299f163b103361ec464044bd46fdf1f107b9fdaf</guid>
+<guid isPermaLink='false'>b0649038857adb9060e7b9c8558d6f509d422298</guid>
 <pubDate>Sun, 22 Feb 2026 20:05:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Chicago White Sox - Mid 1st]]></description>
+<description><![CDATA[Milwaukee Brewers vs Chicago White Sox - Bot 2nd]]></description>
 </item>
 <item>
 <title>Brewers News: Hockey gold medal game brings heartbreak, happiness to Brewers</title>
