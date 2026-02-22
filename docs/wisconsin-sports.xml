@@ -4,42 +4,51 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 22 Feb 2026 22:20:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 22:50:09 +0000</lastBuildDate>
 <item>
-<title>NCAAM - Live: Iowa Hawkeyes 44 @ Wisconsin Badgers 48 (17:04 - 2nd)</title>
+<title>NCAAW - Live: Wisconsin Badgers 11 @ UCLA Bruins 16 (3:06 - 1st)</title>
+<link>https://www.espn.com/womens-college-basketball/boxscore/_/gameId/401825363</link>
+<guid isPermaLink='false'>53091ea2cf90c154dd23be5161feaf596939553e</guid>
+<pubDate>Sun, 22 Feb 2026 22:30:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/26.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/26.png" medium="image" />
+<description><![CDATA[Wisconsin Badgers vs UCLA Bruins - 3:06 - 1st]]></description>
+</item>
+<item>
+<title>NCAAM - Live: Iowa Hawkeyes 65 @ Wisconsin Badgers 76 (4:38 - 2nd)</title>
 <link>https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401825535</link>
-<guid isPermaLink='false'>cb56197178cf2742534f411d6433cf2f85a6953f</guid>
+<guid isPermaLink='false'>8ffb5be9faaf809d176e3a7fe8d2517745928c3b</guid>
 <pubDate>Sun, 22 Feb 2026 21:00:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" medium="image" />
-<description><![CDATA[Iowa Hawkeyes vs Wisconsin Badgers - 17:04 - 2nd]]></description>
+<description><![CDATA[Iowa Hawkeyes vs Wisconsin Badgers - 4:38 - 2nd]]></description>
 </item>
 <item>
-<title>NBA - Live: Toronto Raptors 89 @ Milwaukee Bucks 69 (1:46 - 3rd)</title>
+<title>NBA - Live: Toronto Raptors 109 @ Milwaukee Bucks 89 (5:53 - 4th)</title>
 <link>https://www.espn.com/nba/boxscore/_/gameId/401810674</link>
-<guid isPermaLink='false'>d2562b28ce58945800bbae30f47ac884a74df3d2</guid>
+<guid isPermaLink='false'>a5b001c89308608c9aad023c8fddfc3cca4be941</guid>
 <pubDate>Sun, 22 Feb 2026 20:30:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Toronto Raptors vs Milwaukee Bucks - 1:46 - 3rd]]></description>
+<description><![CDATA[Toronto Raptors vs Milwaukee Bucks - 5:53 - 4th]]></description>
 </item>
 <item>
-<title>MLB - Live: Kansas City Royals 1 @ Milwaukee Brewers 1 (Top 8th)</title>
+<title>MLB - Live: Kansas City Royals 3 @ Milwaukee Brewers 1 (Top 9th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401832919</link>
-<guid isPermaLink='false'>7b4d892281985e353772b6b74972b9f8e214a3f3</guid>
+<guid isPermaLink='false'>d9764008129691ed30651a56fd6f1d211112a135</guid>
 <pubDate>Sun, 22 Feb 2026 20:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Kansas City Royals vs Milwaukee Brewers - Top 8th]]></description>
+<description><![CDATA[Kansas City Royals vs Milwaukee Brewers - Top 9th]]></description>
 </item>
 <item>
-<title>MLB - Live: Milwaukee Brewers 2 @ Chicago White Sox 4 (Top 7th)</title>
+<title>MLB - Live: Milwaukee Brewers 2 @ Chicago White Sox 5 (Top 9th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401832914</link>
-<guid isPermaLink='false'>00347649c762b4206e58d1f1673ea0f5565b3135</guid>
+<guid isPermaLink='false'>390836a6586a52d10a2c0e2630dc20132bda2900</guid>
 <pubDate>Sun, 22 Feb 2026 20:05:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Chicago White Sox - Top 7th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Chicago White Sox - Top 9th]]></description>
 </item>
 <item>
 <title>Brewers News: Hockey gold medal game brings heartbreak, happiness to Brewers</title>
