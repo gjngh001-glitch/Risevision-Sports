@@ -4,51 +4,58 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 22 Feb 2026 22:50:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 23:22:35 +0000</lastBuildDate>
 <item>
-<title>NCAAW - Live: Wisconsin Badgers 11 @ UCLA Bruins 16 (3:06 - 1st)</title>
+<title>Brewers News: After early MLB success, here&#x27;s how Henderson, Gasser have rebounded from injuries</title>
+<link>https://www.mlb.com/brewers/news/logan-henderson-robert-gasser-competing-brewers-rotation-spot</link>
+<guid isPermaLink='false'>473502a93c42539fabbae9c7f6bf77265ffecbc9</guid>
+<pubDate>Sun, 22 Feb 2026 23:09:39 +0000</pubDate>
+<description><![CDATA[After early MLB success, here's how Henderson, Gasser have rebounded from injuries]]></description>
+</item>
+<item>
+<title>NCAAW - Live: Wisconsin Badgers 29 @ UCLA Bruins 41 (Halftime)</title>
 <link>https://www.espn.com/womens-college-basketball/boxscore/_/gameId/401825363</link>
-<guid isPermaLink='false'>53091ea2cf90c154dd23be5161feaf596939553e</guid>
+<guid isPermaLink='false'>65dffd15c5958a64b400ad2e339f2810b88f97df</guid>
 <pubDate>Sun, 22 Feb 2026 22:30:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/26.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/26.png" medium="image" />
-<description><![CDATA[Wisconsin Badgers vs UCLA Bruins - 3:06 - 1st]]></description>
+<description><![CDATA[Wisconsin Badgers vs UCLA Bruins - Halftime]]></description>
 </item>
 <item>
-<title>NCAAM - Live: Iowa Hawkeyes 65 @ Wisconsin Badgers 76 (4:38 - 2nd)</title>
+<title>NCAAM - Final: Iowa Hawkeyes 71 @ Wisconsin Badgers 84 (Final)</title>
 <link>https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401825535</link>
-<guid isPermaLink='false'>8ffb5be9faaf809d176e3a7fe8d2517745928c3b</guid>
+<guid isPermaLink='false'>d0863272b3abd03a8e323682ecb1e35092f888ad</guid>
 <pubDate>Sun, 22 Feb 2026 21:00:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/275.png" medium="image" />
-<description><![CDATA[Iowa Hawkeyes vs Wisconsin Badgers - 4:38 - 2nd]]></description>
+<description><![CDATA[Iowa Hawkeyes vs Wisconsin Badgers - Final]]></description>
 </item>
 <item>
-<title>NBA - Live: Toronto Raptors 109 @ Milwaukee Bucks 89 (5:53 - 4th)</title>
+<title>NBA - Final: Toronto Raptors 122 @ Milwaukee Bucks 94 (Final)</title>
 <link>https://www.espn.com/nba/boxscore/_/gameId/401810674</link>
-<guid isPermaLink='false'>a5b001c89308608c9aad023c8fddfc3cca4be941</guid>
+<guid isPermaLink='false'>5d8c97adf5cffd6b0b5c9d5c870b7f3c5e9f1560</guid>
 <pubDate>Sun, 22 Feb 2026 20:30:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Toronto Raptors vs Milwaukee Bucks - 5:53 - 4th]]></description>
+<description><![CDATA[Toronto Raptors vs Milwaukee Bucks - Final]]></description>
 </item>
 <item>
-<title>MLB - Live: Kansas City Royals 3 @ Milwaukee Brewers 1 (Top 9th)</title>
+<title>MLB - Final: Kansas City Royals 7 @ Milwaukee Brewers 3 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401832919</link>
-<guid isPermaLink='false'>d9764008129691ed30651a56fd6f1d211112a135</guid>
+<guid isPermaLink='false'>eeadec9bf4bf2838d82e43980259353ae28db7ca</guid>
 <pubDate>Sun, 22 Feb 2026 20:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Kansas City Royals vs Milwaukee Brewers - Top 9th]]></description>
+<description><![CDATA[Kansas City Royals vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
-<title>MLB - Live: Milwaukee Brewers 2 @ Chicago White Sox 5 (Top 9th)</title>
+<title>MLB - Final: Milwaukee Brewers 2 @ Chicago White Sox 5 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401832914</link>
-<guid isPermaLink='false'>390836a6586a52d10a2c0e2630dc20132bda2900</guid>
+<guid isPermaLink='false'>685e893b46a4e223841fd68b1fc2f232fe653265</guid>
 <pubDate>Sun, 22 Feb 2026 20:05:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Chicago White Sox - Top 9th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Chicago White Sox - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Hockey gold medal game brings heartbreak, happiness to Brewers</title>
@@ -288,13 +295,6 @@
 <guid isPermaLink='false'>a36e2a566748282ccb50ad67c85dc44d85e74075</guid>
 <pubDate>Sat, 14 Feb 2026 18:19:00 +0000</pubDate>
 <description><![CDATA[Latest Brewers injuries & transactions]]></description>
-</item>
-<item>
-<title>Brewers News: Brewers reunite with slugger Gary Sánchez</title>
-<link>https://www.mlb.com/brewers/news/gary-sanchez-brewers-contract-2026</link>
-<guid isPermaLink='false'>7393d157d75f2ff5546d80c3cf1d3e2920ecc08f</guid>
-<pubDate>Sat, 14 Feb 2026 18:17:00 +0000</pubDate>
-<description><![CDATA[Brewers reunite with slugger Gary Sánchez]]></description>
 </item>
 <item>
 <title>Brewers News: 3 key trades bring 6 new faces to Brewers Spring Training</title>
