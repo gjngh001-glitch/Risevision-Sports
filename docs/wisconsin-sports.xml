@@ -4,7 +4,32 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 22 Feb 2026 19:54:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 20:23:09 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Kansas City Royals 0 @ Milwaukee Brewers 0 (End 1st)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401832919</link>
+<guid isPermaLink='false'>faea4ef67e80df0d788dcff132c3d11b21fa8da5</guid>
+<pubDate>Sun, 22 Feb 2026 20:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Kansas City Royals vs Milwaukee Brewers - End 1st]]></description>
+</item>
+<item>
+<title>MLB - Live: Milwaukee Brewers 1 @ Chicago White Sox 0 (Mid 1st)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401832914</link>
+<guid isPermaLink='false'>299f163b103361ec464044bd46fdf1f107b9fdaf</guid>
+<pubDate>Sun, 22 Feb 2026 20:05:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Chicago White Sox - Mid 1st]]></description>
+</item>
+<item>
+<title>Brewers News: Hockey gold medal game brings heartbreak, happiness to Brewers</title>
+<link>https://www.mlb.com/brewers/news/brewers-divided-by-olympics-hockey-gold-medal-game</link>
+<guid isPermaLink='false'>30577a5c9b9212627a475e3476b58878200ecb1e</guid>
+<pubDate>Sun, 22 Feb 2026 19:52:05 +0000</pubDate>
+<description><![CDATA[Hockey gold medal game brings heartbreak, happiness to Brewers]]></description>
+</item>
 <item>
 <title>Brewers News: Slugging prospect Fischer among intriguing new players to watch at the Classic</title>
 <link>https://www.mlb.com/brewers/news/players-with-statcast-data-to-watch-world-baseball-classic-2026</link>
@@ -181,13 +206,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/17/VB-20260216-USA_VB_Development_Program-16x9-2.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/17/VB-20260216-USA_VB_Development_Program-16x9-2.jpg" medium="image" />
 <description><![CDATA[<img alt="VB 26 NTDP V3" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/17/VB-20260216-USA_VB_Development_Program-16x9-2.jpg" /><br /><br />MADISON, Wis. – Six Badgers on the Wisconsin volleyball team are headed to Colorado Springs for the 2026 Women's National Team Collegiate Training at the U.S. Olympic & Paralympic Training Center from February 19-22.]]></description>
-</item>
-<item>
-<title>Brewers News: Versatile Rengifo ready to contribute in any way for Crew</title>
-<link>https://www.mlb.com/brewers/news/luis-rengifo-brewers-contract</link>
-<guid isPermaLink='false'>0b94a4424ab2983e01ad4372ebd8329a400d66d6</guid>
-<pubDate>Tue, 17 Feb 2026 16:08:00 +0000</pubDate>
-<description><![CDATA[Versatile Rengifo ready to contribute in any way for Crew]]></description>
 </item>
 <item>
 <title>Brewers News: Players with the most to prove for each team this spring</title>
