@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Mon, 23 Feb 2026 22:01:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Feb 2026 23:00:13 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 4 @ San Diego Padres 1 (Mid 6th)</title>
+<title>Brewers News: Brewers get firsthand look at details behind ABS system</title>
+<link>https://www.mlb.com/brewers/news/brewers-get-measured-for-abs-challenge-system</link>
+<guid isPermaLink='false'>98dd62a2ab359651254c79fc6efe7cda976a3b4f</guid>
+<pubDate>Mon, 23 Feb 2026 22:07:31 +0000</pubDate>
+<description><![CDATA[Brewers get firsthand look at details behind ABS system]]></description>
+</item>
+<item>
+<title>MLB - Live: Milwaukee Brewers 5 @ San Diego Padres 6 (Bot 8th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401832934</link>
-<guid isPermaLink='false'>dcd71ce9fc40d7d7133cdb075142a9de486e86ab</guid>
+<guid isPermaLink='false'>7071555433aaf8d2a4d349918669a03ef36d9dda</guid>
 <pubDate>Mon, 23 Feb 2026 20:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs San Diego Padres - Mid 6th]]></description>
+<description><![CDATA[Milwaukee Brewers vs San Diego Padres - Bot 8th]]></description>
 </item>
 <item>
 <title>Brewers News: 1 dark horse candidate for each team&#x27;s Opening Day roster</title>
@@ -274,13 +281,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/17/VB-20260216-USA_VB_Development_Program-16x9-2.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/17/VB-20260216-USA_VB_Development_Program-16x9-2.jpg" medium="image" />
 <description><![CDATA[<img alt="VB 26 NTDP V3" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/17/VB-20260216-USA_VB_Development_Program-16x9-2.jpg" /><br /><br />MADISON, Wis. – Six Badgers on the Wisconsin volleyball team are headed to Colorado Springs for the 2026 Women's National Team Collegiate Training at the U.S. Olympic & Paralympic Training Center from February 19-22.]]></description>
-</item>
-<item>
-<title>Brewers News: Players with the most to prove for each team this spring</title>
-<link>https://www.mlb.com/brewers/news/mlb-players-with-most-to-prove-in-2026-spring-training</link>
-<guid isPermaLink='false'>8f49c6460a6050bc506421515bdacaa1317daf22</guid>
-<pubDate>Tue, 17 Feb 2026 15:55:00 +0000</pubDate>
-<description><![CDATA[Players with the most to prove for each team this spring]]></description>
 </item>
 <item>
 <title>Brewers News: &#x27;Same story every year&#x27;: Yelich, Crew out to prove naysayers wrong, as usual</title>
