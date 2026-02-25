@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 25 Feb 2026 21:48:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Feb 2026 22:30:31 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: San Francisco Giants 8 @ Milwaukee Brewers 8 (Bot 4th)</title>
+<title>Brewers News: Mitchell&#x27;s comeback fueled by perspective -- and a fellow athlete&#x27;s support</title>
+<link>https://www.mlb.com/brewers/news/garrett-mitchell-makes-start-for-brewers-after-injuries</link>
+<guid isPermaLink='false'>237e967fe36376daaff80944f77ba46f5b806028</guid>
+<pubDate>Wed, 25 Feb 2026 22:25:48 +0000</pubDate>
+<description><![CDATA[Mitchell's comeback fueled by perspective -- and a fellow athlete's support]]></description>
+</item>
+<item>
+<title>MLB - Live: San Francisco Giants 8 @ Milwaukee Brewers 9 (Bot 7th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401832965</link>
-<guid isPermaLink='false'>7c198284324ae0a6a57a45f0b15c81c60f1a9f28</guid>
+<guid isPermaLink='false'>8e34679b9cdfdd01ecde9a247820f03595cff11f</guid>
 <pubDate>Wed, 25 Feb 2026 20:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[San Francisco Giants vs Milwaukee Brewers - Bot 4th]]></description>
+<description><![CDATA[San Francisco Giants vs Milwaukee Brewers - Bot 7th]]></description>
 </item>
 <item>
 <title>NBA - Final: Miami Heat 117 @ Milwaukee Bucks 128 (Final)</title>
@@ -281,13 +288,6 @@
 <guid isPermaLink='false'>63dbe5b091fc45428fc4bb6a94373fd164f4ac95</guid>
 <pubDate>Thu, 19 Feb 2026 14:37:33 +0000</pubDate>
 <description><![CDATA[Murph almost channeled King Joffer at BBWAA dinner ... but thought better of it]]></description>
-</item>
-<item>
-<title>Brewers News: Each team’s top projected player in ’26</title>
-<link>https://www.mlb.com/brewers/news/top-projected-players-every-mlb-team-2026</link>
-<guid isPermaLink='false'>d80a5c7dc2445829c1a87b108c2e8ba58cd91c30</guid>
-<pubDate>Thu, 19 Feb 2026 04:00:00 +0000</pubDate>
-<description><![CDATA[Each team’s top projected player in ’26]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers announce 2026 Spring Training broadcast schedule</title>
