@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Thu, 26 Feb 2026 19:53:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Feb 2026 20:34:10 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 0 @ Texas Rangers 0 (Bot 2nd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401832985</link>
+<guid isPermaLink='false'>dbc483d68484d404942e245cf198c9eff2830495</guid>
+<pubDate>Thu, 26 Feb 2026 20:05:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Texas Rangers - Bot 2nd]]></description>
+</item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Badgers suffer road setback at Oregon</title>
 <link>https://uwbadgers.com/news/2026/2/26/mens-basketball-badgers-suffer-road-setback-at-oregon</link>
