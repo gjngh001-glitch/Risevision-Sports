@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Fri, 27 Feb 2026 23:46:08 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Feb 2026 01:41:48 +0000</lastBuildDate>
+<item>
+<title>NBA - Live: New York Knicks 38 @ Milwaukee Bucks 30 (End of 1st)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810715</link>
+<guid isPermaLink='false'>0fe6b3eb9043ab77417ba4cfa5bfae04fb4e42d2</guid>
+<pubDate>Sat, 28 Feb 2026 01:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[New York Knicks vs Milwaukee Bucks - End of 1st]]></description>
+</item>
 <item>
 <title>Brewers News: What makes Brewers&#x27; pitching lab unique? &#x27;It’s the dosage of the medicine&#x27;</title>
 <link>https://www.mlb.com/brewers/news/brandon-sproat-shane-drohan-make-brewers-spring-debuts</link>
@@ -136,15 +145,6 @@
 <description><![CDATA[San Francisco Giants vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
-<title>NBA - Final: Miami Heat 117 @ Milwaukee Bucks 128 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401810692</link>
-<guid isPermaLink='false'>51b8e5159a8d0102858df8eee51efa5132e5e1af</guid>
-<pubDate>Wed, 25 Feb 2026 01:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Miami Heat vs Milwaukee Bucks - Final]]></description>
-</item>
-<item>
 <title>Brewers News: Three-run single?! Black notches 6 RBIs in statement outing</title>
 <link>https://www.mlb.com/brewers/news/tyler-black-drives-in-6-runs-for-brewers</link>
 <guid isPermaLink='false'>cb39eef1025ebb05741d1f59731163cd3aa3a612</guid>
@@ -157,15 +157,6 @@
 <guid isPermaLink='false'>d7e398f1abddb4d9abe8e496d048dd6c07405fb0</guid>
 <pubDate>Tue, 24 Feb 2026 20:14:00 +0000</pubDate>
 <description><![CDATA[Grand Theft ... Frelick?!? Brewers social media goes viral again]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 10 @ Athletics 0 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401832940</link>
-<guid isPermaLink='false'>e7eaab934c6c930c6de9da424a817d7fab42c23f</guid>
-<pubDate>Tue, 24 Feb 2026 20:05:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Athletics - Final]]></description>
 </item>
 <item>
 <title>Brewers News: A death-defying stunt with a 104 mph fastball?</title>
