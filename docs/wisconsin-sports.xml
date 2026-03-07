@@ -4,15 +4,24 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 07 Mar 2026 20:47:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 21:18:10 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 3 @ Los Angeles Angels 0 (Top 2nd)</title>
+<title>NCAAM - Live: Wisconsin Badgers 2 @ Purdue Boilermakers 3 (19:10 - 1st)</title>
+<link>https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401825565</link>
+<guid isPermaLink='false'>ffe77595056a25ca4b6af1a706391c4dcea04f14</guid>
+<pubDate>Sat, 07 Mar 2026 21:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png" medium="image" />
+<description><![CDATA[Wisconsin Badgers vs Purdue Boilermakers - 19:10 - 1st]]></description>
+</item>
+<item>
+<title>MLB - Live: Milwaukee Brewers 4 @ Los Angeles Angels 0 (Top 4th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401833095</link>
-<guid isPermaLink='false'>376688b9378081e3883abaec60f14fd8cd4b1f77</guid>
+<guid isPermaLink='false'>f47e475140d1bdeb0e8c2fd959672330c52b22bd</guid>
 <pubDate>Sat, 07 Mar 2026 20:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Los Angeles Angels - Top 2nd]]></description>
+<description><![CDATA[Milwaukee Brewers vs Los Angeles Angels - Top 4th]]></description>
 </item>
 <item>
 <title>Brewers News: Hall has blast with the Brits in World Baseball Classic exhibition</title>
