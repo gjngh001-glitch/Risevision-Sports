@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 07 Mar 2026 19:52:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 20:22:06 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 0 @ Los Angeles Angels 0 (Bot 1st)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401833095</link>
+<guid isPermaLink='false'>ca1e312615fefdcd7df42b02e77bc0130e8fa340</guid>
+<pubDate>Sat, 07 Mar 2026 20:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Los Angeles Angels - Bot 1st]]></description>
+</item>
 <item>
 <title>Brewers News: Hall has blast with the Brits in World Baseball Classic exhibition</title>
 <link>https://www.mlb.com/brewers/news/dl-hall-pitches-for-team-great-britain-in-world-baseball-classic-exhibition-game</link>
