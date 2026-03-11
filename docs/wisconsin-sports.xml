@@ -4,13 +4,31 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 10 Mar 2026 23:56:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 02:04:10 +0000</lastBuildDate>
+<item>
+<title>NBA - Live: Phoenix Suns 111 @ Milwaukee Bucks 97 (7:53 - 4th)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810796</link>
+<guid isPermaLink='false'>df23d2eb458adab41588314a829e99975c1ea100</guid>
+<pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Phoenix Suns vs Milwaukee Bucks - 7:53 - 4th]]></description>
+</item>
 <item>
 <title>Brewers News: Taking a look at Brewers&#x27; potential Opening Day roster</title>
 <link>https://www.mlb.com/brewers/news/brewers-2026-opening-day-roster</link>
 <guid isPermaLink='false'>5392b01770e9d64e70f91a591028af822bcd9332</guid>
 <pubDate>Tue, 10 Mar 2026 19:15:00 +0000</pubDate>
 <description><![CDATA[Taking a look at Brewers' potential Opening Day roster]]></description>
+</item>
+<item>
+<title>UW News - Men&#x27;s Basketball: Five Things to Know: Badgers tipoff Big Ten Tournament</title>
+<link>https://uwbadgers.com/news/2026/3/10/mens-basketball-five-things-to-know-badgers-tipoff-big-ten-tournament</link>
+<guid isPermaLink='false'>e257dc5ede8ca49a52a32bcb557d5a9dfff24d6c</guid>
+<pubDate>Tue, 10 Mar 2026 19:09:00 +0000</pubDate>
+<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/10/DSC00348.JPG" type="image/jpeg" />
+<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/10/DSC00348.JPG" medium="image" />
+<description><![CDATA[<img alt="John Blackwell hits and-one against Purdue" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/10/DSC00348.JPG" /><br /><br />The Wisconsin men's basketball team get set to tip off the 2026 Big Ten Tournament presented by TIAA, playing either No. 12 seeded Washington or No. 13 seeded USC on Thursday at the United Center in Chicago around 1:30 p.m. CT. The Badgers come in as the No. 5 seed in the tournament.]]></description>
 </item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Trio of Badgers earn Big Ten honors</title>
@@ -130,15 +148,6 @@
 <description><![CDATA['Unc' Woodruff makes Brewers spring debut, but it's fall he's focused on]]></description>
 </item>
 <item>
-<title>NBA - Final: Utah Jazz 99 @ Milwaukee Bucks 113 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401810774</link>
-<guid isPermaLink='false'>170d382decbaff0393699fd4c19bf468dcfaef50</guid>
-<pubDate>Sun, 08 Mar 2026 01:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Utah Jazz vs Milwaukee Bucks - Final]]></description>
-</item>
-<item>
 <title>UW News - Men&#x27;s Basketball: Badgers steam past No. 15 Boilermakers, 97-93</title>
 <link>https://uwbadgers.com/news/2026/3/7/mens-basketball-badgers-steam-past-no-15-boilermakers-97-93</link>
 <guid isPermaLink='false'>0f3c21696d963e6d9bc43793509038e6850502fd</guid>
@@ -146,24 +155,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/7/DSC00884_2.JPG" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/7/DSC00884_2.JPG" medium="image" />
 <description><![CDATA[<img alt="Nick Boyd and John Blackwell" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/7/DSC00884_2.JPG" /><br /><br />WEST LAFAYETTE, Ind. — Thanks to 48 combined points from Nick Boyd and John Blackwell, the Wisconsin men's basketball team steamed past No. 15 Purdue, 97-93, on Saturday in a raucous Mackey Arena.]]></description>
-</item>
-<item>
-<title>NCAAM - Final: Wisconsin Badgers 97 @ Purdue Boilermakers 93 (Final)</title>
-<link>https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401825565</link>
-<guid isPermaLink='false'>4a2a6f21ba787b5050c3781608486f301be61243</guid>
-<pubDate>Sat, 07 Mar 2026 21:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png" medium="image" />
-<description><![CDATA[Wisconsin Badgers vs Purdue Boilermakers - Final]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 7 @ Los Angeles Angels 1 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401833095</link>
-<guid isPermaLink='false'>cedebe929c4420b9ba41f99d12360b828fdeef75</guid>
-<pubDate>Sat, 07 Mar 2026 20:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Los Angeles Angels - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Hall has blast with the Brits in World Baseball Classic exhibition</title>
@@ -393,15 +384,6 @@ Photo by Tom Lynn/Wisconsin Athletic Communications" src="https://admin.uwbadger
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/25/FB-20260225-NFL_COMBINE_MEDIA-SHARKEY-Mason_Reiger-001.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/25/FB-20260225-NFL_COMBINE_MEDIA-SHARKEY-Mason_Reiger-001.jpg" medium="image" />
 <description><![CDATA[<img alt="Mason Reiger NFL Combine Media" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/25/FB-20260225-NFL_COMBINE_MEDIA-SHARKEY-Mason_Reiger-001.jpg" /><br /><br />Mason Reiger met with the media at the 2026 NFL Combine]]></description>
-</item>
-<item>
-<title>UW News - Men&#x27;s Basketball: Five Things to Know: UW at Oregon</title>
-<link>https://uwbadgers.com/news/2026/2/23/mens-basketball-five-things-to-know-uw-at-oregon</link>
-<guid isPermaLink='false'>480eb774a2a5bf9bb4a0b1f4432002fb15f7449d</guid>
-<pubDate>Mon, 23 Feb 2026 18:52:00 +0000</pubDate>
-<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/23/MBB-20260222-IOWA-DEAN-SOCIAL-0014.jpg" type="image/jpeg" />
-<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/23/MBB-20260222-IOWA-DEAN-SOCIAL-0014.jpg" medium="image" />
-<description><![CDATA[<img alt="Badgers huddle against Iowa" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/23/MBB-20260222-IOWA-DEAN-SOCIAL-0014.jpg" /><br /><br />The Wisconsin men's basketball team looks to win back-to-back as they head out west for a road meeting at Oregon on Wednesday at Matthew Knight Arena.]]></description>
 </item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Badgers fall to Bruins, 80-60</title>
