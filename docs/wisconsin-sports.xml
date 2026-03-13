@@ -4,15 +4,24 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Fri, 13 Mar 2026 19:56:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Mar 2026 20:33:19 +0000</lastBuildDate>
 <item>
-<title>NCAAM - Live: Wisconsin Badgers 41 @ Illinois Fighting Illini 52 (15:39 - 2nd)</title>
+<title>MLB - Live: Athletics 3 @ Milwaukee Brewers 0 (Mid 2nd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401833181</link>
+<guid isPermaLink='false'>bafde163e76d4ee55fa69d3989c5195a4af0698e</guid>
+<pubDate>Fri, 13 Mar 2026 20:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Athletics vs Milwaukee Brewers - Mid 2nd]]></description>
+</item>
+<item>
+<title>NCAAM - Live: Wisconsin Badgers 70 @ Illinois Fighting Illini 70 (3:34 - 2nd)</title>
 <link>https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401851381</link>
-<guid isPermaLink='false'>28ce7226c2edb94fa8a3a3ca287dd97f63b2441e</guid>
+<guid isPermaLink='false'>d6aa6073fee32b8b5cad6bfd415d041961e9c197</guid>
 <pubDate>Fri, 13 Mar 2026 18:30:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/356.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/356.png" medium="image" />
-<description><![CDATA[Wisconsin Badgers vs Illinois Fighting Illini - 15:39 - 2nd]]></description>
+<description><![CDATA[Wisconsin Badgers vs Illinois Fighting Illini - 3:34 - 2nd]]></description>
 </item>
 <item>
 <title>Brewers News: Priester (wrist) to start season on IL, but is hopeful stay will be brief</title>
