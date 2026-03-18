@@ -4,24 +4,38 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 18 Mar 2026 20:32:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 21:19:09 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Los Angeles Angels 0 @ Milwaukee Brewers 0 (Top 2nd)</title>
+<title>Brewers News: Zerpa impresses Murphy in triumphant Classic performance</title>
+<link>https://www.mlb.com/brewers/news/angel-zerpa-impresses-brewers-with-classic-performance</link>
+<guid isPermaLink='false'>64cadd87843f88e37cd39365864213e164f3e4a7</guid>
+<pubDate>Wed, 18 Mar 2026 20:23:03 +0000</pubDate>
+<description><![CDATA[Zerpa impresses Murphy in triumphant Classic performance]]></description>
+</item>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>42ebdf6effb3a79a7e11f150f21330977d2ee3bf</guid>
+<pubDate>Wed, 18 Mar 2026 20:14:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>MLB - Live: Los Angeles Angels 4 @ Milwaukee Brewers 0 (Bot 4th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401833252</link>
-<guid isPermaLink='false'>5a8ac70b9019116601c850ff30763c657ddea693</guid>
+<guid isPermaLink='false'>4a59ae6dff9b79e340595046336c5864c558751b</guid>
 <pubDate>Wed, 18 Mar 2026 20:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Los Angeles Angels vs Milwaukee Brewers - Top 2nd]]></description>
+<description><![CDATA[Los Angeles Angels vs Milwaukee Brewers - Bot 4th]]></description>
 </item>
 <item>
-<title>MLB - Live: Milwaukee Brewers 0 @ Seattle Mariners 1 (Top 2nd)</title>
+<title>MLB - Live: Milwaukee Brewers 3 @ Seattle Mariners 4 (Mid 4th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401833255</link>
-<guid isPermaLink='false'>30506713c522759d985cedb9cbb9f3017d313dda</guid>
+<guid isPermaLink='false'>92c7c9f3fdc7eb4fec4d760aeb8560a0ba8595c2</guid>
 <pubDate>Wed, 18 Mar 2026 20:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Seattle Mariners - Top 2nd]]></description>
+<description><![CDATA[Milwaukee Brewers vs Seattle Mariners - Mid 4th]]></description>
 </item>
 <item>
 <title>Brewers News: Who has the most loaded Spring Breakout roster? We ranked the Top 10</title>
@@ -68,13 +82,6 @@
 <guid isPermaLink='false'>12e3dcc51eea3d322db2df6769570fe131f2a39f</guid>
 <pubDate>Tue, 17 Mar 2026 04:54:00 +0000</pubDate>
 <description><![CDATA[Chourio ignites Venezuela's winning rally in semifinal]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>2d2ccfc5268405fb55891e0add0b107eeb7cf4d4</guid>
-<pubDate>Tue, 17 Mar 2026 01:02:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>Brewers News: Juan Sandoval&#x27;s heartwarming story is a journey of perseverance</title>
@@ -313,13 +320,6 @@
 <guid isPermaLink='false'>f868dcf16b864191a54d5affa5f0ac4d8c3b649d</guid>
 <pubDate>Mon, 09 Mar 2026 19:34:00 +0000</pubDate>
 <description><![CDATA[Crew's top prospect returns to Minors after impressing in 1st big league spring]]></description>
-</item>
-<item>
-<title>Brewers News: Kurtz ... Trout ... Ethan Murray? Brewers Minor Leaguer blasts MASSIVE homer</title>
-<link>https://www.mlb.com/brewers/news/brewers-minor-league-ethan-murray-hits-477-foot-home-run</link>
-<guid isPermaLink='false'>daad55e6f0bfe9d5101351b3bf5d2b5e9e2e971a</guid>
-<pubDate>Mon, 09 Mar 2026 02:24:00 +0000</pubDate>
-<description><![CDATA[Kurtz ... Trout ... Ethan Murray? Brewers Minor Leaguer blasts MASSIVE homer]]></description>
 </item>
 <item>
 <title>UW News - Football: Wisconsin Football : 2026 Pro Day media availability</title>
