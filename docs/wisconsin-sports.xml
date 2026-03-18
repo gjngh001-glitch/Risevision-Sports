@@ -4,7 +4,25 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 18 Mar 2026 19:46:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 20:32:18 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Los Angeles Angels 0 @ Milwaukee Brewers 0 (Top 2nd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401833252</link>
+<guid isPermaLink='false'>5a8ac70b9019116601c850ff30763c657ddea693</guid>
+<pubDate>Wed, 18 Mar 2026 20:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Los Angeles Angels vs Milwaukee Brewers - Top 2nd]]></description>
+</item>
+<item>
+<title>MLB - Live: Milwaukee Brewers 0 @ Seattle Mariners 1 (Top 2nd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401833255</link>
+<guid isPermaLink='false'>30506713c522759d985cedb9cbb9f3017d313dda</guid>
+<pubDate>Wed, 18 Mar 2026 20:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Seattle Mariners - Top 2nd]]></description>
+</item>
 <item>
 <title>Brewers News: Who has the most loaded Spring Breakout roster? We ranked the Top 10</title>
 <link>https://www.mlb.com/brewers/news/best-spring-breakout-2026-rosters</link>
