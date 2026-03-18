@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 17 Mar 2026 23:57:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 02:30:57 +0000</lastBuildDate>
+<item>
+<title>NBA - Live: Cleveland Cavaliers 121 @ Milwaukee Bucks 114 (30.2 - 4th)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810850</link>
+<guid isPermaLink='false'>82e97180946303e3024924b85570a2ea49f63b72</guid>
+<pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Cleveland Cavaliers vs Milwaukee Bucks - 30.2 - 4th]]></description>
+</item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Starting Five: Badgers set for first-ever WBIT appearance</title>
 <link>https://uwbadgers.com/news/2026/3/17/womens-basketball-badgers-set-for-first-ever-wbit-appearance</link>
@@ -157,38 +166,11 @@
 <description><![CDATA[<img alt="JB gets lifted in loss to Michigan" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/14/RAD00746.JPG" /><br /><br />The 5th-seeded Wisconsin men's basketball team fell 68-65 in a thriller to top-seeded Michigan on Saturday in the Big Ten Tournament Semifinals at the United Center in Chicago.]]></description>
 </item>
 <item>
-<title>MLB - Final: Colorado Rockies 4 @ Milwaukee Brewers 8 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401833197</link>
-<guid isPermaLink='false'>3f615f2850cc0467bff17a5541b2db9e3ae1af25</guid>
-<pubDate>Sat, 14 Mar 2026 20:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Colorado Rockies vs Milwaukee Brewers - Final]]></description>
-</item>
-<item>
-<title>NBA - Final: Milwaukee Bucks 99 @ Atlanta Hawks 122 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401810825</link>
-<guid isPermaLink='false'>4656665914e49fc5e5aa5d77c732705b4886867a</guid>
-<pubDate>Sat, 14 Mar 2026 19:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs Atlanta Hawks - Final]]></description>
-</item>
-<item>
 <title>Brewers News: Who boasts the Crew&#x27;s single best pitch? Ask the backstops</title>
 <link>https://www.mlb.com/brewers/news/brewers-catchers-pick-team-s-best-individual-pitches</link>
 <guid isPermaLink='false'>29d7b255b4506423a0b90b93497f7718e2015e13</guid>
 <pubDate>Sat, 14 Mar 2026 17:08:00 +0000</pubDate>
 <description><![CDATA[Who boasts the Crew's single best pitch? Ask the backstops]]></description>
-</item>
-<item>
-<title>NCAAM - Final: Wisconsin Badgers 65 @ Michigan Wolverines 68 (Final)</title>
-<link>https://www.espn.com/mens-college-basketball/boxscore/_/gameId/401851384</link>
-<guid isPermaLink='false'>09ebf695d49806267664288b664584e3637a926d</guid>
-<pubDate>Sat, 14 Mar 2026 17:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/ncaa/500/130.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/ncaa/500/130.png" medium="image" />
-<description><![CDATA[Wisconsin Badgers vs Michigan Wolverines - Final]]></description>
 </item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Badgers to face Wolverines in Big Ten semifinals</title>
