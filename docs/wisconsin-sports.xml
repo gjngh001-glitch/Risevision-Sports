@@ -4,24 +4,40 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Fri, 20 Mar 2026 01:53:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Mar 2026 04:12:11 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Texas Rangers 0 @ Milwaukee Brewers 4 (Top 3rd)</title>
+<title>UW News - Women&#x27;s Basketball: Badgers battle past Beavers, 62-58</title>
+<link>https://uwbadgers.com/news/2026/3/19/womens-basketball-badgers-battle-past-beavers-62-58</link>
+<guid isPermaLink='false'>8383188e59b655d6d98f010c7dfe8bbc1744b807</guid>
+<pubDate>Fri, 20 Mar 2026 04:27:00 +0000</pubDate>
+<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/19/1d746b13-5980-4141-b14a-6bb46c905ec3Milliron.jpg" type="image/jpeg" />
+<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/19/1d746b13-5980-4141-b14a-6bb46c905ec3Milliron.jpg" medium="image" />
+<description><![CDATA[<img alt="WBB vs Oregon State " src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/19/1d746b13-5980-4141-b14a-6bb46c905ec3Milliron.jpg" /><br /><br />Wisconsin advances to the second round of the WBIT]]></description>
+</item>
+<item>
+<title>Brewers News: Chourio, Contreras and Zerpa bring their pride back from the Classic</title>
+<link>https://www.mlb.com/brewers/news/brewers-return-from-world-baseball-classic-with-newfound-enthusiasm</link>
+<guid isPermaLink='false'>0c7775fc6d0b78bad374756c00e9abba65467541</guid>
+<pubDate>Fri, 20 Mar 2026 03:52:53 +0000</pubDate>
+<description><![CDATA[Chourio, Contreras and Zerpa bring their pride back from the Classic]]></description>
+</item>
+<item>
+<title>MLB - Final: Texas Rangers 4 @ Milwaukee Brewers 11 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401833268</link>
-<guid isPermaLink='false'>0f2c91c028ef335bb5a5726230cd508ddeb5a056</guid>
+<guid isPermaLink='false'>cbe8eb0e4976484ae22aa59770392e2259dc20ca</guid>
 <pubDate>Fri, 20 Mar 2026 01:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Texas Rangers vs Milwaukee Brewers - Top 3rd]]></description>
+<description><![CDATA[Texas Rangers vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
-<title>NBA - Live: Milwaukee Bucks 32 @ Utah Jazz 40 (7:09 - 2nd)</title>
+<title>NBA - Final: Milwaukee Bucks 96 @ Utah Jazz 128 (Final)</title>
 <link>https://www.espn.com/nba/boxscore/_/gameId/401810869</link>
-<guid isPermaLink='false'>fc6ad7296c4b503c2874b47c46c8ac7ff2fdf56b</guid>
+<guid isPermaLink='false'>5e29ed27afcd36d3c6d8c89cf763475aedc8e8a6</guid>
 <pubDate>Fri, 20 Mar 2026 01:00:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs Utah Jazz - 7:09 - 2nd]]></description>
+<description><![CDATA[Milwaukee Bucks vs Utah Jazz - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers make moves that bring position-player group into focus</title>
@@ -308,13 +324,6 @@
 <description><![CDATA[From Spring Breakout to Major League stardom in the blink of an eye]]></description>
 </item>
 <item>
-<title>Brewers News: Here are 30 prospect predictions for 2026</title>
-<link>https://www.mlb.com/brewers/news/prospect-predictions-for-each-mlb-team-2026</link>
-<guid isPermaLink='false'>2a28c8430cb0cc1ed873c73778df5e1a43de518a</guid>
-<pubDate>Wed, 11 Mar 2026 23:00:00 +0000</pubDate>
-<description><![CDATA[Here are 30 prospect predictions for 2026]]></description>
-</item>
-<item>
 <title>Brewers News: From sideline to dugout: Why Murphy invited Vanderbilt&#x27;s Lea to camp</title>
 <link>https://www.mlb.com/brewers/news/brewers-pat-murphy-meets-with-vanderbilt-football-coach-clark-lea</link>
 <guid isPermaLink='false'>2904b7a596f341a6eb6677cfc10de9d8942790d7</guid>
@@ -429,15 +438,6 @@ Photo by Tom Lynn/Wisconsin Athletic Communications" src="https://admin.uwbadger
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/22/b17c3801-6b5f-4402-bc8f-a8eeba204fc9UCLA-35.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/22/b17c3801-6b5f-4402-bc8f-a8eeba204fc9UCLA-35.jpg" medium="image" />
 <description><![CDATA[<img alt="WBB]" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/22/b17c3801-6b5f-4402-bc8f-a8eeba204fc9UCLA-35.jpg" /><br /><br />Dorja Zaja ties her career-high 16 points]]></description>
-</item>
-<item>
-<title>UW News - Women&#x27;s Basketball: Starting Five: Badgers face No. 2 Bruins on the road</title>
-<link>https://uwbadgers.com/news/2026/2/20/womens-basketball-starting-five-badgers-face-no-2-bruins-on-the-road</link>
-<guid isPermaLink='false'>d29dea5a220b127b842126d70868bd6aba1beb10</guid>
-<pubDate>Fri, 20 Feb 2026 15:28:00 +0000</pubDate>
-<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/20/d6afdefa-5f1c-4b8c-a5e4-dd4ad4eaf47bWBB-20260215-MINN-KROMKE-42-Kyrah_Daniels.jpeg" type="image/jpeg" />
-<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/2/20/d6afdefa-5f1c-4b8c-a5e4-dd4ad4eaf47bWBB-20260215-MINN-KROMKE-42-Kyrah_Daniels.jpeg" medium="image" />
-<description><![CDATA[<img alt="Kyrah Daniels vs. Minnesota" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/20/d6afdefa-5f1c-4b8c-a5e4-dd4ad4eaf47bWBB-20260215-MINN-KROMKE-42-Kyrah_Daniels.jpeg" /><br /><br />Badgers set to play at Pauley Pavilion for the first time in program history]]></description>
 </item>
 <item>
 <title>UW News - Volleyball: Six Badgers Headed to WNTCT Training in Colorado</title>
