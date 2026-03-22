@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 22 Mar 2026 19:05:18 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Mar 2026 19:37:45 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 0 @ Chicago Cubs 0 (Top 1st)</title>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>77bef8e3d815e9af950de7ba1d10c6878a6e7018</guid>
+<pubDate>Sun, 22 Mar 2026 19:11:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>MLB - Live: Milwaukee Brewers 0 @ Chicago Cubs 2 (Bot 2nd)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401833307</link>
-<guid isPermaLink='false'>7a8975dd33d6e736c83839d3b7f3e5d5385c9372</guid>
+<guid isPermaLink='false'>8b05297ca709e4d5efd518760984672a8dd675b0</guid>
 <pubDate>Sun, 22 Mar 2026 19:05:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Chicago Cubs - Top 1st]]></description>
+<description><![CDATA[Milwaukee Brewers vs Chicago Cubs - Bot 2nd]]></description>
 </item>
 <item>
 <title>Brewers News: What you need to know for Brewers&#x27; Spring Breakout game (3 CT)</title>
@@ -36,13 +43,6 @@
 <guid isPermaLink='false'>a0a82e262fb04e7ad9708916156930b464bb6b87</guid>
 <pubDate>Sat, 21 Mar 2026 22:47:31 +0000</pubDate>
 <description><![CDATA[What unanswered questions remain for the Brewers before Opening Day?]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>4250098a5caaf8548a971f8d108f093957450de6</guid>
-<pubDate>Sat, 21 Mar 2026 22:43:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>MLB - Final: San Diego Padres 1 @ Milwaukee Brewers 6 (Final)</title>
