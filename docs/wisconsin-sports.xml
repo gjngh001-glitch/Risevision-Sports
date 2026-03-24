@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 24 Mar 2026 21:02:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Mar 2026 21:52:04 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Cincinnati Reds 0 @ Milwaukee Brewers 1 (End 3rd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401833338</link>
+<guid isPermaLink='false'>b075927a068e92d844e28d54222fbe8d88194d88</guid>
+<pubDate>Tue, 24 Mar 2026 21:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Cincinnati Reds vs Milwaukee Brewers - End 3rd]]></description>
+</item>
 <item>
 <title>UW News - Volleyball: Wisconsin Volleyball vs Minnesota: Ticket Information</title>
 <link>https://uwbadgers.com/news/2026/3/24/wisconsin-volleyball-vs-minnesota-ticket-information</link>
@@ -15,18 +24,18 @@
 <description><![CDATA[<img alt="Volleyball vs Minnesota at Eau Claire Web Graphic" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/2/23/VB-20260223-Minnesota_Spring_Match-16x9.jpg" /><br /><br />MADISON, Wis. – As one of Wisconsin volleyball's "Tour de Wisconsin" spring matches, the Badgers are scheduled to take on Minnesota at UW-Eau Claire at the Sonnentag, April 10 at 6:30 p.m. ct. General admission tickets will go on sale April 7 at 10 am CDT.]]></description>
 </item>
 <item>
+<title>Brewers News: Brewers acquire righty Jake Woodford from Rays for Minors arm</title>
+<link>https://www.mlb.com/brewers/news/jake-woodford-brewers-rays-trade</link>
+<guid isPermaLink='false'>7ce3ba690eb22d4a4785ad188c1bf8c13187db5d</guid>
+<pubDate>Tue, 24 Mar 2026 20:35:00 +0000</pubDate>
+<description><![CDATA[Brewers acquire righty Jake Woodford from Rays for Minors arm]]></description>
+</item>
+<item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
 <link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
 <guid isPermaLink='false'>9d8bf220a49f71eeb2dc5e078b96fd5c62510bea</guid>
 <pubDate>Tue, 24 Mar 2026 20:16:00 +0000</pubDate>
 <description><![CDATA[Latest Brewers injuries & transactions]]></description>
-</item>
-<item>
-<title>Brewers News: Brewers acquire righty Jake Woodford from Rays for Minors arm</title>
-<link>https://www.mlb.com/brewers/news/jake-woodford-brewers-rays-trade</link>
-<guid isPermaLink='false'>da8c866424817ca888d50218ac822dd889a18da9</guid>
-<pubDate>Tue, 24 Mar 2026 18:57:39 +0000</pubDate>
-<description><![CDATA[Brewers acquire righty Jake Woodford from Rays for Minors arm]]></description>
 </item>
 <item>
 <title>UW News - Football: Wisconsin Football - 2026 Spring Practice</title>
