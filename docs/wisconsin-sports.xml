@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Thu, 26 Mar 2026 19:31:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Mar 2026 20:05:02 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Chicago White Sox 1 @ Milwaukee Brewers 4 (Mid 4th)</title>
+<title>Brewers News: Miz breaks an Opening Day K record set the day before he was born</title>
+<link>https://www.mlb.com/brewers/news/jacob-misiorowski-brewers-record-for-opening-day-strikeouts</link>
+<guid isPermaLink='false'>b686316e5f7086afa3b3c210807b8b88d903d27d</guid>
+<pubDate>Thu, 26 Mar 2026 19:58:48 +0000</pubDate>
+<description><![CDATA[Miz breaks an Opening Day K record set the day before he was born]]></description>
+</item>
+<item>
+<title>MLB - Live: Chicago White Sox 1 @ Milwaukee Brewers 8 (Top 6th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401814696</link>
-<guid isPermaLink='false'>cddd3e56fda0fd632a5bde74f0989ba2b8b6ea98</guid>
+<guid isPermaLink='false'>5ece25a4dc649f40834fa511f1b8b974f9fa53d4</guid>
 <pubDate>Thu, 26 Mar 2026 18:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Chicago White Sox vs Milwaukee Brewers - Mid 4th]]></description>
+<description><![CDATA[Chicago White Sox vs Milwaukee Brewers - Top 6th]]></description>
 </item>
 <item>
 <title>Brewers News: Chourio (left hand fracture) placed on 10-day injured list</title>
@@ -222,13 +229,6 @@
 <guid isPermaLink='false'>a0a82e262fb04e7ad9708916156930b464bb6b87</guid>
 <pubDate>Sat, 21 Mar 2026 22:47:31 +0000</pubDate>
 <description><![CDATA[What unanswered questions remain for the Brewers before Opening Day?]]></description>
-</item>
-<item>
-<title>Brewers News: Ranking the Top 10 pitching staffs in baseball</title>
-<link>https://www.mlb.com/brewers/news/ranking-best-pitching-staffs-in-2026</link>
-<guid isPermaLink='false'>7577d0ba56ca3d48be0904c51e55098dd36310b2</guid>
-<pubDate>Sat, 21 Mar 2026 16:45:00 +0000</pubDate>
-<description><![CDATA[Ranking the Top 10 pitching staffs in baseball]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers reward Miz with his first career Opening Day start</title>
