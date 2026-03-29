@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 29 Mar 2026 18:38:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 19:20:38 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Chicago White Sox 4 @ Milwaukee Brewers 2 (Bot 1st)</title>
+<title>Brewers News: Quero, Sproat debut for Brewers in rare all-rookie starting battery</title>
+<link>https://www.mlb.com/brewers/news/jeferson-quero-makes-mlb-debut-paired-with-fellow-rookie-brandon-sproat</link>
+<guid isPermaLink='false'>9e00923698ec76ce922a9f85bcd686b609b0bb31</guid>
+<pubDate>Sun, 29 Mar 2026 18:35:01 +0000</pubDate>
+<description><![CDATA[Quero, Sproat debut for Brewers in rare all-rookie starting battery]]></description>
+</item>
+<item>
+<title>MLB - Live: Chicago White Sox 7 @ Milwaukee Brewers 2 (Top 4th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401814730</link>
-<guid isPermaLink='false'>e0eea08efea296e880393e9496702cd089815407</guid>
+<guid isPermaLink='false'>3c1e3885bbe61deb5972df8d716be6af5575a47e</guid>
 <pubDate>Sun, 29 Mar 2026 18:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Chicago White Sox vs Milwaukee Brewers - Bot 1st]]></description>
+<description><![CDATA[Chicago White Sox vs Milwaukee Brewers - Top 4th]]></description>
 </item>
 <item>
 <title>Brewers News: 2026 version of Crew looking similar to record-breaking &#x27;25 squad</title>
@@ -266,13 +273,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/22/25d36100-1083-4714-9c8b-3694d36e0018Milliron.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/22/25d36100-1083-4714-9c8b-3694d36e0018Milliron.jpg" medium="image" />
 <description><![CDATA[<img alt="WBB" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/22/25d36100-1083-4714-9c8b-3694d36e0018Milliron.jpg" /><br /><br />The Badgers delivered their best three-point performance all season]]></description>
-</item>
-<item>
-<title>Brewers News: What unanswered questions remain for the Brewers before Opening Day?</title>
-<link>https://www.mlb.com/brewers/news/questions-brewers-need-to-answer-before-opening-day</link>
-<guid isPermaLink='false'>a0a82e262fb04e7ad9708916156930b464bb6b87</guid>
-<pubDate>Sat, 21 Mar 2026 22:47:31 +0000</pubDate>
-<description><![CDATA[What unanswered questions remain for the Brewers before Opening Day?]]></description>
 </item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Starting Five: Wisconsin dances to Miami</title>
