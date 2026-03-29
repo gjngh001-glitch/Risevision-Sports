@@ -4,22 +4,31 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 29 Mar 2026 19:20:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 29 Mar 2026 19:53:32 +0000</lastBuildDate>
+<item>
+<title>NBA - Live: LA Clippers 16 @ Milwaukee Bucks 18 (5:07 - 1st)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810937</link>
+<guid isPermaLink='false'>696076899beeb09550c8ca91449c459caf026174</guid>
+<pubDate>Sun, 29 Mar 2026 19:30:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[LA Clippers vs Milwaukee Bucks - 5:07 - 1st]]></description>
+</item>
 <item>
 <title>Brewers News: Quero, Sproat debut for Brewers in rare all-rookie starting battery</title>
 <link>https://www.mlb.com/brewers/news/jeferson-quero-makes-mlb-debut-paired-with-fellow-rookie-brandon-sproat</link>
-<guid isPermaLink='false'>9e00923698ec76ce922a9f85bcd686b609b0bb31</guid>
-<pubDate>Sun, 29 Mar 2026 18:35:01 +0000</pubDate>
+<guid isPermaLink='false'>6997483f70b53d77b68089a33fe39ccab61d7842</guid>
+<pubDate>Sun, 29 Mar 2026 19:28:00 +0000</pubDate>
 <description><![CDATA[Quero, Sproat debut for Brewers in rare all-rookie starting battery]]></description>
 </item>
 <item>
-<title>MLB - Live: Chicago White Sox 7 @ Milwaukee Brewers 2 (Top 4th)</title>
+<title>MLB - Live: Chicago White Sox 7 @ Milwaukee Brewers 2 (Bot 5th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401814730</link>
-<guid isPermaLink='false'>3c1e3885bbe61deb5972df8d716be6af5575a47e</guid>
+<guid isPermaLink='false'>f96d89c38fbf4ba801126c9a731f3529589d1d87</guid>
 <pubDate>Sun, 29 Mar 2026 18:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Chicago White Sox vs Milwaukee Brewers - Top 4th]]></description>
+<description><![CDATA[Chicago White Sox vs Milwaukee Brewers - Bot 5th]]></description>
 </item>
 <item>
 <title>Brewers News: 2026 version of Crew looking similar to record-breaking &#x27;25 squad</title>
