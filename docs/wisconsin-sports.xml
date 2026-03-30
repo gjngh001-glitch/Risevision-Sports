@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Mon, 30 Mar 2026 23:19:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 30 Mar 2026 23:58:38 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Tampa Bay Rays 1 @ Milwaukee Brewers 0 (Top 2nd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401814745</link>
+<guid isPermaLink='false'>914a0c4ebbc6272be4e4d9de10a4fd81a97a779d</guid>
+<pubDate>Mon, 30 Mar 2026 23:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Tampa Bay Rays vs Milwaukee Brewers - Top 2nd]]></description>
+</item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Badgers&#x27; season comes to an end in WBIT semifinal</title>
 <link>https://uwbadgers.com/news/2026/3/30/womens-basketball-badgers-season-comes-to-an-end-in-wbit-semifinal</link>
@@ -13,6 +22,13 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/30/DSC09576.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/30/DSC09576.jpg" medium="image" />
 <description><![CDATA[<img alt="wbb at wbit" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/30/DSC09576.jpg" /><br /><br />No. 3 Seed Wisconsin Falls to No. 4 Columbia, 67–50]]></description>
+</item>
+<item>
+<title>Brewers News: Brewers find righty bat, acquire OF Matos in trade with Giants</title>
+<link>https://www.mlb.com/brewers/news/brewers-acquire-outfielder-luis-matos-in-trade-with-giants</link>
+<guid isPermaLink='false'>25c57a643f47f231c3d20c9ca0de6862d2420b61</guid>
+<pubDate>Mon, 30 Mar 2026 23:03:00 +0000</pubDate>
+<description><![CDATA[Brewers find righty bat, acquire OF Matos in trade with Giants]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -27,13 +43,6 @@
 <guid isPermaLink='false'>09a2809ec64123bdea124457375b535cc5d4be4d</guid>
 <pubDate>Mon, 30 Mar 2026 20:23:17 +0000</pubDate>
 <description><![CDATA[Touted SS prospect Pratt near 8-year deal with Brewers (report)]]></description>
-</item>
-<item>
-<title>Brewers News: Brewers acquire OF Matos in trade with Giants</title>
-<link>https://www.mlb.com/brewers/news/brewers-acquire-outfielder-luis-matos-in-trade-with-giants</link>
-<guid isPermaLink='false'>9fce11ee45b681ebf981c74b711da9a768c1bf34</guid>
-<pubDate>Mon, 30 Mar 2026 20:13:29 +0000</pubDate>
-<description><![CDATA[Brewers acquire OF Matos in trade with Giants]]></description>
 </item>
 <item>
 <title>UW News - Volleyball: Volleyball Announces Big Ten/SEC Challenge Week</title>
