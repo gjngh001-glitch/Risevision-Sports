@@ -4,7 +4,23 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 31 Mar 2026 23:37:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Apr 2026 00:03:58 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Tampa Bay Rays 1 @ Milwaukee Brewers 0 (Bot 2nd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401814759</link>
+<guid isPermaLink='false'>3f594f1f43de1f89aace69a5103c68a1265f185f</guid>
+<pubDate>Tue, 31 Mar 2026 23:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Tampa Bay Rays vs Milwaukee Brewers - Bot 2nd]]></description>
+</item>
+<item>
+<title>Brewers News: Brewers acquire righty bat in Matos, who has special connection to Chourio</title>
+<link>https://www.mlb.com/brewers/news/brewers-acquire-outfielder-luis-matos-in-trade-with-giants</link>
+<guid isPermaLink='false'>93a803f4e0e00147a954451e56b1ee6049323468</guid>
+<pubDate>Tue, 31 Mar 2026 23:30:00 +0000</pubDate>
+<description><![CDATA[Brewers acquire righty bat in Matos, who has special connection to Chourio]]></description>
+</item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
 <link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
@@ -50,13 +66,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/30/DSC09576.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/30/DSC09576.jpg" medium="image" />
 <description><![CDATA[<img alt="wbb at wbit" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/30/DSC09576.jpg" /><br /><br />No. 3 Seed Wisconsin Falls to No. 4 Columbia, 67–50]]></description>
-</item>
-<item>
-<title>Brewers News: Brewers find righty bat, acquire OF Matos in trade with Giants</title>
-<link>https://www.mlb.com/brewers/news/brewers-acquire-outfielder-luis-matos-in-trade-with-giants</link>
-<guid isPermaLink='false'>25c57a643f47f231c3d20c9ca0de6862d2420b61</guid>
-<pubDate>Mon, 30 Mar 2026 23:03:00 +0000</pubDate>
-<description><![CDATA[Brewers find righty bat, acquire OF Matos in trade with Giants]]></description>
 </item>
 <item>
 <title>UW News - Volleyball: Volleyball Announces Big Ten/SEC Challenge Week</title>
@@ -114,29 +123,11 @@
 <description><![CDATA[2026 version of Crew looking similar to record-breaking '25 squad]]></description>
 </item>
 <item>
-<title>MLB - Final: Chicago White Sox 1 @ Milwaukee Brewers 6 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401814715</link>
-<guid isPermaLink='false'>728263df47c70740895b64019add07a3b804f838</guid>
-<pubDate>Sat, 28 Mar 2026 23:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Chicago White Sox vs Milwaukee Brewers - Final]]></description>
-</item>
-<item>
 <title>Brewers News: Brewers call up top catching prospect Quero; Vaughn (broken hamate bone) to IL</title>
 <link>https://www.mlb.com/brewers/news/jeferson-quero-call-up-to-brewers</link>
 <guid isPermaLink='false'>30d9194db388005af614917644275a90abf63bdd</guid>
 <pubDate>Sat, 28 Mar 2026 22:20:00 +0000</pubDate>
 <description><![CDATA[Brewers call up top catching prospect Quero; Vaughn (broken hamate bone) to IL]]></description>
-</item>
-<item>
-<title>NBA - Final: San Antonio Spurs 127 @ Milwaukee Bucks 95 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401810931</link>
-<guid isPermaLink='false'>48a3761f9698bca44e2b4712ed53e18941b170b8</guid>
-<pubDate>Sat, 28 Mar 2026 19:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[San Antonio Spurs vs Milwaukee Bucks - Final]]></description>
 </item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Starting Five: Wisconsin ready for WBIT semifinal showdown</title>
