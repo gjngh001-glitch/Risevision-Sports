@@ -4,15 +4,31 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 01 Apr 2026 00:03:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Apr 2026 03:44:45 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Tampa Bay Rays 1 @ Milwaukee Brewers 0 (Bot 2nd)</title>
+<title>Brewers News: Not to be denied, Woodruff debuts -- and earns win after game gets weird</title>
+<link>https://www.mlb.com/brewers/news/brandon-woodruff-leads-young-rotation-in-2026-debut</link>
+<guid isPermaLink='false'>f37e7bb31d50abb22d8f9585b244902282975edc</guid>
+<pubDate>Wed, 01 Apr 2026 02:35:58 +0000</pubDate>
+<description><![CDATA[Not to be denied, Woodruff debuts -- and earns win after game gets weird]]></description>
+</item>
+<item>
+<title>NBA - Final: Dallas Mavericks 99 @ Milwaukee Bucks 123 (Final)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401858694</link>
+<guid isPermaLink='false'>6dced194811ced8a1c48cf17826b2c528a2feceb</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Dallas Mavericks vs Milwaukee Bucks - Final]]></description>
+</item>
+<item>
+<title>MLB - Final: Tampa Bay Rays 2 @ Milwaukee Brewers 6 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401814759</link>
-<guid isPermaLink='false'>3f594f1f43de1f89aace69a5103c68a1265f185f</guid>
+<guid isPermaLink='false'>869f2b2b7f04a5bde4de4b77eba3f4fda4aea3f9</guid>
 <pubDate>Tue, 31 Mar 2026 23:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Tampa Bay Rays vs Milwaukee Brewers - Bot 2nd]]></description>
+<description><![CDATA[Tampa Bay Rays vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers acquire righty bat in Matos, who has special connection to Chourio</title>
@@ -275,13 +291,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/23/DSC08375.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/23/DSC08375.jpg" medium="image" />
 <description><![CDATA[<img alt="Badgers celebrate after a rally against Marquette." src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/23/DSC08375.jpg" /><br /><br />MILWAUKEE, Wis. - The Wisconsin volleyball team kicked off its spring season with a 3-1 victory over in-state rival Marquette (25-13, 18-25, 25-22, 25-21) at the Al McGuire Center on Monday night.]]></description>
-</item>
-<item>
-<title>Brewers News: Can the kids propel the Crew to another NL Central title?</title>
-<link>https://www.mlb.com/brewers/news/brewers-2026-regular-season-preview</link>
-<guid isPermaLink='false'>35c760a8348cfc91ef619cda1c18845880d1828c</guid>
-<pubDate>Mon, 23 Mar 2026 23:53:09 +0000</pubDate>
-<description><![CDATA[Can the kids propel the Crew to another NL Central title?]]></description>
 </item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Wisconsin surges past Miami 72-65</title>
