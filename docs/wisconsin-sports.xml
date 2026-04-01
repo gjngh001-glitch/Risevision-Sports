@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 01 Apr 2026 18:02:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Apr 2026 19:20:58 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Tampa Bay Rays 0 @ Milwaukee Brewers 0 (Top 2nd)</title>
+<title>Brewers News: Umpire CB Bucknor exits Rays-Brewers game after taking foul tip off mask</title>
+<link>https://www.mlb.com/brewers/news/cb-bucknor-exits-game-after-being-hit-by-foul-tip</link>
+<guid isPermaLink='false'>90c2f44921532ba1505b4f7a82452b87af01dceb</guid>
+<pubDate>Wed, 01 Apr 2026 18:28:26 +0000</pubDate>
+<description><![CDATA[Umpire CB Bucknor exits Rays-Brewers game after taking foul tip off mask]]></description>
+</item>
+<item>
+<title>MLB - Live: Tampa Bay Rays 2 @ Milwaukee Brewers 2 (Bot 5th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401814774</link>
-<guid isPermaLink='false'>b04f281fc32e816e440547c7cfaf252eb4230936</guid>
+<guid isPermaLink='false'>9ad491bd45568a710e0ded044fae0f67d7d97f1e</guid>
 <pubDate>Wed, 01 Apr 2026 17:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Tampa Bay Rays vs Milwaukee Brewers - Top 2nd]]></description>
+<description><![CDATA[Tampa Bay Rays vs Milwaukee Brewers - Bot 5th]]></description>
 </item>
 <item>
 <title>Brewers News: Priester&#x27;s secret in road to recovery: Sitting up straight</title>
@@ -183,13 +190,6 @@
 <guid isPermaLink='false'>e3e671dd895765d16c7882fe62e19983e3f601f4</guid>
 <pubDate>Sat, 28 Mar 2026 16:29:47 +0000</pubDate>
 <description><![CDATA[Sports worlds collide with a 'Flair' for 'Thanalysis' with Miz and Crew]]></description>
-</item>
-<item>
-<title>Brewers News: Today is Opening Day for all Triple-A teams! Here&#x27;s everything to know</title>
-<link>https://www.mlb.com/brewers/news/triple-a-opening-day-guide-2026</link>
-<guid isPermaLink='false'>a75d319f7df34d396e032176ac090a0aee8f33f5</guid>
-<pubDate>Sat, 28 Mar 2026 01:29:00 +0000</pubDate>
-<description><![CDATA[Today is Opening Day for all Triple-A teams! Here's everything to know]]></description>
 </item>
 <item>
 <title>Brewers News: &#x27;What an incredible life&#x27;: Behind the scenes of Uecker doc with the filmmakers</title>
