@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 01 Apr 2026 23:55:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 02 Apr 2026 02:08:02 +0000</lastBuildDate>
+<item>
+<title>NBA - Live: Milwaukee Bucks 106 @ Houston Rockets 112 (2:39 - 4th)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401810965</link>
+<guid isPermaLink='false'>e3ca463411d29983fadcd2d26f1d5c128122d870</guid>
+<pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png" medium="image" />
+<description><![CDATA[Milwaukee Bucks vs Houston Rockets - 2:39 - 4th]]></description>
+</item>
 <item>
 <title>Brewers News: Brewers &#x27;cause some havoc&#x27; as usual, make Rays pay for mistakes</title>
 <link>https://www.mlb.com/brewers/news/brewers-beat-rays-to-finish-impressive-homestand</link>
@@ -149,24 +158,6 @@
 <guid isPermaLink='false'>947453c15ae1fdd65a88dbc3dead456eb631bbd5</guid>
 <pubDate>Sun, 29 Mar 2026 21:22:00 +0000</pubDate>
 <description><![CDATA[5 series to watch for season's first full week]]></description>
-</item>
-<item>
-<title>NBA - Final: LA Clippers 127 @ Milwaukee Bucks 113 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401810937</link>
-<guid isPermaLink='false'>6be6bcf7b37602875b0ca3c661fb63eb6ce0355a</guid>
-<pubDate>Sun, 29 Mar 2026 19:30:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[LA Clippers vs Milwaukee Bucks - Final]]></description>
-</item>
-<item>
-<title>MLB - Final: Chicago White Sox 7 @ Milwaukee Brewers 9 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401814730</link>
-<guid isPermaLink='false'>5924ee8879c4c2e34589d92a050514492063bdca</guid>
-<pubDate>Sun, 29 Mar 2026 18:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Chicago White Sox vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: 2026 version of Crew looking similar to record-breaking &#x27;25 squad</title>
