@@ -4,7 +4,23 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Fri, 03 Apr 2026 22:02:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 03 Apr 2026 22:53:03 +0000</lastBuildDate>
+<item>
+<title>MLB - Final: Milwaukee Brewers 0 @ Kansas City Royals 0 (Postponed)</title>
+<link>https://www.espn.com/mlb/game/_/gameId/401814790/brewers-royals</link>
+<guid isPermaLink='false'>ca90bad70aeb88094befa36ee8735f46f04cee1a</guid>
+<pubDate>Fri, 03 Apr 2026 23:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Kansas City Royals - Postponed]]></description>
+</item>
+<item>
+<title>Brewers News: Brewers-Royals game postponed due to rain; split DH Saturday</title>
+<link>https://www.mlb.com/brewers/news/brewers-royals-april-3-2026-game-postponed-due-to-rain</link>
+<guid isPermaLink='false'>58ea63562f878c85d872cc4c4afe23d735f2965f</guid>
+<pubDate>Fri, 03 Apr 2026 22:46:06 +0000</pubDate>
+<description><![CDATA[Brewers-Royals game postponed due to rain; split DH Saturday]]></description>
+</item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
 <link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
@@ -250,13 +266,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/26/DSC00746.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/26/DSC00746.jpg" medium="image" />
 <description><![CDATA[<img alt="Wisconsin Women's Basketball vs Harvard - 2026 WBIT" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/26/DSC00746.jpg" /><br /><br />MADISON, Wis. - The Wisconsin women's basketball team (16-17) stormed back late to take down Harvard (20-12) 64-61 in the WBIT Quarterfinals at the Kohl Center, securing their spot in the Semifinals in Wichita, Kansas.]]></description>
-</item>
-<item>
-<title>Brewers News: Miz broke an Opening Day K record, and that was just the start for the Crew</title>
-<link>https://www.mlb.com/brewers/news/jacob-misiorowski-brewers-record-for-opening-day-strikeouts</link>
-<guid isPermaLink='false'>d3aabcfef523a8c1b29d916579f897f0ff724127</guid>
-<pubDate>Thu, 26 Mar 2026 23:47:00 +0000</pubDate>
-<description><![CDATA[Miz broke an Opening Day K record, and that was just the start for the Crew]]></description>
 </item>
 <item>
 <title>Brewers News: NEW for 2026: Monthly, seasonal plans available for Brewers.TV; channels announced</title>
