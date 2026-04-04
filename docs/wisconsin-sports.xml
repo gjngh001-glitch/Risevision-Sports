@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 04 Apr 2026 18:37:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 19:19:47 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 2 @ Kansas City Royals 0 (Mid 2nd)</title>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>a371c5dcde76932a7a5dc5df0f106b723a5db359</guid>
+<pubDate>Sat, 04 Apr 2026 18:39:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>MLB - Live: Milwaukee Brewers 5 @ Kansas City Royals 0 (Top 4th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401814804</link>
-<guid isPermaLink='false'>ed8277a8d239107425f6dc6e480b6088a78168ec</guid>
+<guid isPermaLink='false'>c6e87ac05da1d0ef7a0771d239c2904846037979</guid>
 <pubDate>Sat, 04 Apr 2026 18:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Kansas City Royals - Mid 2nd]]></description>
+<description><![CDATA[Milwaukee Brewers vs Kansas City Royals - Top 4th]]></description>
 </item>
 <item>
 <title>Brewers News: Pratt Q&amp;A: Why and how prospect agreed to 8-year deal with Crew</title>
@@ -52,13 +59,6 @@
 <guid isPermaLink='false'>4ca43dc5f7acecbd70c4b7eae6676150504c603d</guid>
 <pubDate>Fri, 03 Apr 2026 23:13:00 +0000</pubDate>
 <description><![CDATA[Brewers-Royals game postponed due to rain; split DH Saturday]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>f77a7cd70667c0a9d6243b575fe36f7a383dbb28</guid>
-<pubDate>Fri, 03 Apr 2026 20:05:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>Brewers News: Here are the most stacked MiLB affiliates -- one for each organization</title>
