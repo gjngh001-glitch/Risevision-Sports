@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 05 Apr 2026 17:48:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 05 Apr 2026 18:39:48 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 3 @ Kansas City Royals 0 (Bot 2nd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401814819</link>
+<guid isPermaLink='false'>d6c4733cf597c93f4b78757ceab19ddae069ad01</guid>
+<pubDate>Sun, 05 Apr 2026 18:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Kansas City Royals - Bot 2nd]]></description>
+</item>
 <item>
 <title>Brewers News: Sproat&#x27;s strong bounceback outing derailed by two-out rally in Game 2</title>
 <link>https://www.mlb.com/brewers/news/brandon-sproat-falters-in-sixth-inning-in-brewers-loss-vs-royals</link>
