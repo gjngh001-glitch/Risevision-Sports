@@ -4,7 +4,23 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Mon, 06 Apr 2026 22:04:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Apr 2026 22:55:55 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 0 @ Boston Red Sox 0 (Top 1st)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401814831</link>
+<guid isPermaLink='false'>e47527d98887a473551cb9abbad6ffff761701d7</guid>
+<pubDate>Mon, 06 Apr 2026 22:45:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Boston Red Sox - Top 1st]]></description>
+</item>
+<item>
+<title>Brewers News: Koenig (UCL sprain) lands on injured list, hopes to avoid surgery</title>
+<link>https://www.mlb.com/brewers/news/jared-koenig-placed-on-injured-list-shane-drohan-called-up</link>
+<guid isPermaLink='false'>d39a340dd0e5a414c255ab295bcecc09ab6e9b6a</guid>
+<pubDate>Mon, 06 Apr 2026 22:03:50 +0000</pubDate>
+<description><![CDATA[Brewers call up No. 25 prospect Drohan from Triple-A Nashville]]></description>
+</item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
 <link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
@@ -225,13 +241,6 @@
 <guid isPermaLink='false'>ea46326e9891ef1d18eb87da3c1b7740ea5aff38</guid>
 <pubDate>Wed, 01 Apr 2026 02:27:00 +0000</pubDate>
 <description><![CDATA[Here's 1 must-visit Minor League spot from every farm system for 2026]]></description>
-</item>
-<item>
-<title>Brewers News: Brewers acquire righty bat in Matos, who has special connection to Chourio</title>
-<link>https://www.mlb.com/brewers/news/brewers-acquire-outfielder-luis-matos-in-trade-with-giants</link>
-<guid isPermaLink='false'>93a803f4e0e00147a954451e56b1ee6049323468</guid>
-<pubDate>Tue, 31 Mar 2026 23:30:00 +0000</pubDate>
-<description><![CDATA[Brewers acquire righty bat in Matos, who has special connection to Chourio]]></description>
 </item>
 <item>
 <title>Brewers News: Vaughn begins rehabbing hand post-surgery, targets mid-May return</title>
