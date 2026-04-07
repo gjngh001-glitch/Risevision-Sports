@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 07 Apr 2026 00:04:54 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Apr 2026 03:30:13 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 0 @ Boston Red Sox 3 (Top 4th)</title>
+<title>Brewers News: Brewers get last laugh, overcome old foe Contreras in tense night at Fenway</title>
+<link>https://www.mlb.com/brewers/news/brewers-beat-red-sox-in-tense-series-opener</link>
+<guid isPermaLink='false'>4e8ff3068dd997c2de4130956a7106ad7b9d33cc</guid>
+<pubDate>Tue, 07 Apr 2026 02:32:59 +0000</pubDate>
+<description><![CDATA[Brewers get last laugh, overcome old foe Contreras in tense night at Fenway]]></description>
+</item>
+<item>
+<title>MLB - Final: Milwaukee Brewers 8 @ Boston Red Sox 6 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401814831</link>
-<guid isPermaLink='false'>56f2461f160186c44e8b879068369a215c9ceb93</guid>
+<guid isPermaLink='false'>b6e5f1ff9b27d98025003ac7b6a7ef78828300f3</guid>
 <pubDate>Mon, 06 Apr 2026 22:45:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Boston Red Sox - Top 4th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Boston Red Sox - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Koenig (UCL sprain) lands on injured list, hopes to avoid surgery</title>
@@ -216,13 +223,6 @@
 <guid isPermaLink='false'>c764bcba24414b2468105ecd7b11e40d37bc8189</guid>
 <pubDate>Wed, 01 Apr 2026 03:39:00 +0000</pubDate>
 <description><![CDATA[Not to be denied, Woodruff debuts -- and earns win after game gets weird]]></description>
-</item>
-<item>
-<title>Brewers News: Here&#x27;s 1 must-visit Minor League spot from every farm system for 2026</title>
-<link>https://www.mlb.com/brewers/news/best-minor-league-ballparks-to-visit</link>
-<guid isPermaLink='false'>ea46326e9891ef1d18eb87da3c1b7740ea5aff38</guid>
-<pubDate>Wed, 01 Apr 2026 02:27:00 +0000</pubDate>
-<description><![CDATA[Here's 1 must-visit Minor League spot from every farm system for 2026]]></description>
 </item>
 <item>
 <title>Brewers News: Vaughn begins rehabbing hand post-surgery, targets mid-May return</title>
