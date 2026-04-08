@@ -4,24 +4,45 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 08 Apr 2026 00:01:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 03:31:38 +0000</lastBuildDate>
 <item>
-<title>NBA - Live: Milwaukee Bucks 29 @ Brooklyn Nets 22 (1:48 - 1st)</title>
+<title>Brewers News: Turang sits with undisclosed foot/ankle issue; IL trip not expected</title>
+<link>https://www.mlb.com/brewers/news/brice-turang-sits-with-undisclosed-foot-ankle-injury</link>
+<guid isPermaLink='false'>a642f63a8d4702a283336e6739d69f7ebffe9957</guid>
+<pubDate>Wed, 08 Apr 2026 01:04:16 +0000</pubDate>
+<description><![CDATA[Turang sits with undisclosed foot/ankle issue; IL trip not expected]]></description>
+</item>
+<item>
+<title>Brewers News: Miz K&#x27;s first 5 batters, walks last 3 in roller-coaster outing at Fenway</title>
+<link>https://www.mlb.com/brewers/news/jacob-misiorowski-strikes-out-10-against-red-sox</link>
+<guid isPermaLink='false'>92d0d24efe6be1aa36b27bae9c0278a9614331a9</guid>
+<pubDate>Wed, 08 Apr 2026 01:00:32 +0000</pubDate>
+<description><![CDATA[Miz K's first 5 batters, walks last 3 in roller-coaster outing at Fenway]]></description>
+</item>
+<item>
+<title>Brewers News: From Bootleggers to a &#x27;downtown divorce party&#x27; -- 9 great upcoming Minor League promos</title>
+<link>https://www.mlb.com/brewers/news/minor-league-promotions-for-april-2026</link>
+<guid isPermaLink='false'>457c28cba89c3972468574ce918ae12f921fcc86</guid>
+<pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[From Bootleggers to a 'downtown divorce party' -- 9 great upcoming Minor League promos]]></description>
+</item>
+<item>
+<title>NBA - Final: Milwaukee Bucks 90 @ Brooklyn Nets 96 (Final)</title>
 <link>https://www.espn.com/nba/boxscore/_/gameId/401811005</link>
-<guid isPermaLink='false'>081195116da8bc650abadd68f955af26f346412d</guid>
+<guid isPermaLink='false'>11051821686854b797b7de5004b8804986b709c7</guid>
 <pubDate>Tue, 07 Apr 2026 23:30:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs Brooklyn Nets - 1:48 - 1st]]></description>
+<description><![CDATA[Milwaukee Bucks vs Brooklyn Nets - Final]]></description>
 </item>
 <item>
-<title>MLB - Live: Milwaukee Brewers 0 @ Boston Red Sox 0 (Bot 5th)</title>
+<title>MLB - Final: Milwaukee Brewers 2 @ Boston Red Sox 3 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401814846</link>
-<guid isPermaLink='false'>b84fb756d9498eb5b690e6496e54db910359f3ac</guid>
+<guid isPermaLink='false'>ccea7efb25324ebae8d65ff5fdbe6f07ab0a2bc7</guid>
 <pubDate>Tue, 07 Apr 2026 22:45:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Boston Red Sox - Bot 5th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Boston Red Sox - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -206,32 +227,11 @@
 <description><![CDATA[<img alt="UW Health jersey patch for Wisconsin women's sports" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/2/WHKY_UWHealth_4.1.2026.jpg" /><br /><br />Landmark partnership to be featured on basketball, volleyball, hockey and softball uniforms]]></description>
 </item>
 <item>
-<title>Brewers News: 12 pitchers who impressed in their 2026 debuts</title>
-<link>https://www.mlb.com/brewers/news/pitchers-who-impressed-in-their-2026-debuts</link>
-<guid isPermaLink='false'>e4a8099e66c61cbbcf1b20550d3cfdc941c1ebb8</guid>
-<pubDate>Thu, 02 Apr 2026 03:17:00 +0000</pubDate>
-<description><![CDATA[12 pitchers who impressed in their 2026 debuts]]></description>
-</item>
-<item>
-<title>Brewers News: Here&#x27;s every team&#x27;s 2026 Draft bonus pool and all pick values</title>
-<link>https://www.mlb.com/brewers/news/mlb-draft-2026-bonus-pool-pick-values</link>
-<guid isPermaLink='false'>3377f6fe4dfa8187c3390b358c0177c6787c4b4c</guid>
-<pubDate>Thu, 02 Apr 2026 02:00:00 +0000</pubDate>
-<description><![CDATA[Here's every team's 2026 Draft bonus pool and all pick values]]></description>
-</item>
-<item>
 <title>Brewers News: Brewers &#x27;cause some havoc&#x27; as usual, make Rays pay for mistakes</title>
 <link>https://www.mlb.com/brewers/news/brewers-beat-rays-to-finish-impressive-homestand</link>
 <guid isPermaLink='false'>4afd56151c989aadcb036c2ae7d5e769ac60fe8f</guid>
 <pubDate>Wed, 01 Apr 2026 23:04:00 +0000</pubDate>
 <description><![CDATA[Brewers 'cause some havoc' as usual, make Rays pay for mistakes]]></description>
-</item>
-<item>
-<title>Brewers News: Umpire CB Bucknor exits Rays-Brewers game after taking foul tip off mask</title>
-<link>https://www.mlb.com/brewers/news/cb-bucknor-exits-game-after-being-hit-by-foul-tip</link>
-<guid isPermaLink='false'>741bc0585f2fcd6d715b3b2826ab0376a4870378</guid>
-<pubDate>Wed, 01 Apr 2026 23:04:00 +0000</pubDate>
-<description><![CDATA[Umpire CB Bucknor exits Rays-Brewers game after taking foul tip off mask]]></description>
 </item>
 <item>
 <title>Brewers News: Priester&#x27;s secret in road to recovery: Sitting up straight</title>
