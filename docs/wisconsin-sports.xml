@@ -4,15 +4,24 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 07 Apr 2026 23:22:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Apr 2026 00:01:17 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 0 @ Boston Red Sox 0 (Top 3rd)</title>
+<title>NBA - Live: Milwaukee Bucks 29 @ Brooklyn Nets 22 (1:48 - 1st)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401811005</link>
+<guid isPermaLink='false'>081195116da8bc650abadd68f955af26f346412d</guid>
+<pubDate>Tue, 07 Apr 2026 23:30:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" medium="image" />
+<description><![CDATA[Milwaukee Bucks vs Brooklyn Nets - 1:48 - 1st]]></description>
+</item>
+<item>
+<title>MLB - Live: Milwaukee Brewers 0 @ Boston Red Sox 0 (Bot 5th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401814846</link>
-<guid isPermaLink='false'>1d4c1159c20d48be6f41cf2ccf1aad74a8b6b5e3</guid>
+<guid isPermaLink='false'>b84fb756d9498eb5b690e6496e54db910359f3ac</guid>
 <pubDate>Tue, 07 Apr 2026 22:45:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Boston Red Sox - Top 3rd]]></description>
+<description><![CDATA[Milwaukee Brewers vs Boston Red Sox - Bot 5th]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -135,29 +144,11 @@
 <description><![CDATA[Inspired by Brewers' new tortoise, Mitchell drives in all 5 runs in Game 1 win]]></description>
 </item>
 <item>
-<title>MLB - Final: Milwaukee Brewers 2 @ Kansas City Royals 8 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401867376</link>
-<guid isPermaLink='false'>7c6f734ebe8effc618b1e942b5da387d322959a4</guid>
-<pubDate>Sat, 04 Apr 2026 23:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Kansas City Royals - Final]]></description>
-</item>
-<item>
 <title>Brewers News: Murph&#x27;s latest pocket surprise? A tortoise named Bobby Jr.</title>
 <link>https://www.mlb.com/brewers/news/pat-murphy-pocket-tortoise-interview</link>
 <guid isPermaLink='false'>8224578a3e689137131953cde99cf41bad6c9e7f</guid>
 <pubDate>Sat, 04 Apr 2026 19:02:40 +0000</pubDate>
 <description><![CDATA[Murph's latest pocket surprise? A tortoise named Bobby Jr.]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 5 @ Kansas City Royals 2 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401814804</link>
-<guid isPermaLink='false'>0c49d431636d3dfad53a2e223f77a538c6004f76</guid>
-<pubDate>Sat, 04 Apr 2026 18:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Kansas City Royals - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Pratt Q&amp;A: Why and how prospect agreed to 8-year deal with Crew</title>
