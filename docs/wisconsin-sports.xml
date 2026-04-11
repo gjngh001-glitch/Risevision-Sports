@@ -4,15 +4,24 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Fri, 10 Apr 2026 23:58:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 02:47:48 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Washington Nationals 2 @ Milwaukee Brewers 0 (Bot 1st)</title>
+<title>NBA - Final: Brooklyn Nets 108 @ Milwaukee Bucks 125 (Final)</title>
+<link>https://www.espn.com/nba/boxscore/_/gameId/401811034</link>
+<guid isPermaLink='false'>41c4f151de78123067d829c9b8fba3fe57d2c3f5</guid>
+<pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Brooklyn Nets vs Milwaukee Bucks - Final]]></description>
+</item>
+<item>
+<title>MLB - Final: Washington Nationals 7 @ Milwaukee Brewers 3 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401814887</link>
-<guid isPermaLink='false'>e3b8ffa66765773bb93732c88f770498e6fe493f</guid>
+<guid isPermaLink='false'>f445467ec8a04b8e54f71eaf249d72fc52ecc6cd</guid>
 <pubDate>Fri, 10 Apr 2026 23:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Washington Nationals vs Milwaukee Brewers - Bot 1st]]></description>
+<description><![CDATA[Washington Nationals vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Chourio (finger), Vaughn (hamate) get positive injury updates</title>
@@ -101,24 +110,6 @@
 <guid isPermaLink='false'>457c28cba89c3972468574ce918ae12f921fcc86</guid>
 <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
 <description><![CDATA[From Bootleggers to 'Single Again in the City' -- 9 great upcoming Minor League promos]]></description>
-</item>
-<item>
-<title>NBA - Final: Milwaukee Bucks 90 @ Brooklyn Nets 96 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401811005</link>
-<guid isPermaLink='false'>11051821686854b797b7de5004b8804986b709c7</guid>
-<pubDate>Tue, 07 Apr 2026 23:30:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs Brooklyn Nets - Final]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 2 @ Boston Red Sox 3 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401814846</link>
-<guid isPermaLink='false'>ccea7efb25324ebae8d65ff5fdbe6f07ab0a2bc7</guid>
-<pubDate>Tue, 07 Apr 2026 22:45:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Boston Red Sox - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Here are the 10 most prospect-packed rosters in the Minor Leagues</title>
