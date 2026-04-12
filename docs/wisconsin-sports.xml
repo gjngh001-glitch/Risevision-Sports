@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 12 Apr 2026 22:30:28 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Apr 2026 23:17:43 +0000</lastBuildDate>
 <item>
-<title>NBA - Live: Milwaukee Bucks 23 @ Philadelphia 76ers 22 (2:00 - 1st)</title>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>30d97c44ab0eea0c25ec335a06cbe88f139f378a</guid>
+<pubDate>Sun, 12 Apr 2026 22:49:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>NBA - Live: Milwaukee Bucks 62 @ Philadelphia 76ers 58 (Halftime)</title>
 <link>https://www.espn.com/nba/boxscore/_/gameId/401811046</link>
-<guid isPermaLink='false'>5f786b9e58f5af869ef0e899c1d0e12c87a94bba</guid>
+<guid isPermaLink='false'>fc6c8fc91a63ebbf3cf86bb3c38215b4c415e773</guid>
 <pubDate>Sun, 12 Apr 2026 22:00:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs Philadelphia 76ers - 2:00 - 1st]]></description>
+<description><![CDATA[Milwaukee Bucks vs Philadelphia 76ers - Halftime]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers with another injury scare as Yelich exits with hamstring tightness</title>
@@ -43,13 +50,6 @@
 <guid isPermaLink='false'>11a13a7472d2e13cfe17d6d24a499de439968270</guid>
 <pubDate>Sun, 12 Apr 2026 17:15:00 +0000</pubDate>
 <description><![CDATA[Garner, manager of 2nd-most games in Brewers history, dies at 76]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>add6530b976c44041d016006955905a0e4a24f5a</guid>
-<pubDate>Sun, 12 Apr 2026 16:12:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>Brewers News: Harrison (left knee), Sproat (right knee) to receive further examination</title>
