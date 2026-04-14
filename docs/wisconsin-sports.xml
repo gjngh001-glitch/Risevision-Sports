@@ -4,20 +4,29 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 14 Apr 2026 23:03:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 14 Apr 2026 23:58:32 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Toronto Blue Jays 0 @ Milwaukee Brewers 0 (End 1st)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401814942</link>
+<guid isPermaLink='false'>7ed11ee1706c7b179bd22dea364106050b220240</guid>
+<pubDate>Tue, 14 Apr 2026 23:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Toronto Blue Jays vs Milwaukee Brewers - End 1st]]></description>
+</item>
+<item>
+<title>Brewers News: Yelich placed on IL with left groin strain; Brewers add OF Jones</title>
+<link>https://www.mlb.com/brewers/news/christian-yelich-exits-brewers-game-with-injury</link>
+<guid isPermaLink='false'>c54f540413c34b78873a4c63505611397b82e507</guid>
+<pubDate>Tue, 14 Apr 2026 22:56:00 +0000</pubDate>
+<description><![CDATA[Yelich placed on IL with left groin strain; Brewers add OF Jones]]></description>
+</item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
 <link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
 <guid isPermaLink='false'>44afae7416989c28f20b529d0e0242754f1ddcea</guid>
 <pubDate>Tue, 14 Apr 2026 19:36:00 +0000</pubDate>
 <description><![CDATA[Latest Brewers injuries & transactions]]></description>
-</item>
-<item>
-<title>Brewers News: Yelich placed on IL with left groin strain; Brewers add OF Jones</title>
-<link>https://www.mlb.com/brewers/news/christian-yelich-exits-brewers-game-with-injury</link>
-<guid isPermaLink='false'>ee170202cbe6a310b910f0d199e774773deb4cd9</guid>
-<pubDate>Tue, 14 Apr 2026 19:28:00 +0000</pubDate>
-<description><![CDATA[Yelich placed on IL with left groin strain; Brewers add OF Jones]]></description>
 </item>
 <item>
 <title>Brewers News: Watch prospects Fischer, Peña at High-A for FREE in Wednesday matinee</title>
