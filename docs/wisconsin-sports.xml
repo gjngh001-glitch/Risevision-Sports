@@ -4,15 +4,43 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 15 Apr 2026 23:58:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 16 Apr 2026 03:30:47 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Toronto Blue Jays 1 @ Milwaukee Brewers 0 (Bot 1st)</title>
+<title>Brewers News: Brewers get favorable bounce in bizarre 8th to snap 6-game skid</title>
+<link>https://www.mlb.com/brewers/news/brewers-come-back-to-beat-blue-jays-to-snap-6-game-losing-streak</link>
+<guid isPermaLink='false'>a6690dacc90814091b9c56d397a1ea14f15204e3</guid>
+<pubDate>Thu, 16 Apr 2026 02:25:37 +0000</pubDate>
+<description><![CDATA[Brewers get favorable bounce in bizarre 8th to snap 6-game skid]]></description>
+</item>
+<item>
+<title>Brewers News: 5th grader wins Brewers&#x27; Jackie Robinson Design Contest -- a year after her brother did same!</title>
+<link>https://www.mlb.com/brewers/news/brewers-jackie-robinson-design-contest-winner-throws-first-pitch</link>
+<guid isPermaLink='false'>e89650ff9202641d97fddca3437ec9c803b5e410</guid>
+<pubDate>Thu, 16 Apr 2026 01:16:10 +0000</pubDate>
+<description><![CDATA[5th grader wins Brewers' Jackie Robinson Design Contest -- a year after her brother did same!]]></description>
+</item>
+<item>
+<title>Brewers News: Murphy stands by Megill, says he doesn&#x27;t deserve boos</title>
+<link>https://www.mlb.com/brewers/news/pat-murphy-backs-trevor-megill-amid-struggles</link>
+<guid isPermaLink='false'>512db6260b8d3e38edbb08982b14ea217509b679</guid>
+<pubDate>Thu, 16 Apr 2026 00:02:50 +0000</pubDate>
+<description><![CDATA[Murphy stands by Megill, says he doesn't deserve boos]]></description>
+</item>
+<item>
+<title>MLB - Final: Toronto Blue Jays 1 @ Milwaukee Brewers 2 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401814957</link>
-<guid isPermaLink='false'>13243b54d0e046bdf0af737ff7c7cc62df50ddbe</guid>
+<guid isPermaLink='false'>10c0effbe9c2d438c2c1accce2eca2f9c09c46ac</guid>
 <pubDate>Wed, 15 Apr 2026 23:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Toronto Blue Jays vs Milwaukee Brewers - Bot 1st]]></description>
+<description><![CDATA[Toronto Blue Jays vs Milwaukee Brewers - Final]]></description>
+</item>
+<item>
+<title>Brewers News: Here&#x27;s the best defensive prospect for each club</title>
+<link>https://www.mlb.com/brewers/news/best-defensive-prospect-for-each-team-2026</link>
+<guid isPermaLink='false'>a6543640fe78711aa13be028bfa74a502d2401f9</guid>
+<pubDate>Wed, 15 Apr 2026 23:00:00 +0000</pubDate>
+<description><![CDATA[Here's the best defensive prospect for each club]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -123,29 +151,11 @@
 <description><![CDATA[How slumping Brewers hope to get back on track after sweep]]></description>
 </item>
 <item>
-<title>NBA - Final: Milwaukee Bucks 106 @ Philadelphia 76ers 126 (Final)</title>
-<link>https://www.espn.com/nba/boxscore/_/gameId/401811046</link>
-<guid isPermaLink='false'>834c32bdb6c0d37a46340819524d5dff84e88f5f</guid>
-<pubDate>Sun, 12 Apr 2026 22:00:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png" medium="image" />
-<description><![CDATA[Milwaukee Bucks vs Philadelphia 76ers - Final]]></description>
-</item>
-<item>
 <title>Brewers News: Remember Frelick&#x27;s crazy catch at Yankee Stadium? So does Wiemer -- with a mark to prove it</title>
 <link>https://www.mlb.com/brewers/news/joey-wiemer-talks-sal-frelick-s-2023-catch-at-yankee-stadium</link>
 <guid isPermaLink='false'>aa957ed514ddab149ba0918dc19032a8cdc30b4a</guid>
 <pubDate>Sun, 12 Apr 2026 18:28:42 +0000</pubDate>
 <description><![CDATA[Remember Frelick's crazy catch at Yankee Stadium? So does Wiemer -- with a mark to prove it]]></description>
-</item>
-<item>
-<title>MLB - Final: Washington Nationals 8 @ Milwaukee Brewers 6 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401814917</link>
-<guid isPermaLink='false'>b544bd4439f5e3bb4d2e24303f464759291cd8e0</guid>
-<pubDate>Sun, 12 Apr 2026 18:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Washington Nationals vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Garner, manager of 2nd-most games in Brewers history, dies at 76</title>
@@ -202,34 +212,6 @@
 <guid isPermaLink='false'>904986e6d5ee5b22c3b3c0d4ab52892be4a38468</guid>
 <pubDate>Fri, 10 Apr 2026 14:49:40 +0000</pubDate>
 <description><![CDATA[Made, No. 3 overall prospect, continues sizzling start]]></description>
-</item>
-<item>
-<title>Brewers News: Supper anyone? Brewers hosting pop-up club to complement City Connect release</title>
-<link>https://www.mlb.com/brewers/news/brewers-opening-a-supper-club-to-pair-with-new-city-connect-rollout</link>
-<guid isPermaLink='false'>d98bbfd88bf812b1e6c0841593c7faa4e6d8f2de</guid>
-<pubDate>Thu, 09 Apr 2026 14:29:03 +0000</pubDate>
-<description><![CDATA[Supper anyone? Brewers hosting pop-up club to complement City Connect release]]></description>
-</item>
-<item>
-<title>Brewers News: Brewers&#x27; nature-inspired City Connect unis a statewide effort</title>
-<link>https://www.mlb.com/brewers/news/brewers-release-city-connect-2-0-jerseys</link>
-<guid isPermaLink='false'>404a18cc5c9eb908d58316c4dab9003fac8feb63</guid>
-<pubDate>Thu, 09 Apr 2026 14:03:10 +0000</pubDate>
-<description><![CDATA[Brewers' nature-inspired City Connect unis a statewide effort]]></description>
-</item>
-<item>
-<title>Brewers News: Brewers&#x27; staff has strength in numbers, and Drohan is latest man up</title>
-<link>https://www.mlb.com/brewers/news/shane-drohan-makes-mlb-debut-in-brewers-loss-to-red-sox</link>
-<guid isPermaLink='false'>3c422e4fa952bc7b6a22b8af4e47c7526d316111</guid>
-<pubDate>Wed, 08 Apr 2026 21:42:56 +0000</pubDate>
-<description><![CDATA[Brewers' staff has strength in numbers, and Drohan is latest man up]]></description>
-</item>
-<item>
-<title>Brewers News: Turang out a 2nd game with ankle tendinitis; IL trip not expected</title>
-<link>https://www.mlb.com/brewers/news/brice-turang-sits-with-undisclosed-foot-ankle-injury</link>
-<guid isPermaLink='false'>2e752358540e0cf1b9837f2530d36d6c96870475</guid>
-<pubDate>Wed, 08 Apr 2026 16:22:00 +0000</pubDate>
-<description><![CDATA[Turang out a 2nd game with ankle tendinitis; IL trip not expected]]></description>
 </item>
 <item>
 <title>UW News - Volleyball: Volleyball Match Times Announced for AVCA First Serve</title>
