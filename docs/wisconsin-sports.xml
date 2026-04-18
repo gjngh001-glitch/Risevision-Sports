@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 18 Apr 2026 19:52:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Apr 2026 20:33:19 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 0 @ Miami Marlins 0 (Bot 2nd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401814990</link>
+<guid isPermaLink='false'>b1499a30631a960a527d575231903f5f42c63ea1</guid>
+<pubDate>Sat, 18 Apr 2026 20:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Miami Marlins - Bot 2nd]]></description>
+</item>
 <item>
 <title>Brewers News: Braun set to join baseball icons in Wisconsin Athletic HOF</title>
 <link>https://www.mlb.com/brewers/news/wisconsin-athletic-hall-of-fame-baseball-inductees</link>
