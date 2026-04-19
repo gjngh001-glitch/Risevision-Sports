@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 19 Apr 2026 20:34:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Apr 2026 21:18:59 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 3 @ Miami Marlins 5 (Top 9th)</title>
+<title>Brewers News: Brewers-Marlins highlights</title>
+<link>https://www.mlb.com/stories/game/823881</link>
+<guid isPermaLink='false'>3b2513d04db8b5fe270215350d344733b57d4c2e</guid>
+<pubDate>Sun, 19 Apr 2026 20:56:19 +0000</pubDate>
+<description><![CDATA[Brewers-Marlins highlights]]></description>
+</item>
+<item>
+<title>MLB - Final: Milwaukee Brewers 3 @ Miami Marlins 5 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815005</link>
-<guid isPermaLink='false'>58a6b0aef6e05070f1e95e84651d4b5311815613</guid>
+<guid isPermaLink='false'>4a82910b40dc39be210d11c54dc6a3332d634f91</guid>
 <pubDate>Sun, 19 Apr 2026 17:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Miami Marlins - Top 9th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Miami Marlins - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers&#x27; Peña (MLB&#x27;s No. 21 prospect) continues hot start with first homer of &#x27;26</title>
@@ -281,13 +288,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/4/19/IMG_8585.jpeg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/4/19/IMG_8585.jpeg" medium="image" />
 <description><![CDATA[<img alt="Teagan announcement " src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/19/IMG_8585.jpeg" /><br /><br />Transfer guard and top in-state recruit heads home to Wisconsin after two years at Iowa]]></description>
-</item>
-<item>
-<title>Brewers News: Brewers fourth in latest Power Rankings</title>
-<link>https://www.mlb.com/brewers/news/mlb-power-rankings-april-12-2026</link>
-<guid isPermaLink='false'>64388256d6faf6c9b94446a7052adc66cf81eda6</guid>
-<pubDate>Mon, 13 Apr 2026 01:37:35 +0000</pubDate>
-<description><![CDATA[Brewers fourth in latest Power Rankings]]></description>
 </item>
 <item>
 <title>Brewers News: How slumping Brewers hope to get back on track after sweep</title>
