@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 21 Apr 2026 23:50:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Apr 2026 02:13:00 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 3 @ Detroit Tigers 0 (Bot 4th)</title>
+<title>Brewers News: Short-handed Brewers run wild, cash in on Tigers’ mistakes</title>
+<link>https://www.mlb.com/brewers/news/brewers-7-run-8th-inning-beat-tigers</link>
+<guid isPermaLink='false'>9e4540d0f869be79589fa468a6215a1c080b8901</guid>
+<pubDate>Wed, 22 Apr 2026 01:48:25 +0000</pubDate>
+<description><![CDATA[Short-handed Brewers run wild, cash in on Tigers’ mistakes]]></description>
+</item>
+<item>
+<title>MLB - Final: Milwaukee Brewers 12 @ Detroit Tigers 4 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815029</link>
-<guid isPermaLink='false'>88a2b2b84ccb18cfb30a0f8f8073afcf79f9731b</guid>
+<guid isPermaLink='false'>9b8d0488dac0df1f9824d45e261646ad1d0d7a87</guid>
 <pubDate>Tue, 21 Apr 2026 22:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Detroit Tigers - Bot 4th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Detroit Tigers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Chourio (hand) ready to take next step in comeback</title>
@@ -98,15 +105,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/4/18/DSC03508.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/4/18/DSC03508.jpg" medium="image" />
 <description><![CDATA[<img alt="Kelly Sheffield talks in a huddle against Green Bay. " src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/18/DSC03508.jpg" /><br /><br />GREEN BAY, Wis. — The Wisconsin volleyball team tamed the Green Bay Phoenix with a 3-0 set victory (25-13, 25-9, 25-12) at the Kress Center on Saturday afternoon.]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 5 @ Miami Marlins 2 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401814990</link>
-<guid isPermaLink='false'>0044fcdf53c8d44fcd34e10281af9082e7521980</guid>
-<pubDate>Sat, 18 Apr 2026 20:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Miami Marlins - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Braun set to join baseball icons in Wisconsin Athletic HOF</title>
@@ -295,13 +293,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/4/19/IMG_8585.jpeg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/4/19/IMG_8585.jpeg" medium="image" />
 <description><![CDATA[<img alt="Teagan announcement " src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/19/IMG_8585.jpeg" /><br /><br />Transfer guard and top in-state recruit heads home to Wisconsin after two years at Iowa]]></description>
-</item>
-<item>
-<title>Brewers News: How slumping Brewers hope to get back on track after sweep</title>
-<link>https://www.mlb.com/brewers/news/brewers-slumping-during-homestand-after-sweep-by-nationals</link>
-<guid isPermaLink='false'>610a76d8f52742c7246119011444ba79aec4f3f1</guid>
-<pubDate>Sun, 12 Apr 2026 23:26:59 +0000</pubDate>
-<description><![CDATA[How slumping Brewers hope to get back on track after sweep]]></description>
 </item>
 <item>
 <title>UW News - Volleyball: Volleyball Match Times Announced for AVCA First Serve</title>
