@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 22 Apr 2026 23:06:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Apr 2026 00:00:58 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 0 @ Detroit Tigers 0 (Bot 2nd)</title>
+<title>Brewers News: Crew poised to be 2nd team ever to face reigning Cy Youngs back to back</title>
+<link>https://www.mlb.com/brewers/news/brewers-tarik-skubal-and-paul-skenes-back-to-back-games</link>
+<guid isPermaLink='false'>a7019075e0cc8ae2bf461667f906647eb7215e0a</guid>
+<pubDate>Wed, 22 Apr 2026 23:07:30 +0000</pubDate>
+<description><![CDATA[Crew poised to be 2nd team ever to face reigning Cy Youngs back to back]]></description>
+</item>
+<item>
+<title>MLB - Live: Milwaukee Brewers 1 @ Detroit Tigers 3 (Bot 5th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815044</link>
-<guid isPermaLink='false'>4a7986bbc44e51ecc93144bc07d441d7814224d7</guid>
+<guid isPermaLink='false'>152efa73e0f6a950adf099acbcbb8e46ccbf16d6</guid>
 <pubDate>Wed, 22 Apr 2026 22:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Detroit Tigers - Bot 2nd]]></description>
+<description><![CDATA[Milwaukee Brewers vs Detroit Tigers - Bot 5th]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -84,15 +91,6 @@
 <guid isPermaLink='false'>86c7ac51360c689f87c5f4748cc0b883ebf8e253</guid>
 <pubDate>Sun, 19 Apr 2026 23:18:27 +0000</pubDate>
 <description><![CDATA[Crew, Miz stung by bumpy 1st frame in series finale]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 3 @ Miami Marlins 5 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815005</link>
-<guid isPermaLink='false'>4a82910b40dc39be210d11c54dc6a3332d634f91</guid>
-<pubDate>Sun, 19 Apr 2026 17:40:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Miami Marlins - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers&#x27; Peña (MLB&#x27;s No. 21 prospect) continues hot start with first homer of &#x27;26</title>
@@ -286,13 +284,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/4/18/WBB-20260415-Courthiau_Commited-16x9.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/4/18/WBB-20260415-Courthiau_Commited-16x9.jpg" medium="image" />
 <description><![CDATA[<img alt="Alicia Courthiau Signed " src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/18/WBB-20260415-Courthiau_Commited-16x9.jpg" /><br /><br />Freshman brings EuroCup and national team experience to the Badgers]]></description>
-</item>
-<item>
-<title>Brewers News: Why do projection models miss on the Brewers? Murph went down the rabbit hole</title>
-<link>https://www.mlb.com/brewers/news/pat-murphy-analyzes-brewers-preseason-projection-models</link>
-<guid isPermaLink='false'>bc62a44a19c9c54915a52e79585ed6bc281b88f8</guid>
-<pubDate>Mon, 13 Apr 2026 13:32:50 +0000</pubDate>
-<description><![CDATA[Why do projection models miss on the Brewers? Murph went down the rabbit hole]]></description>
 </item>
 <item>
 <title>UW News - Women&#x27;s Basketball: Badgers sign NEC Player of the Year Kadidia Toure</title>
