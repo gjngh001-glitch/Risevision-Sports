@@ -4,15 +4,24 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Thu, 23 Apr 2026 18:45:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Apr 2026 20:09:04 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 1 @ Detroit Tigers 3 (End 6th)</title>
+<title>UW News - Men&#x27;s Basketball: Riddle to join Badgers next season</title>
+<link>https://uwbadgers.com/news/2026/4/23/mens-basketball-riddle-to-join-badgers-next-season</link>
+<guid isPermaLink='false'>f2a769aa9f069cb6b9035a9855e2d167f105abd8</guid>
+<pubDate>Thu, 23 Apr 2026 20:00:00 +0000</pubDate>
+<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/4/23/MBB-20260422-Isaac_Riddle_Signed_Web.jpg" type="image/jpeg" />
+<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/4/23/MBB-20260422-Isaac_Riddle_Signed_Web.jpg" medium="image" />
+<description><![CDATA[<img alt="Isaac Riddle Headline Image" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/23/MBB-20260422-Isaac_Riddle_Signed_Web.jpg" /><br /><br />MADISON, Wis. – The Wisconsin men's basketball program announced on Thursday that Isaac Riddle will join the program next fall.]]></description>
+</item>
+<item>
+<title>MLB - Final: Milwaukee Brewers 4 @ Detroit Tigers 5 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815057</link>
-<guid isPermaLink='false'>ea83ad3308d6816c36903d484b4914d1346a2d7a</guid>
+<guid isPermaLink='false'>e02351123d17931ac6cb027adefddf8317ab5145</guid>
 <pubDate>Thu, 23 Apr 2026 17:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Detroit Tigers - End 6th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Detroit Tigers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers SS prospect Luis Peña &#x27;fine&#x27; after medical emergency</title>
@@ -471,15 +480,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/15/RAD07794.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/15/RAD07794.jpg" medium="image" />
 <description><![CDATA[<img alt="John Blackwell celebrates after a Wisconsin win over Illinois in the Big Ten Tournament" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/15/RAD07794.jpg" /><br /><br />Badgers will make 25th appearance in the last 27 Big Dances]]></description>
-</item>
-<item>
-<title>UW News - Men&#x27;s Basketball: Badgers fall to Michigan in Big Ten Semifinals</title>
-<link>https://uwbadgers.com/news/2026/3/14/mens-basketball-badgers-fall-to-michigan-in-big-ten-semifinals</link>
-<guid isPermaLink='false'>5302d5fb77f0b8239c4a681bd5a76e604a3aa21c</guid>
-<pubDate>Sat, 14 Mar 2026 20:20:00 +0000</pubDate>
-<enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/14/RAD00746.JPG" type="image/jpeg" />
-<media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/3/14/RAD00746.JPG" medium="image" />
-<description><![CDATA[<img alt="JB gets lifted in loss to Michigan" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/3/14/RAD00746.JPG" /><br /><br />The 5th-seeded Wisconsin men's basketball team fell 68-65 in a thriller to top-seeded Michigan on Saturday in the Big Ten Tournament Semifinals at the United Center in Chicago.]]></description>
 </item>
 <item>
 <title>UW News - Football: Wisconsin Football : 2026 Pro Day media availability</title>
