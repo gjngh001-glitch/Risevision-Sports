@@ -4,7 +4,23 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 29 Apr 2026 23:10:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 30 Apr 2026 00:07:31 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Arizona Diamondbacks 0 @ Milwaukee Brewers 1 (Bot 2nd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815142</link>
+<guid isPermaLink='false'>566f64603866cd2b8c0653c25c6517b4f1fba654</guid>
+<pubDate>Wed, 29 Apr 2026 23:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Arizona Diamondbacks vs Milwaukee Brewers - Bot 2nd]]></description>
+</item>
+<item>
+<title>Brewers News: Zerpa (left forearm tightness) placed on IL for possibly lengthy stint</title>
+<link>https://www.mlb.com/brewers/news/angel-zerpa-placed-on-injured-list-with-left-forearm-tightness</link>
+<guid isPermaLink='false'>96662f5a361baefe72f4a4839b42a3afb02776de</guid>
+<pubDate>Wed, 29 Apr 2026 23:08:40 +0000</pubDate>
+<description><![CDATA[Zerpa (left forearm tightness) placed on IL for possibly lengthy stint]]></description>
+</item>
 <item>
 <title>Brewers News: Watch top prospect Made play at Double-A for FREE on Sunday</title>
 <link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
@@ -66,13 +82,6 @@
 <description><![CDATA[<img alt="Julia Ford WBB Assistant Coach" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/28/WBB-20260427-Ford_Hired-16x9.jpg" /><br /><br />Ford brings seven years of collegiate experience, including stops at Grand Canyon and Missouri]]></description>
 </item>
 <item>
-<title>Brewers News: $10 Minor League tickets?! Today&#x27;s your last chance to snag &#x27;em</title>
-<link>https://www.mlb.com/brewers/news/see-any-minor-league-team-for-10</link>
-<guid isPermaLink='false'>307296189abd592e27c739779ebba5607506a99f</guid>
-<pubDate>Tue, 28 Apr 2026 14:03:00 +0000</pubDate>
-<description><![CDATA[$10 Minor League tickets?! Today's your last chance to snag 'em]]></description>
-</item>
-<item>
 <title>Brewers News: How are things on the Brewers&#x27; farm? Here are some early awards</title>
 <link>https://www.mlb.com/brewers/news/april-awards-for-the-brewers-farm-system</link>
 <guid isPermaLink='false'>05a8821276f7bebab0551fc2215f00270ec0b224</guid>
@@ -113,15 +122,6 @@
 <guid isPermaLink='false'>4c3cc0919b913c70953bc6b3bda27215fdf0d78c</guid>
 <pubDate>Sun, 26 Apr 2026 18:49:19 +0000</pubDate>
 <description><![CDATA[Priester faces more control issues during second rehab start]]></description>
-</item>
-<item>
-<title>MLB - Final: Pittsburgh Pirates 0 @ Milwaukee Brewers 5 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815104</link>
-<guid isPermaLink='false'>f70da2a451e1caa992775710043fa860974a08d5</guid>
-<pubDate>Sun, 26 Apr 2026 18:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Pittsburgh Pirates vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Misiorowski K&#x27;s Oneil at 102.7 mph, tops Skubal for fastest strikeout pitch by a starter</title>
