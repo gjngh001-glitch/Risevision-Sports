@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Fri, 01 May 2026 23:36:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 02 May 2026 01:17:48 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 2 @ Washington Nationals 0 (Bot 3rd)</title>
+<title>Brewers News: Miz, working on no-hitter, exits with injury</title>
+<link>https://www.mlb.com/brewers/news/jacob-misiorowski-leaves-injured-in-6th-amid-no-hitter</link>
+<guid isPermaLink='false'>55f52c4d767957cf1cf4f08fbe4da785311e0cce</guid>
+<pubDate>Sat, 02 May 2026 00:54:00 +0000</pubDate>
+<description><![CDATA[Miz, working on no-hitter, exits with injury]]></description>
+</item>
+<item>
+<title>MLB - Live: Milwaukee Brewers 6 @ Washington Nationals 1 (Bot 8th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815160</link>
-<guid isPermaLink='false'>0004c86478bf46f66af021da37329aa3d67560ca</guid>
+<guid isPermaLink='false'>4c14a8fe42edf4451e42b28d86f64af290cba04f</guid>
 <pubDate>Fri, 01 May 2026 22:45:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Washington Nationals - Bot 3rd]]></description>
+<description><![CDATA[Milwaukee Brewers vs Washington Nationals - Bot 8th]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -20,13 +27,6 @@
 <guid isPermaLink='false'>1b5d90015aa77c12ece0686e51a77e5a833e5b51</guid>
 <pubDate>Fri, 01 May 2026 22:29:00 +0000</pubDate>
 <description><![CDATA[Latest Brewers injuries & transactions]]></description>
-</item>
-<item>
-<title>Brewers News: Watch top prospect Made play at Double-A for FREE on Sunday</title>
-<link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
-<guid isPermaLink='false'>43b761a2c3f7117dbf16b6541545d3b85255aa32</guid>
-<pubDate>Fri, 01 May 2026 22:20:00 +0000</pubDate>
-<description><![CDATA[Watch top prospect Made play at Double-A for FREE on Sunday]]></description>
 </item>
 <item>
 <title>Brewers News: Woodruff placed on IL with shoulder inflammation, but Crew relieved by diagnosis</title>
@@ -145,15 +145,6 @@
 <guid isPermaLink='false'>2793b3bfc1459277850a8ec8da0c37a5b5698c58</guid>
 <pubDate>Wed, 29 Apr 2026 03:44:02 +0000</pubDate>
 <description><![CDATA[Patrick all good after temporary vision scare during latest start]]></description>
-</item>
-<item>
-<title>MLB - Final: Arizona Diamondbacks 2 @ Milwaukee Brewers 13 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815127</link>
-<guid isPermaLink='false'>8716e0ebed23b53bdd02d8bede4974e621860d7c</guid>
-<pubDate>Tue, 28 Apr 2026 23:40:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Arizona Diamondbacks vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: These prospects weren&#x27;t in the discussion for the Top 100 entering the season ... they are now</title>
