@@ -4,13 +4,29 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 03 May 2026 17:34:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 03 May 2026 18:35:37 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 1 @ Washington Nationals 0 (Top 5th)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815190</link>
+<guid isPermaLink='false'>e9c77c36c78fecb7ba55c3753da6a154bf24f409</guid>
+<pubDate>Sun, 03 May 2026 17:35:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Washington Nationals - Top 5th]]></description>
+</item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
 <link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
 <guid isPermaLink='false'>5aacf0177caa57c6861a7622081b1800a1bc599e</guid>
 <pubDate>Sun, 03 May 2026 17:22:00 +0000</pubDate>
 <description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>Brewers News: Vaughn set for Monday return, Chourio delayed by foul off ankle</title>
+<link>https://www.mlb.com/brewers/news/andrew-vaughn-return-injury-jackson-chourio-delayed</link>
+<guid isPermaLink='false'>e1250c28db1e1b0c5eb8ede20949023b013bb52b</guid>
+<pubDate>Sun, 03 May 2026 17:18:13 +0000</pubDate>
+<description><![CDATA[Vaughn set for Monday return, Chourio delayed by foul off ankle]]></description>
 </item>
 <item>
 <title>Brewers News: Watch top prospect Made play at Double-A for FREE today</title>
@@ -196,13 +212,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/4/28/WBB-20260427-Ford_Hired-16x9.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/4/28/WBB-20260427-Ford_Hired-16x9.jpg" medium="image" />
 <description><![CDATA[<img alt="Julia Ford WBB Assistant Coach" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/4/28/WBB-20260427-Ford_Hired-16x9.jpg" /><br /><br />Ford brings seven years of collegiate experience, including stops at Grand Canyon and Missouri]]></description>
-</item>
-<item>
-<title>Brewers News: How are things on the Brewers&#x27; farm? Here are some early awards</title>
-<link>https://www.mlb.com/brewers/news/april-awards-for-the-brewers-farm-system</link>
-<guid isPermaLink='false'>05a8821276f7bebab0551fc2215f00270ec0b224</guid>
-<pubDate>Tue, 28 Apr 2026 13:48:00 +0000</pubDate>
-<description><![CDATA[How are things on the Brewers' farm? Here are some early awards]]></description>
 </item>
 <item>
 <title>UW News - Volleyball: Badgers blitz Huskies in final spring match</title>
