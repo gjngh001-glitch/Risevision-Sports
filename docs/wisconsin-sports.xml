@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 03 May 2026 18:35:37 +0000</lastBuildDate>
+<lastBuildDate>Sun, 03 May 2026 19:41:01 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 1 @ Washington Nationals 0 (Top 5th)</title>
+<title>Brewers News: Watch top prospect Made play at Double-A for FREE today</title>
+<link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
+<guid isPermaLink='false'>c3b2979dcdc1f2f61b4255c0aee8c6c54a77c2f7</guid>
+<pubDate>Sun, 03 May 2026 19:11:00 +0000</pubDate>
+<description><![CDATA[Watch top prospect Made play at Double-A for FREE today]]></description>
+</item>
+<item>
+<title>MLB - Live: Milwaukee Brewers 1 @ Washington Nationals 3 (Bot 8th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815190</link>
-<guid isPermaLink='false'>e9c77c36c78fecb7ba55c3753da6a154bf24f409</guid>
+<guid isPermaLink='false'>ec0ec81a272790d42b4ed2e5c85a3e289e02b5e2</guid>
 <pubDate>Sun, 03 May 2026 17:35:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Washington Nationals - Top 5th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Washington Nationals - Bot 8th]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -27,13 +34,6 @@
 <guid isPermaLink='false'>e1250c28db1e1b0c5eb8ede20949023b013bb52b</guid>
 <pubDate>Sun, 03 May 2026 17:18:13 +0000</pubDate>
 <description><![CDATA[Vaughn set for Monday return, Chourio delayed by foul off ankle]]></description>
-</item>
-<item>
-<title>Brewers News: Watch top prospect Made play at Double-A for FREE today</title>
-<link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
-<guid isPermaLink='false'>95b471f40215d14196b7c8354f01840538c26537</guid>
-<pubDate>Sun, 03 May 2026 15:50:00 +0000</pubDate>
-<description><![CDATA[Watch top prospect Made play at Double-A for FREE today]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers No. 2 prospect Luis Peña set to see neurologist on Monday</title>
