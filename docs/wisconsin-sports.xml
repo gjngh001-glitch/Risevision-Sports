@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 10 May 2026 00:02:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 04:14:02 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: New York Yankees 1 @ Milwaukee Brewers 0 (Bot 3rd)</title>
+<title>Brewers News: Crew capitalizes on Yankees&#x27; blunder for first walk-off win of &#x27;26</title>
+<link>https://www.mlb.com/brewers/news/william-contreras-walk-off-sac-fly-lifts-brewers</link>
+<guid isPermaLink='false'>210bd8cee38641bdb4e1bee1dd1e09c87dff3ebf</guid>
+<pubDate>Sun, 10 May 2026 04:04:00 +0000</pubDate>
+<description><![CDATA[Crew capitalizes on Yankees' blunder for first walk-off win of '26]]></description>
+</item>
+<item>
+<title>MLB - Final: New York Yankees 3 @ Milwaukee Brewers 4 (Final/10)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815277</link>
-<guid isPermaLink='false'>78ff9719eedc47200b8a8945f946f2247428e523</guid>
+<guid isPermaLink='false'>0242b888597cb72c8e12ee2cac2e0d88c906a0e5</guid>
 <pubDate>Sat, 09 May 2026 23:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[New York Yankees vs Milwaukee Brewers - Bot 3rd]]></description>
+<description><![CDATA[New York Yankees vs Milwaukee Brewers - Final/10]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -194,13 +201,6 @@
 <guid isPermaLink='false'>ca618634d2b177b4252598c6f1c629d5864f7562</guid>
 <pubDate>Sat, 02 May 2026 14:26:13 +0000</pubDate>
 <description><![CDATA[This prospect a proven option to fill Woodruff's rotation void]]></description>
-</item>
-<item>
-<title>Brewers News: Miz blazes through no-hit bid with historic velo until cramp cuts night short</title>
-<link>https://www.mlb.com/brewers/news/jacob-misiorowski-leaves-injured-in-6th-amid-no-hitter</link>
-<guid isPermaLink='false'>4c759d406d5e832e207b0182d29e320833f19188</guid>
-<pubDate>Sat, 02 May 2026 05:48:00 +0000</pubDate>
-<description><![CDATA[Miz blazes through no-hit bid with historic velo until cramp cuts night short]]></description>
 </item>
 <item>
 <title>UW News - Volleyball: 2026 Volleyball Season Tickets on Sale Now</title>
