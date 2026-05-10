@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 09 May 2026 23:03:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 00:02:59 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: New York Yankees 1 @ Milwaukee Brewers 0 (Bot 3rd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815277</link>
+<guid isPermaLink='false'>78ff9719eedc47200b8a8945f946f2247428e523</guid>
+<pubDate>Sat, 09 May 2026 23:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[New York Yankees vs Milwaukee Brewers - Bot 3rd]]></description>
+</item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
 <link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
@@ -92,15 +101,6 @@
 <guid isPermaLink='false'>af149b3e3ae1e10d446775a9fb91a4a28e9fa641</guid>
 <pubDate>Wed, 06 May 2026 21:51:00 +0000</pubDate>
 <description><![CDATA[Miss me? Vaughn, Chourio show Crew's offensive potential in 2nd game since IL returns]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 6 @ St. Louis Cardinals 2 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815238</link>
-<guid isPermaLink='false'>a001623fc2a39cc66617b83af37fc9f32a599bad</guid>
-<pubDate>Wed, 06 May 2026 17:15:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs St. Louis Cardinals - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Woodruff hopes to resume throwing this weekend after minor right shoulder procedure</title>
