@@ -4,7 +4,23 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 13 May 2026 22:49:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 13 May 2026 23:54:04 +0000</lastBuildDate>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>4bcbede210d7873d0f999d2c7c3d965174059c3a</guid>
+<pubDate>Wed, 13 May 2026 23:49:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>MLB - Live: San Diego Padres 0 @ Milwaukee Brewers 0 (Bot 1st)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815330</link>
+<guid isPermaLink='false'>947b5afbaf4ed26252c4d8f1db43691f07c04554</guid>
+<pubDate>Wed, 13 May 2026 23:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[San Diego Padres vs Milwaukee Brewers - Bot 1st]]></description>
+</item>
 <item>
 <title>Brewers News: The speed-defense specialist who quietly turned into a superstar</title>
 <link>https://www.mlb.com/brewers/news/how-brice-turang-emerged-as-a-superstar</link>
@@ -41,13 +57,6 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
 <description><![CDATA[San Diego Padres vs Milwaukee Brewers - Final]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>79bdecd1bb1c56eda76103c516b0be3cc5e26fd3</guid>
-<pubDate>Tue, 12 May 2026 22:22:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>Brewers News: Here are the top 10 relief pitching prospects</title>
