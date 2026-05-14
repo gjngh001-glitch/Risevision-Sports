@@ -4,7 +4,14 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 13 May 2026 23:54:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 14 May 2026 02:50:16 +0000</lastBuildDate>
+<item>
+<title>Brewers News: The Top 100 Prospects list has been updated, and there&#x27;s a new No. 1</title>
+<link>https://www.mlb.com/brewers/news/updated-top-100-prospects-list-may-2026</link>
+<guid isPermaLink='false'>be3b7ece79ef64b43fed8fa462319ffb73a5957c</guid>
+<pubDate>Thu, 14 May 2026 00:30:00 +0000</pubDate>
+<description><![CDATA[The Top 100 Prospects list has been updated, and there's a new No. 1]]></description>
+</item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
 <link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
@@ -13,13 +20,13 @@
 <description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
-<title>MLB - Live: San Diego Padres 0 @ Milwaukee Brewers 0 (Bot 1st)</title>
+<title>MLB - Final: San Diego Padres 3 @ Milwaukee Brewers 1 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815330</link>
-<guid isPermaLink='false'>947b5afbaf4ed26252c4d8f1db43691f07c04554</guid>
+<guid isPermaLink='false'>e69a2b1ba3485ceb846f1451f1ffb2a778434d09</guid>
 <pubDate>Wed, 13 May 2026 23:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[San Diego Padres vs Milwaukee Brewers - Bot 1st]]></description>
+<description><![CDATA[San Diego Padres vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: The speed-defense specialist who quietly turned into a superstar</title>
@@ -147,15 +154,6 @@
 <description><![CDATA[Turang's walk-off blast gives Brewers first sweep of Yankees this century]]></description>
 </item>
 <item>
-<title>MLB - Final: New York Yankees 3 @ Milwaukee Brewers 4 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815292</link>
-<guid isPermaLink='false'>0c9ee878a144a8de30db81a37b015ab971662ac3</guid>
-<pubDate>Sun, 10 May 2026 18:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[New York Yankees vs Milwaukee Brewers - Final]]></description>
-</item>
-<item>
 <title>Brewers News: Crew capitalizes on Yankees&#x27; blunder for first walk-off win of &#x27;26</title>
 <link>https://www.mlb.com/brewers/news/william-contreras-walk-off-sac-fly-lifts-brewers</link>
 <guid isPermaLink='false'>210bd8cee38641bdb4e1bee1dd1e09c87dff3ebf</guid>
@@ -196,13 +194,6 @@
 <guid isPermaLink='false'>e358c7023e0461e5ae36d2c4d52303acdee5c60d</guid>
 <pubDate>Sat, 09 May 2026 04:13:00 +0000</pubDate>
 <description><![CDATA[Facing Yanks for first time, Miz sets Statcast velocity records ablaze]]></description>
-</item>
-<item>
-<title>Brewers News: How Brewers are pushing tech boundaries of local broadcasts</title>
-<link>https://www.mlb.com/brewers/news/brewers-innovating-with-local-broadcasts</link>
-<guid isPermaLink='false'>510cdc6e115be08bad2daf1419a68dc2c9618882</guid>
-<pubDate>Sat, 09 May 2026 00:45:00 +0000</pubDate>
-<description><![CDATA[How Brewers are pushing tech boundaries of local broadcasts]]></description>
 </item>
 <item>
 <title>UW News - Football: Kickoff time for season opener revealed</title>
