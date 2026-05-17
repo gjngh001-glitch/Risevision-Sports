@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 17 May 2026 21:07:37 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 22:07:17 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 4 @ Minnesota Twins 5 (Top 9th)</title>
+<title>Brewers News: Brewers-Twins highlights</title>
+<link>https://www.mlb.com/stories/game/823708</link>
+<guid isPermaLink='false'>3fe820187caab57a3799cab63b59c462c524ed64</guid>
+<pubDate>Sun, 17 May 2026 21:07:17 +0000</pubDate>
+<description><![CDATA[Brewers-Twins highlights]]></description>
+</item>
+<item>
+<title>MLB - Final: Milwaukee Brewers 4 @ Minnesota Twins 5 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815384</link>
-<guid isPermaLink='false'>579f2c09be60f72cc6e8b1656c409bca162567b9</guid>
+<guid isPermaLink='false'>6c163b62c34a2ae1a2dfde33bdf89683eb07c5b6</guid>
 <pubDate>Sun, 17 May 2026 18:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Minnesota Twins - Top 9th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Minnesota Twins - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -166,13 +173,6 @@
 <guid isPermaLink='false'>d95555a6588e66cf2d7fbfd1adde690aca4d4607</guid>
 <pubDate>Tue, 12 May 2026 23:43:00 +0000</pubDate>
 <description><![CDATA[Here is each club's hottest pitching prospect right now]]></description>
-</item>
-<item>
-<title>Brewers News: Here are the top 10 relief pitching prospects</title>
-<link>https://www.mlb.com/brewers/news/best-mlb-relief-pitching-prospects-2026</link>
-<guid isPermaLink='false'>eb13cb1a808c9c588e045c4eab18509ed3bc086d</guid>
-<pubDate>Tue, 12 May 2026 17:52:14 +0000</pubDate>
-<description><![CDATA[Here are the top 10 relief pitching prospects]]></description>
 </item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Wisconsin announces exciting Big Ten home opponents for 2026-27</title>
