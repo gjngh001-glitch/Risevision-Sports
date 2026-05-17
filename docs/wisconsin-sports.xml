@@ -4,7 +4,23 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 17 May 2026 17:56:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 19:10:33 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 1 @ Minnesota Twins 1 (Bot 3rd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815384</link>
+<guid isPermaLink='false'>7cf37f55d4df240a3f0beff469870235f57c6d2e</guid>
+<pubDate>Sun, 17 May 2026 18:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Minnesota Twins - Bot 3rd]]></description>
+</item>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>5049b0fa6cc54f674e980f019a9e0b9c0f358a7a</guid>
+<pubDate>Sun, 17 May 2026 17:56:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
 <item>
 <title>Brewers News: Crew finding strength in numbers thanks to reliable young pitching depth</title>
 <link>https://www.mlb.com/brewers/news/logan-henderson-sharp-again-as-brewers-beat-twins</link>
@@ -34,13 +50,6 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" medium="image" />
 <description><![CDATA[Milwaukee Brewers vs Minnesota Twins - Final]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>eec6218ae63c854f4b49ec1e413b9a4516b970b6</guid>
-<pubDate>Sat, 16 May 2026 21:45:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers on good side of late obstruction call this time around</title>
