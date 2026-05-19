@@ -4,15 +4,29 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 19 May 2026 01:27:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 May 2026 05:40:52 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 8 @ Chicago Cubs 3 (Top 6th)</title>
+<title>Brewers News: Brewers earn decisive win in series opener vs. division-rival Cubs</title>
+<link>https://www.mlb.com/brewers/news/brewers-win-series-opener-at-wrigley-field</link>
+<guid isPermaLink='false'>004bf79ff8844a582d0a5e5ed0835d107b25bd4d</guid>
+<pubDate>Tue, 19 May 2026 04:11:00 +0000</pubDate>
+<description><![CDATA[Brewers earn decisive win in series opener vs. division-rival Cubs]]></description>
+</item>
+<item>
+<title>Brewers News: Watch 2025 first-rounder Fischer play at High-A for FREE on Wednesday</title>
+<link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
+<guid isPermaLink='false'>0fbebff3fb8f4d24c895b37e0fe7368a2dbb0516</guid>
+<pubDate>Tue, 19 May 2026 01:26:00 +0000</pubDate>
+<description><![CDATA[Watch 2025 first-rounder Fischer play at High-A for FREE on Wednesday]]></description>
+</item>
+<item>
+<title>MLB - Final: Milwaukee Brewers 9 @ Chicago Cubs 3 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815398</link>
-<guid isPermaLink='false'>e8d379fcce2d4c546469fa223dca33d3a2b80736</guid>
+<guid isPermaLink='false'>0cb1e0254c33f9edad04be81e745dbf349504a5a</guid>
 <pubDate>Mon, 18 May 2026 23:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Chicago Cubs - Top 6th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Chicago Cubs - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -27,6 +41,13 @@
 <guid isPermaLink='false'>e08d4de5b85126383b2c66d200542cc9291f6e6f</guid>
 <pubDate>Mon, 18 May 2026 20:15:00 +0000</pubDate>
 <description><![CDATA[Cubs, Crew renew rivalry in Central showdown]]></description>
+</item>
+<item>
+<title>Brewers News: We&#x27;re watching the hardest-throwing starter to ever live (probably)</title>
+<link>https://www.mlb.com/brewers/news/jacob-misiorowski-the-hardest-throwing-starter-ever</link>
+<guid isPermaLink='false'>101d6a55d2be1dbac69e96d3987015b9becd8eb5</guid>
+<pubDate>Mon, 18 May 2026 15:24:00 +0000</pubDate>
+<description><![CDATA[Fastball velocity keeps rising. One young pitcher has taken it to a new level]]></description>
 </item>
 <item>
 <title>Brewers News: Yelich a welcome sight in return to lineup as Crew looks ahead to Wrigley</title>
@@ -166,13 +187,6 @@
 <description><![CDATA[With top prospects looming, Ortiz still building case as Brewers SS]]></description>
 </item>
 <item>
-<title>Brewers News: Here is each club&#x27;s hottest pitching prospect right now</title>
-<link>https://www.mlb.com/brewers/news/hottest-pitcher-for-each-farm-system-may-2026</link>
-<guid isPermaLink='false'>d95555a6588e66cf2d7fbfd1adde690aca4d4607</guid>
-<pubDate>Tue, 12 May 2026 23:43:00 +0000</pubDate>
-<description><![CDATA[Here is each club's hottest pitching prospect right now]]></description>
-</item>
-<item>
 <title>UW News - Men&#x27;s Basketball: Wisconsin announces exciting Big Ten home opponents for 2026-27</title>
 <link>https://uwbadgers.com/news/2026/5/12/mens-basketball-wisconsin-announces-exciting-big-ten-home-opponents-for-2026-27</link>
 <guid isPermaLink='false'>ce29691c6611cb8dd86d84745799c6ead04a9cee</guid>
@@ -189,20 +203,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/5/12/MBB-20260511-Nashville_Game_vs_Aubrun-Web__2_.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/5/12/MBB-20260511-Nashville_Game_vs_Aubrun-Web__2_.jpg" medium="image" />
 <description><![CDATA[<img alt="UW vs. Auburn Game Announcement Headline Image " src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/12/MBB-20260511-Nashville_Game_vs_Aubrun-Web__2_.jpg" /><br /><br />MADISON, Wis. — The Wisconsin men's basketball team will head to the Music City next December as the Badgers are slated to take on Auburn in Nashville, Tennessee on Saturday, Dec. 19, the two programs announced on Tuesday.]]></description>
-</item>
-<item>
-<title>Brewers News: Here&#x27;s how Ashby has become the Brewers&#x27; new &#x27;vulture&#x27;</title>
-<link>https://www.mlb.com/brewers/news/aaron-ashby-leading-majors-in-wins-as-brewers-reliever</link>
-<guid isPermaLink='false'>f34157f559be6424b80b4cea9fd8125cb54abac1</guid>
-<pubDate>Tue, 12 May 2026 13:11:27 +0000</pubDate>
-<description><![CDATA[Here's how Ashby has become the Brewers' new 'vulture']]></description>
-</item>
-<item>
-<title>Brewers News: Bill Hall shares &#x27;Mother&#x27;s Day king&#x27; crown with Turang, 20 years later</title>
-<link>https://www.mlb.com/brewers/news/bill-hall-talks-20th-anniversary-of-mother-s-day-walk-off-home-run</link>
-<guid isPermaLink='false'>d8c793aa8282fe722c9b20ae59376b7c1d8b11d3</guid>
-<pubDate>Mon, 11 May 2026 11:00:25 +0000</pubDate>
-<description><![CDATA[Bill Hall shares 'Mother's Day king' crown with Turang, 20 years later]]></description>
 </item>
 <item>
 <title>UW News - Football: Kickoff time for season opener revealed</title>
