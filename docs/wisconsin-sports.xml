@@ -4,7 +4,23 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Mon, 18 May 2026 23:19:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 May 2026 01:27:51 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 8 @ Chicago Cubs 3 (Top 6th)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815398</link>
+<guid isPermaLink='false'>e8d379fcce2d4c546469fa223dca33d3a2b80736</guid>
+<pubDate>Mon, 18 May 2026 23:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Chicago Cubs - Top 6th]]></description>
+</item>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>95a95b0af8978c65bbba40707c3c4ff69a08573b</guid>
+<pubDate>Mon, 18 May 2026 23:12:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
 <item>
 <title>Brewers News: Cubs, Crew renew rivalry in Central showdown</title>
 <link>https://www.mlb.com/brewers/news/cubs-vs-brewers-first-series-of-2026-preview</link>
@@ -27,13 +43,6 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" medium="image" />
 <description><![CDATA[Milwaukee Brewers vs Minnesota Twins - Final]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>5049b0fa6cc54f674e980f019a9e0b9c0f358a7a</guid>
-<pubDate>Sun, 17 May 2026 17:56:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>Brewers News: Crew finding strength in numbers thanks to reliable young pitching depth</title>
@@ -71,15 +80,6 @@
 <guid isPermaLink='false'>cc5e8dc835855326482cbe62fb483e530dd510af</guid>
 <pubDate>Sat, 16 May 2026 04:17:00 +0000</pubDate>
 <description><![CDATA[Brewers on good side of late obstruction call this time around]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 3 @ Minnesota Twins 2 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815354</link>
-<guid isPermaLink='false'>cd07c2a63db6fd2ee68dca3c79ea1710908d5f53</guid>
-<pubDate>Fri, 15 May 2026 23:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Minnesota Twins - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers&#x27; No. 2 prospect Peña cleared to resume baseball activities after health scare</title>
