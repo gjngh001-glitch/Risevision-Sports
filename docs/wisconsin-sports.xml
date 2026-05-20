@@ -4,22 +4,29 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 20 May 2026 00:01:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 20 May 2026 04:35:13 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 1 @ Chicago Cubs 0 (Bot 1st)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815412</link>
-<guid isPermaLink='false'>0d12c9e28f2941fab51c9d2d19b3a2e150e0a8f5</guid>
-<pubDate>Tue, 19 May 2026 23:40:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Chicago Cubs - Bot 1st]]></description>
+<title>Brewers News: Miz needs &#x27;only&#x27; 101.5 mph to shut down Cubs as Crew take over 1st place</title>
+<link>https://www.mlb.com/brewers/news/jacob-misiorowski-strikes-out-eight-in-scoreless-outing-vs-cubs</link>
+<guid isPermaLink='false'>2f16b1aee26ba58c7b494083db756a94052d6255</guid>
+<pubDate>Wed, 20 May 2026 03:59:00 +0000</pubDate>
+<description><![CDATA[Miz needs 'only' 101.5 mph to shut down Cubs as Crew take over 1st place]]></description>
 </item>
 <item>
 <title>Brewers News: 2024 first-rounder Payne slugs way into rare air among teenagers at High-A</title>
 <link>https://www.mlb.com/brewers/news/brewers-prospect-braylon-payne-home-run-streak-high-a</link>
-<guid isPermaLink='false'>0219794a3c2c5c31e7cd09f4d65dc8aa9644c1b6</guid>
-<pubDate>Tue, 19 May 2026 23:02:00 +0000</pubDate>
+<guid isPermaLink='false'>89049f6ffde4889aa675d0f052df0b46d3638d2a</guid>
+<pubDate>Wed, 20 May 2026 00:27:00 +0000</pubDate>
 <description><![CDATA[2024 first-rounder Payne slugs way into rare air among teenagers at High-A]]></description>
+</item>
+<item>
+<title>MLB - Final: Milwaukee Brewers 5 @ Chicago Cubs 2 (Final)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815412</link>
+<guid isPermaLink='false'>5a5df5c2c0ed8f858b89f519615b8e4fec70b847</guid>
+<pubDate>Tue, 19 May 2026 23:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Chicago Cubs - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -173,13 +180,6 @@
 <guid isPermaLink='false'>a9428b5a0b0640ee2c441fb30e97bb95871a0f76</guid>
 <pubDate>Thu, 14 May 2026 23:19:00 +0000</pubDate>
 <description><![CDATA[Rengifo, Harrison raise their games to lift Crew at season's quarter mark]]></description>
-</item>
-<item>
-<title>Brewers News: Turang climbs into latest Hitter Power Rankings</title>
-<link>https://www.mlb.com/brewers/news/mlb-hitter-power-rankings-for-may-14-2026</link>
-<guid isPermaLink='false'>865ac053089d01f20d5e4ea861403f753ef52e11</guid>
-<pubDate>Thu, 14 May 2026 14:35:00 +0000</pubDate>
-<description><![CDATA[Turang climbs into latest Hitter Power Rankings]]></description>
 </item>
 <item>
 <title>Brewers News: Podcast: Miz-see TV with more 103 mph heat</title>
