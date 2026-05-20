@@ -4,12 +4,28 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 19 May 2026 22:49:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 20 May 2026 00:01:27 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 1 @ Chicago Cubs 0 (Bot 1st)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815412</link>
+<guid isPermaLink='false'>0d12c9e28f2941fab51c9d2d19b3a2e150e0a8f5</guid>
+<pubDate>Tue, 19 May 2026 23:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Chicago Cubs - Bot 1st]]></description>
+</item>
+<item>
+<title>Brewers News: 2024 first-rounder Payne slugs way into rare air among teenagers at High-A</title>
+<link>https://www.mlb.com/brewers/news/brewers-prospect-braylon-payne-home-run-streak-high-a</link>
+<guid isPermaLink='false'>0219794a3c2c5c31e7cd09f4d65dc8aa9644c1b6</guid>
+<pubDate>Tue, 19 May 2026 23:02:00 +0000</pubDate>
+<description><![CDATA[2024 first-rounder Payne slugs way into rare air among teenagers at High-A]]></description>
+</item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
 <link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>e6e02cf0452beb89089de097744730e619cbe698</guid>
-<pubDate>Tue, 19 May 2026 22:16:00 +0000</pubDate>
+<guid isPermaLink='false'>206f490efc74c4e4ecad157acceb3b92e9344bec</guid>
+<pubDate>Tue, 19 May 2026 22:55:00 +0000</pubDate>
 <description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
@@ -117,15 +133,6 @@
 <description><![CDATA[Priester's struggles continue in resumption of rehab assignment]]></description>
 </item>
 <item>
-<title>MLB - Final: Milwaukee Brewers 2 @ Minnesota Twins 1 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815369</link>
-<guid isPermaLink='false'>80a4cd75229db3b9d209d42e7aab60114725d586</guid>
-<pubDate>Sat, 16 May 2026 23:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Minnesota Twins - Final]]></description>
-</item>
-<item>
 <title>Brewers News: Brewers on good side of late obstruction call this time around</title>
 <link>https://www.mlb.com/brewers/news/brewers-win-series-opener-vs-twins</link>
 <guid isPermaLink='false'>cc5e8dc835855326482cbe62fb483e530dd510af</guid>
@@ -187,13 +194,6 @@
 <guid isPermaLink='false'>ca180938755a9cc33cb68a3ca46a4f928b52d21d</guid>
 <pubDate>Thu, 14 May 2026 04:10:54 +0000</pubDate>
 <description><![CDATA[Hampered by cramps again, Misiorowski's latest gem cut short in 8th]]></description>
-</item>
-<item>
-<title>Brewers News: With top prospects looming, Ortiz still building case as Brewers SS</title>
-<link>https://www.mlb.com/brewers/news/joey-ortiz-hits-first-homer-of-season-with-prospects-on-horizon</link>
-<guid isPermaLink='false'>88bb2495f80082bf83cd7930bffba9487d47b82a</guid>
-<pubDate>Wed, 13 May 2026 03:52:00 +0000</pubDate>
-<description><![CDATA[With top prospects looming, Ortiz still building case as Brewers SS]]></description>
 </item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Wisconsin announces exciting Big Ten home opponents for 2026-27</title>
