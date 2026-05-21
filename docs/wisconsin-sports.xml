@@ -4,15 +4,36 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Thu, 21 May 2026 00:04:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 21 May 2026 04:42:52 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 0 @ Chicago Cubs 0 (Top 2nd)</title>
+<title>Brewers News: Harrison&#x27;s utter dominance puts bow on Brewers&#x27; sweep at Wrigley</title>
+<link>https://www.mlb.com/brewers/news/kyle-harrison-pitches-7-scoreless-innings-strikes-out-11</link>
+<guid isPermaLink='false'>df9052348f60e3f566ea36632729e2dd191a55aa</guid>
+<pubDate>Thu, 21 May 2026 03:49:00 +0000</pubDate>
+<description><![CDATA[Harrison's utter dominance puts bow on Brewers' sweep at Wrigley]]></description>
+</item>
+<item>
+<title>Brewers News: Brewers&#x27; Hamilton circles the bases after SHOCKING whiff by PCA</title>
+<link>https://www.mlb.com/brewers/news/david-hamilton-hits-little-league-home-run-against-cubs</link>
+<guid isPermaLink='false'>baf832789b64e5529b9c07bfdbb231bc64804553</guid>
+<pubDate>Thu, 21 May 2026 02:46:00 +0000</pubDate>
+<description><![CDATA[Brewers' Hamilton circles the bases after SHOCKING whiff by PCA]]></description>
+</item>
+<item>
+<title>Brewers News: Watch FREE on Friday: Top prospects Pratt, Jett, Lara lead way at Triple-A</title>
+<link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
+<guid isPermaLink='false'>9e2487d5c744eb5dc62d7e88fe90dc7409746f9b</guid>
+<pubDate>Thu, 21 May 2026 00:44:00 +0000</pubDate>
+<description><![CDATA[Watch FREE on Friday: Top prospects Pratt, Jett, Lara lead way at Triple-A]]></description>
+</item>
+<item>
+<title>MLB - Final: Milwaukee Brewers 5 @ Chicago Cubs 0 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815427</link>
-<guid isPermaLink='false'>94095cc5ddda9a46cfdad2ac1379e35be6c28809</guid>
+<guid isPermaLink='false'>ae306e779c854a1052e38c3750212efaf6aafe1a</guid>
 <pubDate>Wed, 20 May 2026 23:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Chicago Cubs - Top 2nd]]></description>
+<description><![CDATA[Milwaukee Brewers vs Chicago Cubs - Final]]></description>
 </item>
 <item>
 <title>Brewers News: The most pleasant prospect surprises so far -- one for each team</title>
@@ -20,13 +41,6 @@
 <guid isPermaLink='false'>83fd7a3f213f3793c997e8a0ea28eae7ad14fe46</guid>
 <pubDate>Wed, 20 May 2026 23:00:00 +0000</pubDate>
 <description><![CDATA[The most pleasant prospect surprises so far -- one for each team]]></description>
-</item>
-<item>
-<title>Brewers News: Watch LIVE: 2025 first-rounder Fischer leads High-A Wisconsin</title>
-<link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
-<guid isPermaLink='false'>12ce6c0611de9ebb601a0ddb7451fb5786415ea2</guid>
-<pubDate>Wed, 20 May 2026 21:53:00 +0000</pubDate>
-<description><![CDATA[Watch LIVE: 2025 first-rounder Fischer leads High-A Wisconsin]]></description>
 </item>
 <item>
 <title>Brewers News: New No. 1 prospect Made smacks walk-off for Double-A Biloxi</title>
@@ -175,25 +189,11 @@
 <description><![CDATA[Brewers' No. 2 prospect Peña cleared to resume baseball activities after health scare]]></description>
 </item>
 <item>
-<title>Brewers News: Yelich (back) sits for 3rd straight game as set vs. Twins begins</title>
-<link>https://www.mlb.com/brewers/news/christian-yelich-out-of-brewers-lineup-back-injury</link>
-<guid isPermaLink='false'>471790d36762aa2c2d9641a3a6c503ad69ff1547</guid>
-<pubDate>Fri, 15 May 2026 22:21:00 +0000</pubDate>
-<description><![CDATA[Yelich (back) sits for 3rd straight game as set vs. Twins begins]]></description>
-</item>
-<item>
 <title>Brewers News: Brewers explain the curious side effect to Miz&#x27;s triple-digit heat</title>
 <link>https://www.mlb.com/brewers/news/jacob-misiorowski-brewers-cramps-discussion</link>
 <guid isPermaLink='false'>9721beb3703c781759fccc0f947161a14e633ea4</guid>
 <pubDate>Fri, 15 May 2026 15:58:41 +0000</pubDate>
 <description><![CDATA[Brewers explain the curious side effect to Miz's triple-digit heat]]></description>
-</item>
-<item>
-<title>Brewers News: Rengifo, Harrison raise their games to lift Crew at season&#x27;s quarter mark</title>
-<link>https://www.mlb.com/brewers/news/luis-rengifo-brewers-win-series-against-padres</link>
-<guid isPermaLink='false'>a9428b5a0b0640ee2c441fb30e97bb95871a0f76</guid>
-<pubDate>Thu, 14 May 2026 23:19:00 +0000</pubDate>
-<description><![CDATA[Rengifo, Harrison raise their games to lift Crew at season's quarter mark]]></description>
 </item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Wisconsin announces exciting Big Ten home opponents for 2026-27</title>
