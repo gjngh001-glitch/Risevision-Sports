@@ -4,22 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Fri, 22 May 2026 23:47:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 23 May 2026 02:43:50 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Los Angeles Dodgers 0 @ Milwaukee Brewers 0 (Top 1st)</title>
+<title>Brewers News: Contreras powers Brewers past Dodgers for 4th straight win</title>
+<link>https://www.mlb.com/brewers/news/william-contreras-belts-three-run-homer-in-win-against-dodgers</link>
+<guid isPermaLink='false'>6dad2500e688ee71ebfc1b75a11d7c33adf8d754</guid>
+<pubDate>Sat, 23 May 2026 02:31:20 +0000</pubDate>
+<description><![CDATA[Contreras powers Brewers past Dodgers for 4th straight win]]></description>
+</item>
+<item>
+<title>MLB - Final: Los Angeles Dodgers 1 @ Milwaukee Brewers 5 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815450</link>
-<guid isPermaLink='false'>71b6a4132dae6e7e201ffe39a5b9f9fd5482e8cb</guid>
+<guid isPermaLink='false'>a66dbf00d31995932377bf96cf7a53c0c2a1d059</guid>
 <pubDate>Fri, 22 May 2026 23:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Los Angeles Dodgers vs Milwaukee Brewers - Top 1st]]></description>
-</item>
-<item>
-<title>Brewers News: Watch LIVE: Top prospects Pratt, Jett, Lara lead way at Triple-A</title>
-<link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
-<guid isPermaLink='false'>156c73e2a9d554f6373b03636bf7c3c5de31f828</guid>
-<pubDate>Fri, 22 May 2026 23:24:00 +0000</pubDate>
-<description><![CDATA[Watch LIVE: Top prospects Pratt, Jett, Lara lead way at Triple-A]]></description>
+<description><![CDATA[Los Angeles Dodgers vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -127,15 +127,6 @@
 <guid isPermaLink='false'>89049f6ffde4889aa675d0f052df0b46d3638d2a</guid>
 <pubDate>Wed, 20 May 2026 00:27:00 +0000</pubDate>
 <description><![CDATA[2024 first-rounder Payne slugs way into rare air among teenagers at High-A]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 5 @ Chicago Cubs 2 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815412</link>
-<guid isPermaLink='false'>5a5df5c2c0ed8f858b89f519615b8e4fec70b847</guid>
-<pubDate>Tue, 19 May 2026 23:40:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Chicago Cubs - Final]]></description>
 </item>
 <item>
 <title>Brewers News: VOTE: &#x27;The Large Mammal&#x27; in running for best Minor League nickname</title>
