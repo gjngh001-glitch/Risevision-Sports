@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 24 May 2026 18:35:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 24 May 2026 19:49:17 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Los Angeles Dodgers 0 @ Milwaukee Brewers 0 (Top 2nd)</title>
+<title>Brewers News: Charlie Moore, a key member of &#x27;Harvey&#x27;s Wallbangers,&#x27; passes away at 72</title>
+<link>https://www.mlb.com/brewers/news/former-brewer-charlie-moore-passes-away</link>
+<guid isPermaLink='false'>1a3490d7205a3a745f3907ace1bce91edd2ed424</guid>
+<pubDate>Sun, 24 May 2026 19:31:45 +0000</pubDate>
+<description><![CDATA[Charlie Moore, a key member of 'Harvey's Wallbangers,' passes away at 72]]></description>
+</item>
+<item>
+<title>MLB - Live: Los Angeles Dodgers 5 @ Milwaukee Brewers 1 (Top 6th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815480</link>
-<guid isPermaLink='false'>6c33a1d19e55f9411afd3a27717166e44ccf35e1</guid>
+<guid isPermaLink='false'>6cb9a1ddfbecda431314bc2d14f6549621878b95</guid>
 <pubDate>Sun, 24 May 2026 18:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Los Angeles Dodgers vs Milwaukee Brewers - Top 2nd]]></description>
+<description><![CDATA[Los Angeles Dodgers vs Milwaukee Brewers - Top 6th]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -180,13 +187,6 @@
 <guid isPermaLink='false'>0ab23d46f11deb32c504dc2b8a3b4fb67c3d1882</guid>
 <pubDate>Tue, 19 May 2026 15:59:23 +0000</pubDate>
 <description><![CDATA[These 2 Brewers prospects are knocking at the door]]></description>
-</item>
-<item>
-<title>Brewers News: Predicting this season’s All-MLB Team</title>
-<link>https://www.mlb.com/brewers/news/all-mlb-team-predictions-for-may-2026</link>
-<guid isPermaLink='false'>d7889c882392bed8526f1c36bc5f0ecc55d1afed</guid>
-<pubDate>Tue, 19 May 2026 14:55:00 +0000</pubDate>
-<description><![CDATA[Predicting this season’s All-MLB Team]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers earn decisive win in series opener vs. division-rival Cubs</title>
