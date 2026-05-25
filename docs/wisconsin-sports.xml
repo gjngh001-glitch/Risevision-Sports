@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Mon, 25 May 2026 18:58:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 25 May 2026 20:24:06 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: St. Louis Cardinals 0 @ Milwaukee Brewers 3 (Bot 3rd)</title>
+<title>Brewers News: Electric as ever, Misiorowski reaches velo milestones vs. Cards</title>
+<link>https://www.mlb.com/brewers/news/jacob-misiorowski-dominates-vs-cardinals</link>
+<guid isPermaLink='false'>5da9ad913520b7d6e4aa182ceb74b1d764f48e48</guid>
+<pubDate>Mon, 25 May 2026 20:15:00 +0000</pubDate>
+<description><![CDATA[Electric as ever, Misiorowski reaches velo milestones vs. Cards]]></description>
+</item>
+<item>
+<title>MLB - Live: St. Louis Cardinals 1 @ Milwaukee Brewers 5 (End 7th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815494</link>
-<guid isPermaLink='false'>87cfa530b2133133484f5e1f274faa19bef8245e</guid>
+<guid isPermaLink='false'>d19cbb01f98ec3f0063eb4653813755664fed731</guid>
 <pubDate>Mon, 25 May 2026 18:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[St. Louis Cardinals vs Milwaukee Brewers - Bot 3rd]]></description>
+<description><![CDATA[St. Louis Cardinals vs Milwaukee Brewers - End 7th]]></description>
 </item>
 <item>
 <title>Brewers News: 105 mph?!? Flamethrowing Misiorowski thinks he can get there</title>
@@ -196,13 +203,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/5/18/UW-20260515_BadgerBashN_header.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/5/18/UW-20260515_BadgerBashN_header.jpg" medium="image" />
 <description><![CDATA[<img alt="Badger Bash North Fan Event in Green Bay, Wisconsin on September 5th, 2026" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/18/UW-20260515_BadgerBashN_header.jpg" /><br /><br />Downtown Green Bay will host slate of fan events on Saturday, Sept. 5 ahead of Wisconsin's season opener at Lambeau Field on Sept. 6]]></description>
-</item>
-<item>
-<title>Brewers News: These 2 Brewers prospects are knocking at the door</title>
-<link>https://www.mlb.com/brewers/news/jett-williams-cooper-pratt-have-been-on-fire-for-triple-a-nashville</link>
-<guid isPermaLink='false'>0ab23d46f11deb32c504dc2b8a3b4fb67c3d1882</guid>
-<pubDate>Tue, 19 May 2026 15:59:23 +0000</pubDate>
-<description><![CDATA[These 2 Brewers prospects are knocking at the door]]></description>
 </item>
 <item>
 <title>UW News - Men&#x27;s Basketball: Wisconsin announces exciting Big Ten home opponents for 2026-27</title>
