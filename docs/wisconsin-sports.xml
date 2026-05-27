@@ -4,7 +4,23 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 27 May 2026 14:42:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 27 May 2026 17:44:30 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: St. Louis Cardinals 0 @ Milwaukee Brewers 0 (Mid 1st)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815524</link>
+<guid isPermaLink='false'>3baf74f626accafc2d94c56fedfedbdf6c2c0cc4</guid>
+<pubDate>Wed, 27 May 2026 17:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[St. Louis Cardinals vs Milwaukee Brewers - Mid 1st]]></description>
+</item>
+<item>
+<title>Brewers News: Two new faces surge to the top of latest Cy Young poll</title>
+<link>https://www.mlb.com/brewers/news/cam-schlittler-cristopher-sanchez-lead-second-cy-young-poll-2026</link>
+<guid isPermaLink='false'>6a55910a29b59be0bcc3a9b7d0227c8967bdfc01</guid>
+<pubDate>Wed, 27 May 2026 15:15:00 +0000</pubDate>
+<description><![CDATA[Two new faces surge to the top of latest Cy Young poll]]></description>
+</item>
 <item>
 <title>Brewers News: No. 6 prospect Fischer continues to show homer power with High-A Wisconsin</title>
 <link>https://www.mlb.com/brewers/news/brewers-prospect-andrew-fischer-continues-to-show-home-run-power-in-minors</link>
@@ -25,13 +41,6 @@
 <guid isPermaLink='false'>8b362200dbaf6327891dd1345fdc4c01e07ee7bf</guid>
 <pubDate>Wed, 27 May 2026 04:56:00 +0000</pubDate>
 <description><![CDATA[How good has Harrison been? His 10-start ERA is better than '08 Sabathia's]]></description>
-</item>
-<item>
-<title>Brewers News: Two new faces surge to the top of latest Cy Young poll</title>
-<link>https://www.mlb.com/brewers/news/cam-schlittler-cristopher-sanchez-lead-second-cy-young-poll-2026</link>
-<guid isPermaLink='false'>61a6841d1d4f03a4d9f14b863c63af231bdc3aa5</guid>
-<pubDate>Wed, 27 May 2026 04:08:26 +0000</pubDate>
-<description><![CDATA[Two new faces surge to the top of latest Cy Young poll]]></description>
 </item>
 <item>
 <title>MLB - Final: St. Louis Cardinals 0 @ Milwaukee Brewers 6 (Final)</title>
