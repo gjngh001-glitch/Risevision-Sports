@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 26 May 2026 23:46:32 +0000</lastBuildDate>
+<lastBuildDate>Wed, 27 May 2026 03:30:25 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: St. Louis Cardinals 0 @ Milwaukee Brewers 0 (Top 1st)</title>
+<title>Brewers News: How good has Harrison been? His 10-start ERA is better than &#x27;08 Sabathia&#x27;s</title>
+<link>https://www.mlb.com/brewers/news/kyle-harrison-sets-10-start-era-record-for-brewers</link>
+<guid isPermaLink='false'>9e4c2b7d1240aacd3f9fd003df58d33f285dd1cc</guid>
+<pubDate>Wed, 27 May 2026 03:02:00 +0000</pubDate>
+<description><![CDATA[How good has Harrison been? His 10-start ERA is better than '08 Sabathia's]]></description>
+</item>
+<item>
+<title>MLB - Final: St. Louis Cardinals 0 @ Milwaukee Brewers 6 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815509</link>
-<guid isPermaLink='false'>410b9c62711cbf9fab1b4f64c3e5b95a87618b35</guid>
+<guid isPermaLink='false'>eb0edf8881e856955280944d10d379704f695aa6</guid>
 <pubDate>Tue, 26 May 2026 23:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[St. Louis Cardinals vs Milwaukee Brewers - Top 1st]]></description>
+<description><![CDATA[St. Louis Cardinals vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers lose Henderson (back strain) to IL, call up prospect Crow</title>
@@ -110,15 +117,6 @@
 <description><![CDATA[MLB's top prospect sets longest RBI streak of 2026 with ANOTHER homer]]></description>
 </item>
 <item>
-<title>MLB - Final: Los Angeles Dodgers 11 @ Milwaukee Brewers 3 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815465</link>
-<guid isPermaLink='false'>be97fd648e87698419818cecdac319ecdf001f28</guid>
-<pubDate>Sat, 23 May 2026 23:15:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Los Angeles Dodgers vs Milwaukee Brewers - Final]]></description>
-</item>
-<item>
 <title>Brewers News: Contreras&#x27; HR helps Crew keep regular-season hold on WS champs</title>
 <link>https://www.mlb.com/brewers/news/william-contreras-belts-three-run-homer-in-win-against-dodgers</link>
 <guid isPermaLink='false'>f9c04369d664b8b7844aea06bee701096a5fd3bb</guid>
@@ -180,13 +178,6 @@
 <guid isPermaLink='false'>baf832789b64e5529b9c07bfdbb231bc64804553</guid>
 <pubDate>Thu, 21 May 2026 02:46:00 +0000</pubDate>
 <description><![CDATA[Brewers' Hamilton circles the bases after SHOCKING whiff by PCA]]></description>
-</item>
-<item>
-<title>Brewers News: New No. 1 prospect Made smacks walk-off for Double-A Biloxi</title>
-<link>https://www.mlb.com/brewers/news/top-mlb-brewers-prospect-jesus-made-walk-off-hit-wednesday</link>
-<guid isPermaLink='false'>bca948d122bf40e2bf4f1b43457cebc80dcc70f8</guid>
-<pubDate>Wed, 20 May 2026 14:21:34 +0000</pubDate>
-<description><![CDATA[New No. 1 prospect Made smacks walk-off for Double-A Biloxi]]></description>
 </item>
 <item>
 <title>Brewers News: Miz needs &#x27;only&#x27; 101.5 mph to shut down Cubs as Crew takes over 1st place</title>
