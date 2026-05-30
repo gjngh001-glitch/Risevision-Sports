@@ -4,7 +4,30 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 30 May 2026 19:07:37 +0000</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 20:16:31 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 0 @ Houston Astros 0 (Top 1st)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815560</link>
+<guid isPermaLink='false'>4ba1c028117f314065f9e909870c88bba3683993</guid>
+<pubDate>Sat, 30 May 2026 20:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Houston Astros - Top 1st]]></description>
+</item>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>05a21dd690936d9ab6409fedffb2ef94ce1c11cc</guid>
+<pubDate>Sat, 30 May 2026 19:55:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>Brewers News: Brewers shift Priester&#x27;s rehab to Arizona after struggles in Triple-A</title>
+<link>https://www.mlb.com/brewers/news/quinn-priester-rehab-arizona-complex-league-for-brewers</link>
+<guid isPermaLink='false'>ee49590382532e0855f15fbe5eef035a93e55f71</guid>
+<pubDate>Sat, 30 May 2026 19:32:38 +0000</pubDate>
+<description><![CDATA[Brewers shift Priester's rehab to Arizona after struggles in Triple-A]]></description>
+</item>
 <item>
 <title>Brewers News: Uribe gets out of bases-loaded jam in 9th after appealing suspension</title>
 <link>https://www.mlb.com/brewers/news/abner-uribe-suspended-one-game-for-inappropriate-actions-vs-cardinals</link>
@@ -27,13 +50,6 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" medium="image" />
 <description><![CDATA[Milwaukee Brewers vs Houston Astros - Final/10]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>71cc9927991550468a150677967831620a69e085</guid>
-<pubDate>Fri, 29 May 2026 23:41:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>Brewers News: This top prospect is picking up right where he left off after missing a month of action</title>
@@ -187,13 +203,6 @@
 <guid isPermaLink='false'>1be8647f40077b1e6f9c06a6487ea725ed018188</guid>
 <pubDate>Sun, 24 May 2026 23:11:01 +0000</pubDate>
 <description><![CDATA[Sproat has career-high 7 K's, but can't complete the 5th in loss to Dodgers]]></description>
-</item>
-<item>
-<title>Brewers News: Charlie Moore, a key member of &#x27;Harvey&#x27;s Wallbangers,&#x27; passes away at 72</title>
-<link>https://www.mlb.com/brewers/news/former-brewer-charlie-moore-passes-away</link>
-<guid isPermaLink='false'>1a3490d7205a3a745f3907ace1bce91edd2ed424</guid>
-<pubDate>Sun, 24 May 2026 19:31:45 +0000</pubDate>
-<description><![CDATA[Charlie Moore, a key member of 'Harvey's Wallbangers,' passes away at 72]]></description>
 </item>
 <item>
 <title>UW News - Football: City of Green Bay and Wisconsin Athletics reveal details for Badger Bash North</title>
