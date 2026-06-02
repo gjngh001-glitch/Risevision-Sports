@@ -4,7 +4,23 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Mon, 01 Jun 2026 22:51:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 00:10:39 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: San Francisco Giants 2 @ Milwaukee Brewers 1 (Bot 2nd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815584</link>
+<guid isPermaLink='false'>e43aef4afabfda8aad5d571314012237345fb44e</guid>
+<pubDate>Mon, 01 Jun 2026 23:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[San Francisco Giants vs Milwaukee Brewers - Bot 2nd]]></description>
+</item>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>5fdb62270d263a076a8c266b40d6022f81f9ea24</guid>
+<pubDate>Mon, 01 Jun 2026 22:44:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
 <item>
 <title>Brewers News: Brewers No. 11 prospect makes Team of the Week</title>
 <link>https://www.mlb.com/brewers/news/prospect-team-of-the-week-june-1-2026</link>
@@ -78,13 +94,6 @@
 <description><![CDATA[Could it be callup time for one of Crew's star prospects at Triple-A?]]></description>
 </item>
 <item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>63102d9dfc18f01771a9c5ea31b08fc335e01ec7</guid>
-<pubDate>Sun, 31 May 2026 16:43:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
-</item>
-<item>
 <title>Brewers News: Jesús Made enjoys four-hit, four-RBI double dip at Double-A</title>
 <link>https://www.mlb.com/brewers/news/brewers-jesus-made-four-hits-four-rbi-double-a-doubleheader</link>
 <guid isPermaLink='false'>9333f058a490a29bc79e3803016025be0cbaadb2</guid>
@@ -127,15 +136,6 @@
 <guid isPermaLink='false'>48b91fa4c2fc0134464259d47f96bb5eda8f113f</guid>
 <pubDate>Sat, 30 May 2026 00:28:18 +0000</pubDate>
 <description><![CDATA[Brewers, Astros both excited by UW-Milwaukee's NCAA tourney upset win]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 5 @ Houston Astros 4 (Final/10)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815545</link>
-<guid isPermaLink='false'>15199494a0e31aeb7378797b781e374cdc0242c1</guid>
-<pubDate>Sat, 30 May 2026 00:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Houston Astros - Final/10]]></description>
 </item>
 <item>
 <title>Brewers News: This top prospect is picking up right where he left off after missing a month of action</title>
