@@ -4,15 +4,29 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 02 Jun 2026 00:10:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 04:59:37 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: San Francisco Giants 2 @ Milwaukee Brewers 1 (Bot 2nd)</title>
+<title>Brewers News: Crew pours on 7 runs in front of the greatest hitter who ever lived (virtually!)</title>
+<link>https://www.mlb.com/brewers/news/brewers-score-seven-runs-in-second-inning-with-backyard-baseball-character-there</link>
+<guid isPermaLink='false'>e4ca50001f42f237978bb07144c72c9a4e3eaa29</guid>
+<pubDate>Tue, 02 Jun 2026 02:28:00 +0000</pubDate>
+<description><![CDATA[Crew pours on 7 runs in front of the greatest hitter who ever lived (virtually!)]]></description>
+</item>
+<item>
+<title>Brewers News: Watch MLB&#x27;s top prospect Made play at Double-A for FREE on Saturday</title>
+<link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
+<guid isPermaLink='false'>c6dd5dd7dcd34748ea973b8f86c66c3a1a86ea97</guid>
+<pubDate>Tue, 02 Jun 2026 02:00:00 +0000</pubDate>
+<description><![CDATA[Watch MLB's top prospect Made play at Double-A for FREE on Saturday]]></description>
+</item>
+<item>
+<title>MLB - Final: San Francisco Giants 2 @ Milwaukee Brewers 16 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815584</link>
-<guid isPermaLink='false'>e43aef4afabfda8aad5d571314012237345fb44e</guid>
+<guid isPermaLink='false'>b2430e519bb95e8a9dd98c968584b53ce598a087</guid>
 <pubDate>Mon, 01 Jun 2026 23:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[San Francisco Giants vs Milwaukee Brewers - Bot 2nd]]></description>
+<description><![CDATA[San Francisco Giants vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -189,13 +203,6 @@
 <description><![CDATA['It can change quick'! Crew claws back for sweep of Cards after 7 no-hit frames]]></description>
 </item>
 <item>
-<title>Brewers News: Brewers, Cardinals clear air surrounding beef leading up to Uribe incident</title>
-<link>https://www.mlb.com/brewers/news/brewers-cardinals-clear-air-surrounding-abner-uribe-gesture</link>
-<guid isPermaLink='false'>1f46c2372d3cbcbeb300a01e85e5fef0ab3bc0f3</guid>
-<pubDate>Wed, 27 May 2026 22:41:00 +0000</pubDate>
-<description><![CDATA[Brewers, Cardinals clear air surrounding beef leading up to Uribe incident]]></description>
-</item>
-<item>
 <title>UW News - Football: Kickoff times and TV info released for select Badger games</title>
 <link>https://uwbadgers.com/news/2026/5/27/football-kickoff-times-and-tv-info-release-for-select-badger-games</link>
 <guid isPermaLink='false'>f251b02dd4972e3fb8d3be6de258236547317eab</guid>
@@ -203,13 +210,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/1/13/241005FB-1656-CampRandall.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2025/1/13/241005FB-1656-CampRandall.jpg" medium="image" />
 <description><![CDATA[<img alt="Camp Randall 2024" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2025/1/13/241005FB-1656-CampRandall.jpg" /><br /><br />Wisconsin will take on Minnesota on Black Friday in primetime]]></description>
-</item>
-<item>
-<title>Brewers News: No. 6 prospect Fischer continues to show homer power with High-A Wisconsin</title>
-<link>https://www.mlb.com/brewers/news/brewers-prospect-andrew-fischer-continues-to-show-home-run-power-in-minors</link>
-<guid isPermaLink='false'>1105a55b5f1f31c1072daf5ffb9e3a911d9cc330</guid>
-<pubDate>Wed, 27 May 2026 14:30:23 +0000</pubDate>
-<description><![CDATA[No. 6 prospect Fischer continues to show homer power with High-A Wisconsin]]></description>
 </item>
 <item>
 <title>UW News - Football: City of Green Bay and Wisconsin Athletics reveal details for Badger Bash North</title>
