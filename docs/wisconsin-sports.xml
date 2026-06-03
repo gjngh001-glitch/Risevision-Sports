@@ -4,13 +4,29 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 02 Jun 2026 22:32:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Jun 2026 00:16:22 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: San Francisco Giants 0 @ Milwaukee Brewers 3 (Bot 2nd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815599</link>
+<guid isPermaLink='false'>c89f0d6163877eac7f1b45ae24f83f5344fa9bbe</guid>
+<pubDate>Tue, 02 Jun 2026 23:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[San Francisco Giants vs Milwaukee Brewers - Bot 2nd]]></description>
+</item>
 <item>
 <title>Brewers News: Watch MLB&#x27;s top prospect Made play at Double-A for FREE on Saturday</title>
 <link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
-<guid isPermaLink='false'>073496605d40cef719f80f6ffc74ccd1dcbbefa8</guid>
-<pubDate>Tue, 02 Jun 2026 20:03:00 +0000</pubDate>
+<guid isPermaLink='false'>254f832457af9b7030b288369a9715fe07646963</guid>
+<pubDate>Tue, 02 Jun 2026 23:20:00 +0000</pubDate>
 <description><![CDATA[Watch MLB's top prospect Made play at Double-A for FREE on Saturday]]></description>
+</item>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>b9d9faa49fc547a5c4c2314e7f8815124272fdb6</guid>
+<pubDate>Tue, 02 Jun 2026 22:33:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>UW News - Football: Badger Football Kids Combine set for June 17 in Green Bay</title>
@@ -43,13 +59,6 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
 <description><![CDATA[San Francisco Giants vs Milwaukee Brewers - Final]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>5fdb62270d263a076a8c266b40d6022f81f9ea24</guid>
-<pubDate>Mon, 01 Jun 2026 22:44:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers No. 11 prospect makes Team of the Week</title>
@@ -136,15 +145,6 @@
 <guid isPermaLink='false'>66ea6bfc53ef0883ddb08245aea92e28c070f1a8</guid>
 <pubDate>Sat, 30 May 2026 23:54:43 +0000</pubDate>
 <description><![CDATA[A look back at Miz's historic May before his start vs. Astros today]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 2 @ Houston Astros 9 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815560</link>
-<guid isPermaLink='false'>ae8e9b68d822e2d13752f69549dfee08bbd6ebd4</guid>
-<pubDate>Sat, 30 May 2026 20:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Houston Astros - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers shift Priester&#x27;s rehab to Arizona after struggles in Triple-A</title>
