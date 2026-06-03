@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 03 Jun 2026 00:16:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Jun 2026 05:24:21 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: San Francisco Giants 0 @ Milwaukee Brewers 3 (Bot 2nd)</title>
+<title>Brewers News: Harrison matches career high with 12 K&#x27;s against the team that discovered him</title>
+<link>https://www.mlb.com/brewers/news/former-giants-prospect-kyle-harrison-k-s-12-as-brewers-beat-san-francisco</link>
+<guid isPermaLink='false'>d078b702f72e5d4b590cec8ad982cfda124946e7</guid>
+<pubDate>Wed, 03 Jun 2026 05:09:00 +0000</pubDate>
+<description><![CDATA[Harrison matches career high with 12 K's against the team that discovered him]]></description>
+</item>
+<item>
+<title>MLB - Final: San Francisco Giants 3 @ Milwaukee Brewers 8 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815599</link>
-<guid isPermaLink='false'>c89f0d6163877eac7f1b45ae24f83f5344fa9bbe</guid>
+<guid isPermaLink='false'>60675a467d8a7db9aa05530000bfbd15a37591c7</guid>
 <pubDate>Tue, 02 Jun 2026 23:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[San Francisco Giants vs Milwaukee Brewers - Bot 2nd]]></description>
+<description><![CDATA[San Francisco Giants vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Watch MLB&#x27;s top prospect Made play at Double-A for FREE on Saturday</title>
@@ -203,13 +210,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/5/27/VB-20260519-Big_Ten_Schedule-16x9__1_.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/5/27/VB-20260519-Big_Ten_Schedule-16x9__1_.jpg" medium="image" />
 <description><![CDATA[<img alt="2026 Big Ten Volleyball Schedule" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/27/VB-20260519-Big_Ten_Schedule-16x9__1_.jpg" /><br /><br />MADISON, Wis. – Wisconsin volleyball and head coach Kelly Sheffield officially announce the Badgers 2026 Big Ten slate.]]></description>
-</item>
-<item>
-<title>Brewers News: &#x27;It can change quick&#x27;! Crew claws back for sweep of Cards after 7 no-hit frames</title>
-<link>https://www.mlb.com/brewers/news/brewers-sweep-cardinals-after-being-no-hit-through-seven-innings</link>
-<guid isPermaLink='false'>a87adffaf3b6f86d3920e93c72d18398d84ea4c0</guid>
-<pubDate>Wed, 27 May 2026 23:14:00 +0000</pubDate>
-<description><![CDATA['It can change quick'! Crew claws back for sweep of Cards after 7 no-hit frames]]></description>
 </item>
 <item>
 <title>UW News - Football: Kickoff times and TV info released for select Badger games</title>
