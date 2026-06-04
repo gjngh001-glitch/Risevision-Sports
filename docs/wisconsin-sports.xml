@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 03 Jun 2026 23:40:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 02:10:25 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: San Francisco Giants 0 @ Milwaukee Brewers 0 (Top 1st)</title>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>d8dbc4e106f8c480157e1e5f6544974b3a713a4b</guid>
+<pubDate>Thu, 04 Jun 2026 00:06:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>MLB - Final: San Francisco Giants 1 @ Milwaukee Brewers 0 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815614</link>
-<guid isPermaLink='false'>75a9b9ca879fcef6011f895e19aba169c499da96</guid>
+<guid isPermaLink='false'>a18161fdc42db47bdcfafad31958dbdf1afadf29</guid>
 <pubDate>Wed, 03 Jun 2026 23:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[San Francisco Giants vs Milwaukee Brewers - Top 1st]]></description>
+<description><![CDATA[San Francisco Giants vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: These are the hottest hitting prospects right now -- one for each team</title>
@@ -66,13 +73,6 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
 <description><![CDATA[San Francisco Giants vs Milwaukee Brewers - Final]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>b9d9faa49fc547a5c4c2314e7f8815124272fdb6</guid>
-<pubDate>Tue, 02 Jun 2026 22:33:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>UW News - Football: Badger Football Kids Combine set for June 17 in Green Bay</title>
@@ -161,15 +161,6 @@
 <guid isPermaLink='false'>7e17d3ff11a1efbc3a608bc5b6e4dec3ec0e9f7b</guid>
 <pubDate>Sun, 31 May 2026 18:56:00 +0000</pubDate>
 <description><![CDATA[Brewers need struggling Sproat to step up: 'We're not rebuilding']]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 2 @ Houston Astros 0 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815575</link>
-<guid isPermaLink='false'>b9830659ca38e764bfa8ff1cca349a9499830eb4</guid>
-<pubDate>Sun, 31 May 2026 18:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Houston Astros - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Could it be callup time for one of Crew&#x27;s star prospects at Triple-A?</title>
