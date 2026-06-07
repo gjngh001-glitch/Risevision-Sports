@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 07 Jun 2026 21:51:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 07 Jun 2026 23:02:04 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 12 @ Colorado Rockies 3 (Bot 9th)</title>
+<title>Brewers News: Brewers blitz Rockies with 12 runs on 17 hits to complete sweep</title>
+<link>https://www.mlb.com/brewers/news/brewers-rout-rockies-to-complete-sweep-in-denver</link>
+<guid isPermaLink='false'>8e2fdaf0ac8fcf793a5634cf0f0e1a1ee8e53142</guid>
+<pubDate>Sun, 07 Jun 2026 22:08:29 +0000</pubDate>
+<description><![CDATA[Brewers blitz Rockies with 12 runs on 17 hits to complete sweep]]></description>
+</item>
+<item>
+<title>MLB - Final: Milwaukee Brewers 12 @ Colorado Rockies 4 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815669</link>
-<guid isPermaLink='false'>3fa54243c66dbad3188ab2d30905faac6426b545</guid>
+<guid isPermaLink='false'>c480ef8f2b7cbb35b86025d6e56dbdf714880e74</guid>
 <pubDate>Sun, 07 Jun 2026 19:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Colorado Rockies - Bot 9th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Colorado Rockies - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Yelich gets Rox finale off for workload management following groin, back injuries</title>
@@ -207,13 +214,6 @@
 <guid isPermaLink='false'>43993c49065cf397b770983300684e3c0ebb3bd0</guid>
 <pubDate>Mon, 01 Jun 2026 16:17:00 +0000</pubDate>
 <description><![CDATA[Get Brewers.TV for NEW low price of $74.99]]></description>
-</item>
-<item>
-<title>Brewers News: Brewers move up to third in Power Rankings</title>
-<link>https://www.mlb.com/brewers/news/power-rankings-for-week-of-may-31-2026</link>
-<guid isPermaLink='false'>c2c906cebfcf3ebc3fb11957532babda14922679</guid>
-<pubDate>Mon, 01 Jun 2026 01:54:10 +0000</pubDate>
-<description><![CDATA[Brewers move up to third in Power Rankings]]></description>
 </item>
 <item>
 <title>Brewers News: What does Miz think of his 0.23 May ERA? &#x27;I mean, that&#x27;s decent&#x27;</title>
