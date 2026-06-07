@@ -4,15 +4,15 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 07 Jun 2026 20:44:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 07 Jun 2026 21:51:44 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 4 @ Colorado Rockies 3 (Top 6th)</title>
+<title>MLB - Live: Milwaukee Brewers 12 @ Colorado Rockies 3 (Bot 9th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815669</link>
-<guid isPermaLink='false'>c3aae1fd3827e76f1bf0a1301b750e31ec008e82</guid>
+<guid isPermaLink='false'>3fa54243c66dbad3188ab2d30905faac6426b545</guid>
 <pubDate>Sun, 07 Jun 2026 19:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Colorado Rockies - Top 6th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Colorado Rockies - Bot 9th]]></description>
 </item>
 <item>
 <title>Brewers News: Yelich gets Rox finale off for workload management following groin, back injuries</title>
@@ -27,13 +27,6 @@
 <guid isPermaLink='false'>381f622d237c57033465a0140f5fb64be699c755</guid>
 <pubDate>Sun, 07 Jun 2026 06:29:00 +0000</pubDate>
 <description><![CDATA[Brewers phenom also unleashes 103.7 mph pitch, fastest recorded by a SP since pitch tracking began (2008)]]></description>
-</item>
-<item>
-<title>Brewers News: Watch Crew&#x27;s showdown vs. Rox free on Brewers.TV today</title>
-<link>https://www.mlb.com/brewers/news/brewers-tv-june-2026-free-preview</link>
-<guid isPermaLink='false'>92192464212912608f06cadd2d6245892fedfbb3</guid>
-<pubDate>Sun, 07 Jun 2026 05:00:00 +0000</pubDate>
-<description><![CDATA[Watch Crew's showdown vs. Rox free on Brewers.TV today]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -207,6 +200,13 @@
 <guid isPermaLink='false'>2baace085471071c9d678335469bb782b1947f17</guid>
 <pubDate>Mon, 01 Jun 2026 20:38:03 +0000</pubDate>
 <description><![CDATA[Rice, Miz earn Player of the Week honors]]></description>
+</item>
+<item>
+<title>Brewers News: Get Brewers.TV for NEW low price of $74.99</title>
+<link>https://www.mlb.com/brewers/news/brewers-tv-2026-season</link>
+<guid isPermaLink='false'>43993c49065cf397b770983300684e3c0ebb3bd0</guid>
+<pubDate>Mon, 01 Jun 2026 16:17:00 +0000</pubDate>
+<description><![CDATA[Get Brewers.TV for NEW low price of $74.99]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers move up to third in Power Rankings</title>
