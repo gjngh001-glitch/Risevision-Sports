@@ -4,7 +4,23 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 06 Jun 2026 23:33:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 07 Jun 2026 01:54:26 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 2 @ Colorado Rockies 0 (Mid 3rd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815654</link>
+<guid isPermaLink='false'>428c3412fe9817cce55645eb7a9a98c7102f0647</guid>
+<pubDate>Sun, 07 Jun 2026 01:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Colorado Rockies - Mid 3rd]]></description>
+</item>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>dc90d9aa95d9923d7a0ba09768e3b4d49637f990</guid>
+<pubDate>Sun, 07 Jun 2026 00:06:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
 <item>
 <title>Brewers News: Watch MLB&#x27;s top prospect Made play at Double-A right now!</title>
 <link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
@@ -25,13 +41,6 @@
 <guid isPermaLink='false'>61d3ff01dca5fbbe0ac00592ceae41509bceb32e</guid>
 <pubDate>Sat, 06 Jun 2026 06:13:00 +0000</pubDate>
 <description><![CDATA[Brewers 'wishing the best' for reliever dealing with elbow injury]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>9c2f7c7a83228c1e4f6079792888e215f2af36da</guid>
-<pubDate>Sat, 06 Jun 2026 05:49:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>Brewers News: Fischer sets Brewers&#x27; affiliate record, keeps pace with High-A HR lead</title>
@@ -127,15 +136,6 @@
 <guid isPermaLink='false'>deeab66e6cd70f114e306ef90167303ab8389626</guid>
 <pubDate>Thu, 04 Jun 2026 04:45:00 +0000</pubDate>
 <description><![CDATA[Brewers' rotation gets a Gasser boost in otherwise tough 1-0 loss]]></description>
-</item>
-<item>
-<title>MLB - Final: San Francisco Giants 1 @ Milwaukee Brewers 0 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815614</link>
-<guid isPermaLink='false'>a18161fdc42db47bdcfafad31958dbdf1afadf29</guid>
-<pubDate>Wed, 03 Jun 2026 23:40:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[San Francisco Giants vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>UW News - Football: Wisconsin adds Brown as football General Manager</title>
