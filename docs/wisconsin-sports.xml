@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 13 Jun 2026 22:46:33 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 00:03:27 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Philadelphia Phillies 1 @ Milwaukee Brewers 0 (Top 4th)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815744</link>
+<guid isPermaLink='false'>8664858db433e33d51d7f1099aeea6d7b8fcd114</guid>
+<pubDate>Sat, 13 Jun 2026 23:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Philadelphia Phillies vs Milwaukee Brewers - Top 4th]]></description>
+</item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
 <link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
@@ -106,15 +115,6 @@
 <guid isPermaLink='false'>4c0e77e127b00e566f61eb69ecb65d33472e52c1</guid>
 <pubDate>Thu, 11 Jun 2026 03:50:23 +0000</pubDate>
 <description><![CDATA[8 of the nastiest pitches on new miss distance leaderboard]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 3 @ Athletics 4 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815709</link>
-<guid isPermaLink='false'>722ee6e0300bcbbeaafed0bfaabc92f1a9535a21</guid>
-<pubDate>Thu, 11 Jun 2026 01:05:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Athletics - Final]]></description>
 </item>
 <item>
 <title>Brewers News: No. 5 prospect Lara told Brewers star about contract offer before parents</title>
