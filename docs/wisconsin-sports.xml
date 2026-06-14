@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 14 Jun 2026 00:03:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 05:05:19 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Philadelphia Phillies 1 @ Milwaukee Brewers 0 (Top 4th)</title>
+<title>Brewers News: Chourio&#x27;s big night (2 HRs) not enough as Brewers&#x27; late rally falls short</title>
+<link>https://www.mlb.com/brewers/news/jackson-chourio-multihomer-game-against-phillies</link>
+<guid isPermaLink='false'>508a9eeec3b0c1d5e8fa7c6259af169b907bc7eb</guid>
+<pubDate>Sun, 14 Jun 2026 04:10:15 +0000</pubDate>
+<description><![CDATA[Chourio's big night (2 HRs) not enough as Brewers' late rally falls short]]></description>
+</item>
+<item>
+<title>MLB - Final: Philadelphia Phillies 9 @ Milwaukee Brewers 8 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815744</link>
-<guid isPermaLink='false'>8664858db433e33d51d7f1099aeea6d7b8fcd114</guid>
+<guid isPermaLink='false'>2b474cd412db8d971e854da160a1d8b010c87c6a</guid>
 <pubDate>Sat, 13 Jun 2026 23:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Philadelphia Phillies vs Milwaukee Brewers - Top 4th]]></description>
+<description><![CDATA[Philadelphia Phillies vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -189,13 +196,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/6/8/WBB-20260604-Big_Ten_Home_Away-16x9.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/6/8/WBB-20260604-Big_Ten_Home_Away-16x9.jpg" medium="image" />
 <description><![CDATA[<img alt="WBB Big Ten Home and Away" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/6/8/WBB-20260604-Big_Ten_Home_Away-16x9.jpg" /><br /><br />The Badgers will play an 18-game conference schedule featuring one home-and-home series]]></description>
-</item>
-<item>
-<title>Brewers News: Coming to American Family Field in 2027: Truss Club</title>
-<link>https://www.mlb.com/brewers/news/brewers-open-truss-club</link>
-<guid isPermaLink='false'>9918cd2fba7edd38e0a87af8df288806bef229bc</guid>
-<pubDate>Mon, 08 Jun 2026 15:00:00 +0000</pubDate>
-<description><![CDATA[Coming to American Family Field in 2027: Truss Club]]></description>
 </item>
 <item>
 <title>UW News - Football: Wisconsin adds Brown as football General Manager</title>
