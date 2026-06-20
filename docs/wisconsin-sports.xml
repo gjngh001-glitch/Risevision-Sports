@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 20 Jun 2026 21:17:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 22:40:04 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 0 @ Atlanta Braves 1 (Bot 5th)</title>
+<title>Brewers News: Murphy to have back surgery before Cubs series</title>
+<link>https://www.mlb.com/brewers/news/brewers-manager-pat-murphy-to-have-back-surgery</link>
+<guid isPermaLink='false'>9f61fdc727f1d6b6534a0311cdeee01e8b219e28</guid>
+<pubDate>Sat, 20 Jun 2026 21:18:32 +0000</pubDate>
+<description><![CDATA[Murphy to have back surgery before Cubs series]]></description>
+</item>
+<item>
+<title>MLB - Final: Milwaukee Brewers 3 @ Atlanta Braves 4 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815827</link>
-<guid isPermaLink='false'>dd2804f8a58333199a608f9f1721a60983477dcd</guid>
+<guid isPermaLink='false'>6e20702dc60186b11a1d9ced713b4207617de4be</guid>
 <pubDate>Sat, 20 Jun 2026 20:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Atlanta Braves - Bot 5th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Atlanta Braves - Final]]></description>
 </item>
 <item>
 <title>Brewers News: MLB&#x27;s No. 1 prospect returns from injury scare with 5-RBI night at Double-A</title>
@@ -191,13 +198,6 @@
 <guid isPermaLink='false'>467bb95d7ae645f24dae2ea38b29d9f69b23999a</guid>
 <pubDate>Wed, 17 Jun 2026 05:42:00 +0000</pubDate>
 <description><![CDATA[Pratt digs those winning 'vibes' and starts first double play in MLB debut]]></description>
-</item>
-<item>
-<title>Brewers News: Breaking down the closest All-Star races in Phase 1 balloting</title>
-<link>https://www.mlb.com/brewers/news/close-races-in-2026-all-star-voting</link>
-<guid isPermaLink='false'>64d475d1833285117aadccbe3eed98c30adafcfc</guid>
-<pubDate>Tue, 16 Jun 2026 15:05:00 +0000</pubDate>
-<description><![CDATA[Breaking down the closest All-Star races in Phase 1 balloting]]></description>
 </item>
 <item>
 <title>Brewers News: 2 old high school buddies: 1 leads NL in wins, the other just won an NBA title</title>
