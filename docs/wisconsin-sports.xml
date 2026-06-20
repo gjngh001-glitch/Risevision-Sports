@@ -4,15 +4,36 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 20 Jun 2026 01:29:38 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 05:57:35 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 1 @ Atlanta Braves 3 (Mid 8th)</title>
+<title>Brewers News: MLB&#x27;s No. 1 prospect returns from injury scare with 5-RBI night at Double-A</title>
+<link>https://www.mlb.com/brewers/news/brewers-prospect-jesus-made-double-a-return-from-injury</link>
+<guid isPermaLink='false'>761e1bbe6a36b1e9e845b5d865d890481d8f18a5</guid>
+<pubDate>Sat, 20 Jun 2026 04:26:00 +0000</pubDate>
+<description><![CDATA[MLB's No. 1 prospect returns from injury scare with 5-RBI night at Double-A]]></description>
+</item>
+<item>
+<title>Brewers News: White&#x27;s clutch throw in 9th prevents Chourio from scoring game-tying run</title>
+<link>https://www.mlb.com/brewers/news/eli-white-game-saving-throw-leads-braves-to-win-over-brewers</link>
+<guid isPermaLink='false'>470b0d5c261d2f9f654e37cebc2f5c1986433f17</guid>
+<pubDate>Sat, 20 Jun 2026 03:51:48 +0000</pubDate>
+<description><![CDATA[White's clutch throw in 9th prevents Chourio from scoring game-tying run]]></description>
+</item>
+<item>
+<title>Brewers News: Miz unleashes more gas after catching the eye of the Ryan Express</title>
+<link>https://www.mlb.com/brewers/news/nolan-ryan-jacob-misiorowski-brewers-braves</link>
+<guid isPermaLink='false'>6943edc99d8bfc790e3763e4bb9bd60af4aa8e88</guid>
+<pubDate>Sat, 20 Jun 2026 03:16:00 +0000</pubDate>
+<description><![CDATA[Miz unleashes more gas after catching the eye of the Ryan Express]]></description>
+</item>
+<item>
+<title>MLB - Final: Milwaukee Brewers 2 @ Atlanta Braves 3 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815814</link>
-<guid isPermaLink='false'>8b12d94944375b96d4215e271dd581dcfd10b894</guid>
+<guid isPermaLink='false'>5218fc9a3430cb3a50637054a95c16176168e727</guid>
 <pubDate>Fri, 19 Jun 2026 23:15:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Atlanta Braves - Mid 8th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Atlanta Braves - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -168,27 +189,6 @@
 <guid isPermaLink='false'>64d475d1833285117aadccbe3eed98c30adafcfc</guid>
 <pubDate>Tue, 16 Jun 2026 15:05:00 +0000</pubDate>
 <description><![CDATA[Breaking down the closest All-Star races in Phase 1 balloting]]></description>
-</item>
-<item>
-<title>Brewers News: Misiorowski, Chourio share NL Player of the Week honors</title>
-<link>https://www.mlb.com/brewers/news/byron-buxton-jacob-misiorowski-jackson-chourio-named-players-of-the-week</link>
-<guid isPermaLink='false'>41b51b28dd6af5a759bbc9e0c7823e9c5cf70453</guid>
-<pubDate>Mon, 15 Jun 2026 20:35:53 +0000</pubDate>
-<description><![CDATA[Misiorowski, Chourio share NL Player of the Week honors]]></description>
-</item>
-<item>
-<title>Brewers News: Turang needs a boost in first ASG voting update</title>
-<link>https://www.mlb.com/brewers/news/2026-mlb-all-star-ballot-first-update</link>
-<guid isPermaLink='false'>2864cf3ed1e2041f3f17cf62b04e02d82e88969f</guid>
-<pubDate>Mon, 15 Jun 2026 18:03:17 +0000</pubDate>
-<description><![CDATA[Turang needs a boost in first ASG voting update]]></description>
-</item>
-<item>
-<title>Brewers News: Fan gives The Miz his own Pokémon card after historic outing</title>
-<link>https://www.mlb.com/brewers/news/brewers-fan-gifts-jacob-misiorowski-custom-pokemon-card</link>
-<guid isPermaLink='false'>f64e9b31e37041aa58c3df44646001af2460d49b</guid>
-<pubDate>Mon, 15 Jun 2026 17:55:56 +0000</pubDate>
-<description><![CDATA[Fan gives The Miz his own Pokémon card after historic outing]]></description>
 </item>
 <item>
 <title>Brewers News: 2 old high school buddies: 1 leads NL in wins, the other just won an NBA title</title>
