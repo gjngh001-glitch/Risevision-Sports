@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 21 Jun 2026 18:49:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 20:22:09 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 8 @ Atlanta Braves 1 (Bot 4th)</title>
+<title>Brewers News: Bunches of runs! Brewers explode for 8-run inning to snap losing streak</title>
+<link>https://www.mlb.com/brewers/news/brewers-offense-8-run-inning-beat-braves</link>
+<guid isPermaLink='false'>139f28c3ca0da78d3402d71bbbd9769b815c4571</guid>
+<pubDate>Sun, 21 Jun 2026 20:19:00 +0000</pubDate>
+<description><![CDATA[Bunches of runs! Brewers explode for 8-run inning to snap losing streak]]></description>
+</item>
+<item>
+<title>MLB - Final: Milwaukee Brewers 9 @ Atlanta Braves 4 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815841</link>
-<guid isPermaLink='false'>34f96ef9037c5644c164b9da83aff7a4450a659e</guid>
+<guid isPermaLink='false'>2826336113db0bd2167d7d0ad0eff1b5768ea73e</guid>
 <pubDate>Sun, 21 Jun 2026 17:35:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Atlanta Braves - Bot 4th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Atlanta Braves - Final]]></description>
 </item>
 <item>
 <title>Brewers News: &#x27;Changes everything&#x27;: Woodruff reflects on fatherhood as family awaits third child</title>
@@ -126,13 +133,6 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
 <description><![CDATA[Cleveland Guardians vs Milwaukee Brewers - Final]]></description>
-</item>
-<item>
-<title>Brewers News: 1 prospect from each team pushing for a promotion</title>
-<link>https://www.mlb.com/brewers/news/prospect-from-each-club-pushing-for-a-promotion-june-2026</link>
-<guid isPermaLink='false'>3ecd9ea254ecaf4dba262257007ddd762e809dc2</guid>
-<pubDate>Thu, 18 Jun 2026 16:40:00 +0000</pubDate>
-<description><![CDATA[1 prospect from each team pushing for a promotion]]></description>
 </item>
 <item>
 <title>Brewers News: Miz ascends to top of Starting Pitcher Power Rankings</title>
