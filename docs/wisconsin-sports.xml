@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Mon, 22 Jun 2026 22:25:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 23:49:27 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 0 @ Cincinnati Reds 0 (Bot 3rd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815857</link>
+<guid isPermaLink='false'>1d025ddb04ce7ec3bca99494fbe3049df49ad9a6</guid>
+<pubDate>Mon, 22 Jun 2026 23:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Cincinnati Reds - Bot 3rd]]></description>
+</item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
 <link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
