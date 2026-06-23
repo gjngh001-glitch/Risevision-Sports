@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Mon, 22 Jun 2026 23:49:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 02:54:00 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 0 @ Cincinnati Reds 0 (Bot 3rd)</title>
+<title>Brewers News: Woodruff carries perfect game into 6th in return from IL as Brewers win in 10</title>
+<link>https://www.mlb.com/brewers/news/brandon-woodruff-comes-off-injured-list-after-right-shoulder-inflammation</link>
+<guid isPermaLink='false'>91eb15a5d70d0e38a7aeecb38296464c28ef379a</guid>
+<pubDate>Tue, 23 Jun 2026 01:39:00 +0000</pubDate>
+<description><![CDATA[Woodruff carries perfect game into 6th in return from IL as Brewers win in 10]]></description>
+</item>
+<item>
+<title>MLB - Final: Milwaukee Brewers 2 @ Cincinnati Reds 1 (Final/10)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815857</link>
-<guid isPermaLink='false'>1d025ddb04ce7ec3bca99494fbe3049df49ad9a6</guid>
+<guid isPermaLink='false'>1296904afa58527f818275c0d66da5a60d449fe4</guid>
 <pubDate>Mon, 22 Jun 2026 23:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Cincinnati Reds - Bot 3rd]]></description>
+<description><![CDATA[Milwaukee Brewers vs Cincinnati Reds - Final/10]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -20,13 +27,6 @@
 <guid isPermaLink='false'>ed32a31a2dbc6a64a294ec3cccad43e6a9b196ee</guid>
 <pubDate>Mon, 22 Jun 2026 21:46:00 +0000</pubDate>
 <description><![CDATA[Latest Brewers injuries & transactions]]></description>
-</item>
-<item>
-<title>Brewers News: Woodruff comes off IL to start series opener vs. Reds</title>
-<link>https://www.mlb.com/brewers/news/brandon-woodruff-comes-off-injured-list-after-right-shoulder-inflammation</link>
-<guid isPermaLink='false'>6c0dd9d75e5007ab1579b479976e1c9f927cce54</guid>
-<pubDate>Mon, 22 Jun 2026 20:26:25 +0000</pubDate>
-<description><![CDATA[Woodruff comes off IL to start series opener vs. Reds]]></description>
 </item>
 <item>
 <title>Brewers News: Turang in the mix for razor-thin 2B race in 2nd ASG vote update</title>
@@ -115,15 +115,6 @@
 <guid isPermaLink='false'>6943edc99d8bfc790e3763e4bb9bd60af4aa8e88</guid>
 <pubDate>Sat, 20 Jun 2026 03:16:00 +0000</pubDate>
 <description><![CDATA[Miz unleashes more gas after catching the eye of the Ryan Express]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 2 @ Atlanta Braves 3 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815814</link>
-<guid isPermaLink='false'>5218fc9a3430cb3a50637054a95c16176168e727</guid>
-<pubDate>Fri, 19 Jun 2026 23:15:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Atlanta Braves - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Frelick credits his &#x27;second dad&#x27; for shaping path to bigs</title>
