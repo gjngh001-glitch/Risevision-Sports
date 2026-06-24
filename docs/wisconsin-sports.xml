@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 23 Jun 2026 23:06:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 00:10:44 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 0 @ Cincinnati Reds 0 (Bot 4th)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815870</link>
+<guid isPermaLink='false'>f0f59829562c1bc41ff9e405f4894535be29edd1</guid>
+<pubDate>Tue, 23 Jun 2026 23:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Cincinnati Reds - Bot 4th]]></description>
+</item>
 <item>
 <title>Brewers News: Last MVP left in Wisconsin: Yelich muses on WS goals, Giannis trade to Miami</title>
 <link>https://www.mlb.com/brewers/news/christian-yelich-discusses-giannis-antetokounmpo-trade</link>
@@ -106,15 +115,6 @@
 <guid isPermaLink='false'>9f61fdc727f1d6b6534a0311cdeee01e8b219e28</guid>
 <pubDate>Sat, 20 Jun 2026 21:18:32 +0000</pubDate>
 <description><![CDATA[Murphy to have back surgery before Cubs series]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 3 @ Atlanta Braves 4 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815827</link>
-<guid isPermaLink='false'>6e20702dc60186b11a1d9ced713b4207617de4be</guid>
-<pubDate>Sat, 20 Jun 2026 20:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Atlanta Braves - Final]]></description>
 </item>
 <item>
 <title>Brewers News: MLB&#x27;s No. 1 prospect returns from injury scare with 5-RBI night at Double-A</title>
