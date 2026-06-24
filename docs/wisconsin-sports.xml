@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 24 Jun 2026 00:10:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 04:35:00 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 0 @ Cincinnati Reds 0 (Bot 4th)</title>
+<title>Brewers News: Sproat&#x27;s career-high 10 K&#x27;s gives Brewers double-digit déjà vu</title>
+<link>https://www.mlb.com/brewers/news/brandon-sproat-throws-career-high-10-strikeouts-in-scoreless-start</link>
+<guid isPermaLink='false'>b26b61e613c29c69cda3c7cc377e1f62e843a962</guid>
+<pubDate>Wed, 24 Jun 2026 03:47:00 +0000</pubDate>
+<description><![CDATA[Sproat's career-high 10 K's gives Brewers double-digit déjà vu]]></description>
+</item>
+<item>
+<title>MLB - Final: Milwaukee Brewers 2 @ Cincinnati Reds 0 (Final)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401815870</link>
-<guid isPermaLink='false'>f0f59829562c1bc41ff9e405f4894535be29edd1</guid>
+<guid isPermaLink='false'>9df0cb55f0810dd05aa71ade3dc94db0d05b9ff7</guid>
 <pubDate>Tue, 23 Jun 2026 23:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Cincinnati Reds - Bot 4th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Cincinnati Reds - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Last MVP left in Wisconsin: Yelich muses on WS goals, Giannis trade to Miami</title>
@@ -180,13 +187,6 @@
 <guid isPermaLink='false'>6c8137e861c4b17dc827ce759db396cc742822c7</guid>
 <pubDate>Thu, 18 Jun 2026 05:48:00 +0000</pubDate>
 <description><![CDATA[Sproat shakes off hamstring cramp as Yelich, Chourio HRs help pick up Crew]]></description>
-</item>
-<item>
-<title>Brewers News: &#x27;Cooop&#x27;! Pratt eats up &#x27;sick&#x27; cheers for several MLB firsts at plate</title>
-<link>https://www.mlb.com/brewers/news/cooper-pratt-logs-first-mlb-hits-rbi-brewers-beat-guardians</link>
-<guid isPermaLink='false'>ac72c1a0f870b4a3844d9b8f00f85c7381b4f5e2</guid>
-<pubDate>Thu, 18 Jun 2026 05:24:09 +0000</pubDate>
-<description><![CDATA['Cooop'! Pratt eats up 'sick' cheers for several MLB firsts at plate]]></description>
 </item>
 <item>
 <title>UW News - Football: Badger Football Kids Combine - Canceled</title>
