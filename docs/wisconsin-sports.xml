@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 24 Jun 2026 22:54:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 00:07:57 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 3 @ Cincinnati Reds 0 (Bot 3rd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815885</link>
+<guid isPermaLink='false'>5082e5282f658d15d06bbc7c69f87f29dc16309e</guid>
+<pubDate>Wed, 24 Jun 2026 23:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Cincinnati Reds - Bot 3rd]]></description>
+</item>
 <item>
 <title>Brewers News: Uribe agrees to serve one-game suspension for Wednesday&#x27;s game vs. Reds</title>
 <link>https://www.mlb.com/brewers/news/abner-uribe-serves-one-game-suspension</link>
@@ -113,15 +122,6 @@
 <guid isPermaLink='false'>926adfaf201ea65d3b6d5febd55993a93e89563a</guid>
 <pubDate>Sun, 21 Jun 2026 21:44:00 +0000</pubDate>
 <description><![CDATA[Gasser's two-year journey back to win column aided by Crew's 8-run outburst]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 9 @ Atlanta Braves 4 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815841</link>
-<guid isPermaLink='false'>2826336113db0bd2167d7d0ad0eff1b5768ea73e</guid>
-<pubDate>Sun, 21 Jun 2026 17:35:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Atlanta Braves - Final]]></description>
 </item>
 <item>
 <title>Brewers News: &#x27;Changes everything&#x27;: Woodruff reflects on fatherhood as family awaits third child</title>
