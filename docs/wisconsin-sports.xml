@@ -4,7 +4,37 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 30 Jun 2026 23:08:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 00:20:39 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Cincinnati Reds 1 @ Milwaukee Brewers 1 (Top 3rd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401815971</link>
+<guid isPermaLink='false'>a68aeb3b1c7843405a0e4dbb03078471c97d907e</guid>
+<pubDate>Tue, 30 Jun 2026 23:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Cincinnati Reds vs Milwaukee Brewers - Top 3rd]]></description>
+</item>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>c2daac6fd325a4ca0973ab0dae4ae933b40ca4cf</guid>
+<pubDate>Tue, 30 Jun 2026 23:33:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>Brewers News: Why the Brewers&#x27; odd roster move was actually genius</title>
+<link>https://www.mlb.com/brewers/news/brewers-use-creative-roster-move-to-maximize-pitching-depth</link>
+<guid isPermaLink='false'>ac2778497710725dfc25b7c44d3daa14b502dbc6</guid>
+<pubDate>Tue, 30 Jun 2026 23:14:53 +0000</pubDate>
+<description><![CDATA[Why the Brewers' odd roster move was actually genius]]></description>
+</item>
+<item>
+<title>Brewers News: Uecker&#x27;s newest tribute is fittingly larger than life</title>
+<link>https://www.mlb.com/brewers/news/bob-uecker-mural-coming-to-milwaukee</link>
+<guid isPermaLink='false'>98a19d336cfbc3421bdd4cef7d4f93473bfa830c</guid>
+<pubDate>Tue, 30 Jun 2026 23:02:00 +0000</pubDate>
+<description><![CDATA[Uecker's newest tribute is fittingly larger than life]]></description>
+</item>
 <item>
 <title>Brewers News: Watch baseball&#x27;s No. 1 prospect Made play at Double-A for FREE on Sunday</title>
 <link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
@@ -77,13 +107,6 @@
 <description><![CDATA[NEW: Updated Top 100 Prospects list -- highest risers, new faces and more]]></description>
 </item>
 <item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>884c850945e697a1d9c619dc18aae824e47ab9ae</guid>
-<pubDate>Mon, 29 Jun 2026 22:24:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
-</item>
-<item>
 <title>Brewers News: Henderson&#x27;s 7-K rehab debut bodes well for Brewers</title>
 <link>https://www.mlb.com/brewers/news/logan-henderson-makes-first-rehab-start-with-triple-a-nashville</link>
 <guid isPermaLink='false'>3e51d387ff674927a7aeaea1c34aea21c4508cd5</guid>
@@ -126,15 +149,6 @@
 <guid isPermaLink='false'>ebf647fb930f8c466e35fb685698e3458047fe4a</guid>
 <pubDate>Sun, 28 Jun 2026 03:35:52 +0000</pubDate>
 <description><![CDATA[Brewers' bullpen depth will be tested during rigorous stretch]]></description>
-</item>
-<item>
-<title>MLB - Final: Chicago Cubs 8 @ Milwaukee Brewers 2 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815929</link>
-<guid isPermaLink='false'>6084386dfff6f35281d8d59fac03fed8c21d4147</guid>
-<pubDate>Sat, 27 Jun 2026 23:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Chicago Cubs vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: One of baseball&#x27;s fastest prospects is back from injury and running wild again</title>
@@ -198,20 +212,6 @@
 <guid isPermaLink='false'>2bff7f09338448521428a20b608f59915a17d76f</guid>
 <pubDate>Wed, 24 Jun 2026 22:04:00 +0000</pubDate>
 <description><![CDATA[Uribe agrees to serve one-game suspension for Wednesday's game vs. Reds]]></description>
-</item>
-<item>
-<title>Brewers News: Sproat&#x27;s career-high 10 K&#x27;s give Brewers double-digit déjà vu</title>
-<link>https://www.mlb.com/brewers/news/brandon-sproat-throws-career-high-10-strikeouts-in-scoreless-start</link>
-<guid isPermaLink='false'>b26b61e613c29c69cda3c7cc377e1f62e843a962</guid>
-<pubDate>Wed, 24 Jun 2026 03:47:00 +0000</pubDate>
-<description><![CDATA[Sproat's career-high 10 K's give Brewers double-digit déjà vu]]></description>
-</item>
-<item>
-<title>Brewers News: Last MVP left in Wisconsin: Yelich muses on WS goals, Giannis trade to Miami</title>
-<link>https://www.mlb.com/brewers/news/christian-yelich-discusses-giannis-antetokounmpo-trade</link>
-<guid isPermaLink='false'>64e12daefc72a3eac39c075f42f4566468f6ffdf</guid>
-<pubDate>Tue, 23 Jun 2026 22:48:34 +0000</pubDate>
-<description><![CDATA[Last MVP left in Wisconsin: Yelich muses on WS goals, Giannis trade to Miami]]></description>
 </item>
 <item>
 <title>UW News - Volleyball: Volleyball Finalizes 2026 Roster with Konrad Signing</title>
