@@ -4,7 +4,14 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Fri, 03 Jul 2026 23:29:01 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 01:08:52 +0000</lastBuildDate>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>3634ec8ed28e636cc388f551f8212ff467cfba1f</guid>
+<pubDate>Sat, 04 Jul 2026 00:06:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
 <item>
 <title>Brewers News: All you need to know for Star-Spangled Sunday</title>
 <link>https://www.mlb.com/brewers/news/star-spangled-sunday-2026-broadcast-schedule-times</link>
@@ -108,13 +115,6 @@
 <description><![CDATA[Cincinnati Reds vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>584b0423bba32d75c2dd5b0d99f8047cb53001f3</guid>
-<pubDate>Wed, 01 Jul 2026 22:50:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
-</item>
-<item>
 <title>Brewers News: Get Brewers.TV for new low price of $54.99</title>
 <link>https://www.mlb.com/brewers/news/brewers-tv-2026-season</link>
 <guid isPermaLink='false'>65e8d5aec40df3cc7d425192e35cd481b8cb6f61</guid>
@@ -127,15 +127,6 @@
 <guid isPermaLink='false'>8e512c8d3dc9e55c3976506a2c760f560a160f00</guid>
 <pubDate>Wed, 01 Jul 2026 03:43:00 +0000</pubDate>
 <description><![CDATA[Murph's words resonate as Brewers deliver clutch hits]]></description>
-</item>
-<item>
-<title>MLB - Final: Cincinnati Reds 2 @ Milwaukee Brewers 7 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401815971</link>
-<guid isPermaLink='false'>11347ca5e667b54967b2c771bf34d44a35fa55d2</guid>
-<pubDate>Tue, 30 Jun 2026 23:40:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Cincinnati Reds vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Why the Brewers&#x27; odd roster move was actually genius</title>
