@@ -4,15 +4,22 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 04 Jul 2026 04:50:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 07:43:05 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 3 @ Arizona Diamondbacks 3 (Top 10th)</title>
+<title>Brewers News: Bullpen, clutch hits pick up Harrison after abbreviated start</title>
+<link>https://www.mlb.com/brewers/news/brewers-beat-diamondbacks-in-11-innings-in-series-opener</link>
+<guid isPermaLink='false'>c6dd3a967491c916d1502c3dd93fe3a6899a00bb</guid>
+<pubDate>Sat, 04 Jul 2026 07:19:00 +0000</pubDate>
+<description><![CDATA[Bullpen, clutch hits pick up Harrison after abbreviated start]]></description>
+</item>
+<item>
+<title>MLB - Final: Milwaukee Brewers 7 @ Arizona Diamondbacks 4 (Final/11)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401816012</link>
-<guid isPermaLink='false'>024e4ea2f5a0ac8cfedc62fe15dbd2650400f4e5</guid>
+<guid isPermaLink='false'>80f0f21a21df67453eefa16769dd8fa8a4a257b5</guid>
 <pubDate>Sat, 04 Jul 2026 01:45:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Arizona Diamondbacks - Top 10th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Arizona Diamondbacks - Final/11]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -198,13 +205,6 @@
 <guid isPermaLink='false'>03259e3b11c0311db699985730cf7a2aa8bbff8d</guid>
 <pubDate>Mon, 29 Jun 2026 22:38:18 +0000</pubDate>
 <description><![CDATA[NEW: Updated Top 100 Prospects list -- highest risers, new faces and more]]></description>
-</item>
-<item>
-<title>Brewers News: Henderson&#x27;s 7-K rehab debut bodes well for Brewers</title>
-<link>https://www.mlb.com/brewers/news/logan-henderson-makes-first-rehab-start-with-triple-a-nashville</link>
-<guid isPermaLink='false'>3e51d387ff674927a7aeaea1c34aea21c4508cd5</guid>
-<pubDate>Mon, 29 Jun 2026 03:23:54 +0000</pubDate>
-<description><![CDATA[Henderson's 7-K rehab debut bodes well for Brewers]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers move up to second in latest Power Rankings</title>
