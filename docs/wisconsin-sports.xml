@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Mon, 06 Jul 2026 23:36:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 01:22:55 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 0 @ St. Louis Cardinals 2 (Top 6th)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401816048</link>
+<guid isPermaLink='false'>ed25ac9a268225e353df07f8cacd65993641a254</guid>
+<pubDate>Mon, 06 Jul 2026 23:45:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs St. Louis Cardinals - Top 6th]]></description>
+</item>
 <item>
 <title>Brewers News: 2025 first-rounder Fischer makes Prospect Team of the Week for third time this season</title>
 <link>https://www.mlb.com/brewers/news/prospect-team-of-the-week-july-6-2026</link>
@@ -78,15 +87,6 @@
 <guid isPermaLink='false'>c6dd3a967491c916d1502c3dd93fe3a6899a00bb</guid>
 <pubDate>Sat, 04 Jul 2026 07:19:00 +0000</pubDate>
 <description><![CDATA[Bullpen, clutch hits pick up Harrison after abbreviated start]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 7 @ Arizona Diamondbacks 4 (Final/11)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401816012</link>
-<guid isPermaLink='false'>80f0f21a21df67453eefa16769dd8fa8a4a257b5</guid>
-<pubDate>Sat, 04 Jul 2026 01:45:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Arizona Diamondbacks - Final/11]]></description>
 </item>
 <item>
 <title>Brewers News: The Draft Top 250 is out! For the 1st time all year, there&#x27;s a new No. 1</title>
