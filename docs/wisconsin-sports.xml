@@ -4,7 +4,23 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 07 Jul 2026 23:13:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 00:12:57 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 0 @ St. Louis Cardinals 0 (End 2nd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401816064</link>
+<guid isPermaLink='false'>477779d7e89879fa5fdb30e41a68d0be550b9e38</guid>
+<pubDate>Tue, 07 Jul 2026 23:45:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs St. Louis Cardinals - End 2nd]]></description>
+</item>
+<item>
+<title>Brewers News: With fewest top-100 Draft picks in 8 years, Brewers must do more with less</title>
+<link>https://www.mlb.com/brewers/news/brewers-2026-draft-preview</link>
+<guid isPermaLink='false'>d0111b68a0a8a15737a9055df736b34b31e3db2e</guid>
+<pubDate>Tue, 07 Jul 2026 23:20:52 +0000</pubDate>
+<description><![CDATA[With fewest top-100 Draft picks in 8 years, Brewers must do more with less]]></description>
+</item>
 <item>
 <title>Brewers News: Misiorowski allows 2 homers, but bounces back to K 11 over 7 innings</title>
 <link>https://www.mlb.com/brewers/news/jacob-misiorowski-strikes-out-11-vs-cardinals</link>
@@ -124,15 +140,6 @@
 <description><![CDATA[Brewers again lose Woodruff (right shoulder inflammation) to injured list]]></description>
 </item>
 <item>
-<title>MLB - Final: Milwaukee Brewers 3 @ Arizona Diamondbacks 4 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401816027</link>
-<guid isPermaLink='false'>76b2c462270f82bb74326f7c049be17ad121edff</guid>
-<pubDate>Sun, 05 Jul 2026 01:40:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Arizona Diamondbacks - Final]]></description>
-</item>
-<item>
 <title>Brewers News: Crew sending Opening Day battery to Philly as Miz, Contreras named All-Stars</title>
 <link>https://www.mlb.com/brewers/news/jacob-misiorowski-and-william-contreras-named-all-stars</link>
 <guid isPermaLink='false'>c994433587f3717e77504e2f5f91b6e3cb8d717f</guid>
@@ -180,13 +187,6 @@
 <guid isPermaLink='false'>2f8b9582c0867f7f50219f82439c982931407ea9</guid>
 <pubDate>Thu, 02 Jul 2026 20:49:20 +0000</pubDate>
 <description><![CDATA[Brewers prospect makes pro debut after life- and career-threatening car crash]]></description>
-</item>
-<item>
-<title>Brewers News: Team-by-team breakdown of every player headed to Futures Game</title>
-<link>https://www.mlb.com/brewers/news/each-team-s-prospects-headed-to-2026-futures-game</link>
-<guid isPermaLink='false'>1f07b1d888414ae1fdbeee9b214b469d89b18c81</guid>
-<pubDate>Thu, 02 Jul 2026 16:00:00 +0000</pubDate>
-<description><![CDATA[Team-by-team breakdown of every player headed to Futures Game]]></description>
 </item>
 <item>
 <title>Brewers News: &#x27;Keep stacking &#x27;em&#x27;! Mitchell mashes southpaws to log first 4-hit game</title>
