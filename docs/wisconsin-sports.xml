@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Fri, 10 Jul 2026 21:02:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 22:14:32 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 0 @ Pittsburgh Pirates 0 (Rain Delay, Top 1st)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401816100</link>
+<guid isPermaLink='false'>cc3e7a7be750918d28360e780ec2e6d896b03c04</guid>
+<pubDate>Fri, 10 Jul 2026 22:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Pittsburgh Pirates - Rain Delay, Top 1st]]></description>
+</item>
 <item>
 <title>Brewers News: Bryse Wilson agrees to deal to return to Crew</title>
 <link>https://www.mlb.com/brewers/news/bryse-wilson-deal-with-brewers</link>
@@ -55,13 +64,6 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" medium="image" />
 <description><![CDATA[Milwaukee Brewers vs St. Louis Cardinals - Final]]></description>
-</item>
-<item>
-<title>Brewers News: &#x27;Grinding&#x27; Yelich gets breather, out of starting lineup in St. Louis finale</title>
-<link>https://www.mlb.com/brewers/news/christian-yelich-out-of-brewers-starting-lineup</link>
-<guid isPermaLink='false'>e3de10158b09e25c687c8135139ed25cff3775bf</guid>
-<pubDate>Thu, 09 Jul 2026 23:21:40 +0000</pubDate>
-<description><![CDATA['Grinding' Yelich gets breather, out of starting lineup in St. Louis finale]]></description>
 </item>
 <item>
 <title>Brewers News: Watch top prospect Made on Episode 2 of the NBC docuseries &#x27;Road to the Show&#x27;</title>
@@ -205,6 +207,13 @@
 <guid isPermaLink='false'>235790f64b08611339909204b65918a6415ec171</guid>
 <pubDate>Mon, 06 Jul 2026 01:13:00 +0000</pubDate>
 <description><![CDATA[Bauers' bash, bullpen's resolve, Frelick's game-winning catch secure series for Crew]]></description>
+</item>
+<item>
+<title>Brewers News: With Woodruff on IL, Brewers assess rotation options ahead of grueling stretch</title>
+<link>https://www.mlb.com/brewers/news/brewers-assess-rotation-options-with-brandon-woodruff-on-the-injured-list</link>
+<guid isPermaLink='false'>cd13cb841ea19b491592b2b30a56b2a22531590c</guid>
+<pubDate>Sun, 05 Jul 2026 19:57:31 +0000</pubDate>
+<description><![CDATA[With Woodruff on IL, Brewers assess rotation options ahead of grueling stretch]]></description>
 </item>
 <item>
 <title>Brewers News: Crew sending Opening Day battery to Philly as Miz, Contreras named All-Stars</title>
