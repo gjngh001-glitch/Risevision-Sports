@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Thu, 09 Jul 2026 23:44:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 01:17:11 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 6 @ St. Louis Cardinals 1 (Top 6th)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401816093</link>
+<guid isPermaLink='false'>1d3c17c748b91840ef4a6648331dd7a3270a10c7</guid>
+<pubDate>Thu, 09 Jul 2026 23:45:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs St. Louis Cardinals - Top 6th]]></description>
+</item>
 <item>
 <title>Brewers News: &#x27;Grinding&#x27; Yelich gets breather, out of starting lineup in St. Louis finale</title>
 <link>https://www.mlb.com/brewers/news/christian-yelich-out-of-brewers-starting-lineup</link>
@@ -154,15 +163,6 @@
 <guid isPermaLink='false'>ae1d586270956fbd2f9099d385108f883df7f47e</guid>
 <pubDate>Tue, 07 Jul 2026 05:08:00 +0000</pubDate>
 <description><![CDATA[Comeback win helps Brewers reach elusive franchise milestone]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 4 @ St. Louis Cardinals 3 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401816048</link>
-<guid isPermaLink='false'>06898a3dcd1f0ab90522116a2d1c56e1ad7b923f</guid>
-<pubDate>Mon, 06 Jul 2026 23:45:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs St. Louis Cardinals - Final]]></description>
 </item>
 <item>
 <title>Brewers News: 2025 first-rounder Fischer makes Prospect Team of the Week for third time this season</title>
