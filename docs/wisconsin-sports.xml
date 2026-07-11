@@ -4,13 +4,50 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 11 Jul 2026 15:52:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 16:53:08 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 2 @ Pittsburgh Pirates 2 (End 2nd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401889917</link>
+<guid isPermaLink='false'>3fb4c6c95e3720bd375930cbe0b225b8efde982b</guid>
+<pubDate>Sat, 11 Jul 2026 16:05:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Pittsburgh Pirates - End 2nd]]></description>
+</item>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>6cf9110eb15aaf5ed413ea31571f2e8e8f7e4a04</guid>
+<pubDate>Sat, 11 Jul 2026 16:05:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>Brewers News: Harrison (forearm tightness) placed on IL; Gasser recalled</title>
+<link>https://www.mlb.com/brewers/news/kyle-harrison-placed-on-injured-list-with-forearm-tightness</link>
+<guid isPermaLink='false'>a41626863f96a8f47570fb79101f162159e412e9</guid>
+<pubDate>Sat, 11 Jul 2026 16:02:51 +0000</pubDate>
+<description><![CDATA[Harrison (forearm tightness) placed on IL; Gasser recalled]]></description>
+</item>
 <item>
 <title>Brewers News: MLB Pipeline&#x27;s final mock draft!</title>
 <link>https://www.mlb.com/brewers/news/final-mlb-mock-draft-2026</link>
 <guid isPermaLink='false'>66665a139316ae3f4424cf78dd516589df2e8426</guid>
 <pubDate>Sat, 11 Jul 2026 15:45:00 +0000</pubDate>
 <description><![CDATA[MLB Pipeline's final mock draft!]]></description>
+</item>
+<item>
+<title>Brewers News: Follow Day 1 of the Draft right here, starting at 1 p.m. ET</title>
+<link>https://www.mlb.com/brewers/news/2026-mlb-draft-day-1-complete-coverage</link>
+<guid isPermaLink='false'>a63684c64d0ca0e927551c52bc06230f42a40f2c</guid>
+<pubDate>Sat, 11 Jul 2026 06:46:31 +0000</pubDate>
+<description><![CDATA[Follow Day 1 of the Draft right here, starting at 1 p.m. ET]]></description>
+</item>
+<item>
+<title>Brewers News: 2026 Draft Tracker: Follow every pick</title>
+<link>https://www.mlb.com/draft/tracker</link>
+<guid isPermaLink='false'>27c52c7347bc6a73433fabe8313edb5292f366d2</guid>
+<pubDate>Sat, 11 Jul 2026 06:25:07 +0000</pubDate>
+<description><![CDATA[2026 Draft Tracker: Follow every pick]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers-Pirates opener ppd.; split doubleheader on Saturday</title>
@@ -36,13 +73,6 @@
 <description><![CDATA[Milwaukee Brewers vs Pittsburgh Pirates - Postponed]]></description>
 </item>
 <item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>5902fe7368d4336bbdb05c08a40b92d8f82f0faa</guid>
-<pubDate>Fri, 10 Jul 2026 22:25:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
-</item>
-<item>
 <title>Brewers News: Contreras&#x27; heater back to the pitcher? It&#x27;s a wakeup call: &#x27;Like a mound visit&#x27;</title>
 <link>https://www.mlb.com/brewers/news/william-contreras-earns-all-star-nod-while-leading-brewers-pitchers</link>
 <guid isPermaLink='false'>d8dfe56c42c5e41f3a0cfab508153b4165dd1c2c</guid>
@@ -62,6 +92,13 @@
 <guid isPermaLink='false'>ad75ea6804939f968648200cf0148f154866b379</guid>
 <pubDate>Fri, 10 Jul 2026 03:46:00 +0000</pubDate>
 <description><![CDATA[MLB's No. 1 prospect rises to the occasion with second pro slam on 3-hit night]]></description>
+</item>
+<item>
+<title>Brewers News: Skenes vs. Misiorowski -- the perfect All-Star Game appetizer</title>
+<link>https://www.mlb.com/brewers/news/paul-skenes-jacob-misiorowski-set-to-match-up-for-pirates-brewers</link>
+<guid isPermaLink='false'>df80b0b3ab9551a5971bb61c2cb1359bbf6a4af2</guid>
+<pubDate>Fri, 10 Jul 2026 01:24:42 +0000</pubDate>
+<description><![CDATA[Skenes vs. Misiorowski -- the perfect All-Star Game appetizer]]></description>
 </item>
 <item>
 <title>Brewers News: Here is a look at each club&#x27;s best Draft pick from the past 10 years</title>
@@ -156,13 +193,6 @@
 <description><![CDATA[With fewest top-100 Draft picks in 8 years, Brewers must do more with less]]></description>
 </item>
 <item>
-<title>Brewers News: Brewers&#x27; Lara brings elite glove, breakout bat to Majors</title>
-<link>https://www.mlb.com/brewers/news/what-to-expect-from-brewers-prospect-luis-lara-in-the-bigs</link>
-<guid isPermaLink='false'>3371624ba84a03c48234d807fe495e6e83affc2b</guid>
-<pubDate>Tue, 07 Jul 2026 18:14:50 +0000</pubDate>
-<description><![CDATA[Brewers' Lara brings elite glove, breakout bat to Majors]]></description>
-</item>
-<item>
 <title>Brewers News: Redrafting the 2016 Draft class, 10 years later</title>
 <link>https://www.mlb.com/brewers/news/redrafting-the-2016-draft</link>
 <guid isPermaLink='false'>6c236a14608b36262b39e76658538704efbaeb54</guid>
@@ -175,27 +205,6 @@
 <guid isPermaLink='false'>24df4554e9818ee8fa30dd64d213f4385a111198</guid>
 <pubDate>Tue, 07 Jul 2026 13:09:42 +0000</pubDate>
 <description><![CDATA[Brewers believe they're built for what's ahead with Miz leading the way]]></description>
-</item>
-<item>
-<title>Brewers News: Comeback win helps Brewers reach elusive franchise milestone</title>
-<link>https://www.mlb.com/brewers/news/brewers-rally-past-cardinals-to-reach-500-as-nl-franchise</link>
-<guid isPermaLink='false'>ae1d586270956fbd2f9099d385108f883df7f47e</guid>
-<pubDate>Tue, 07 Jul 2026 05:08:00 +0000</pubDate>
-<description><![CDATA[Comeback win helps Brewers reach elusive franchise milestone]]></description>
-</item>
-<item>
-<title>Brewers News: 2025 first-rounder Fischer makes Prospect Team of the Week for third time this season</title>
-<link>https://www.mlb.com/brewers/news/prospect-team-of-the-week-july-6-2026</link>
-<guid isPermaLink='false'>c8f5bbf6aee2c4f4f128bbce891fd732dba481c8</guid>
-<pubDate>Mon, 06 Jul 2026 21:27:05 +0000</pubDate>
-<description><![CDATA[2025 first-rounder Fischer makes Prospect Team of the Week for third time this season]]></description>
-</item>
-<item>
-<title>Brewers News: Bauers&#x27; bash, bullpen&#x27;s resolve, Frelick&#x27;s game-winning catch secure series for Crew</title>
-<link>https://www.mlb.com/brewers/news/jake-bauers-hits-go-ahead-home-run-in-brewers-win-over-d-backs</link>
-<guid isPermaLink='false'>235790f64b08611339909204b65918a6415ec171</guid>
-<pubDate>Mon, 06 Jul 2026 01:13:00 +0000</pubDate>
-<description><![CDATA[Bauers' bash, bullpen's resolve, Frelick's game-winning catch secure series for Crew]]></description>
 </item>
 <item>
 <title>Brewers News: Crew sending Opening Day battery to Philly as Miz, Contreras named All-Stars</title>
