@@ -4,15 +4,29 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 11 Jul 2026 16:53:08 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 17:52:23 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 2 @ Pittsburgh Pirates 2 (End 2nd)</title>
+<title>Brewers News: MLB Draft Day 1 picks, analysis (LIVE on NBC/Peacock)</title>
+<link>https://www.mlb.com/brewers/news/2026-mlb-draft-day-1-complete-coverage</link>
+<guid isPermaLink='false'>e1a2f9fa884922f880ca4f5e5f86d12a03fcb840</guid>
+<pubDate>Sat, 11 Jul 2026 17:45:00 +0000</pubDate>
+<description><![CDATA[MLB Draft Day 1 picks, analysis (LIVE on NBC/Peacock)]]></description>
+</item>
+<item>
+<title>Brewers News: LIVE Draft Tracker: Follow every pick</title>
+<link>https://www.mlb.com/draft/tracker</link>
+<guid isPermaLink='false'>9512e10db0656c8098dcc18a5d1aaeb2fd8ee5e6</guid>
+<pubDate>Sat, 11 Jul 2026 16:55:00 +0000</pubDate>
+<description><![CDATA[LIVE Draft Tracker: Follow every pick]]></description>
+</item>
+<item>
+<title>MLB - Live: Milwaukee Brewers 5 @ Pittsburgh Pirates 3 (Top 6th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401889917</link>
-<guid isPermaLink='false'>3fb4c6c95e3720bd375930cbe0b225b8efde982b</guid>
+<guid isPermaLink='false'>56020cf3ea1943ca8a29b377b3999447db719313</guid>
 <pubDate>Sat, 11 Jul 2026 16:05:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Pittsburgh Pirates - End 2nd]]></description>
+<description><![CDATA[Milwaukee Brewers vs Pittsburgh Pirates - Top 6th]]></description>
 </item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
@@ -34,20 +48,6 @@
 <guid isPermaLink='false'>66665a139316ae3f4424cf78dd516589df2e8426</guid>
 <pubDate>Sat, 11 Jul 2026 15:45:00 +0000</pubDate>
 <description><![CDATA[MLB Pipeline's final mock draft!]]></description>
-</item>
-<item>
-<title>Brewers News: Follow Day 1 of the Draft right here, starting at 1 p.m. ET</title>
-<link>https://www.mlb.com/brewers/news/2026-mlb-draft-day-1-complete-coverage</link>
-<guid isPermaLink='false'>a63684c64d0ca0e927551c52bc06230f42a40f2c</guid>
-<pubDate>Sat, 11 Jul 2026 06:46:31 +0000</pubDate>
-<description><![CDATA[Follow Day 1 of the Draft right here, starting at 1 p.m. ET]]></description>
-</item>
-<item>
-<title>Brewers News: 2026 Draft Tracker: Follow every pick</title>
-<link>https://www.mlb.com/draft/tracker</link>
-<guid isPermaLink='false'>27c52c7347bc6a73433fabe8313edb5292f366d2</guid>
-<pubDate>Sat, 11 Jul 2026 06:25:07 +0000</pubDate>
-<description><![CDATA[2026 Draft Tracker: Follow every pick]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers-Pirates opener ppd.; split doubleheader on Saturday</title>
