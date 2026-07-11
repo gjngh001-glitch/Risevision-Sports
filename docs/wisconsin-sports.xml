@@ -4,13 +4,29 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 11 Jul 2026 20:05:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 21:04:43 +0000</lastBuildDate>
 <item>
-<title>Brewers News: MLB Draft Day 1 picks, analysis (LIVE on MLB Network, Peacock, MLB.com, MLB.TV, MLB+)</title>
+<title>MLB - Live: Milwaukee Brewers 0 @ Pittsburgh Pirates 0 (Top 4th)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401816115</link>
+<guid isPermaLink='false'>b25731673224c2998002c53860a7d79075009935</guid>
+<pubDate>Sat, 11 Jul 2026 20:15:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Pittsburgh Pirates - Top 4th]]></description>
+</item>
+<item>
+<title>Brewers News: High school shortstop Ebel joins brother in Brewers system as No. 25 pick</title>
+<link>https://www.mlb.com/brewers/news/trey-ebel-drafted-by-the-brewers-at-pick-no-25</link>
+<guid isPermaLink='false'>ea6fa0cb2bf93f767610fe207749a6e3c4feb8b7</guid>
+<pubDate>Sat, 11 Jul 2026 20:12:57 +0000</pubDate>
+<description><![CDATA[High school shortstop Ebel joins brother in Brewers system as No. 25 pick]]></description>
+</item>
+<item>
+<title>Brewers News: MLB Draft Day 1 picks, analysis (LIVE on MLB.com, MLB.TV, MLB+)</title>
 <link>https://www.mlb.com/brewers/news/2026-mlb-draft-day-1-complete-coverage</link>
-<guid isPermaLink='false'>6eafcc882be882f040e3246d141370d9a3efc0b9</guid>
-<pubDate>Sat, 11 Jul 2026 19:55:00 +0000</pubDate>
-<description><![CDATA[MLB Draft Day 1 picks, analysis (LIVE on MLB Network, Peacock, MLB.com, MLB.TV, MLB+)]]></description>
+<guid isPermaLink='false'>2ecae706c9ea255c7890d4739abca1a462289389</guid>
+<pubDate>Sat, 11 Jul 2026 20:12:00 +0000</pubDate>
+<description><![CDATA[MLB Draft Day 1 picks, analysis (LIVE on MLB.com, MLB.TV, MLB+)]]></description>
 </item>
 <item>
 <title>Brewers News: LIVE Draft Tracker: Follow every pick</title>
@@ -41,20 +57,6 @@
 <guid isPermaLink='false'>a41626863f96a8f47570fb79101f162159e412e9</guid>
 <pubDate>Sat, 11 Jul 2026 16:02:51 +0000</pubDate>
 <description><![CDATA[Harrison (forearm tightness) placed on IL; Gasser recalled]]></description>
-</item>
-<item>
-<title>Brewers News: MLB Pipeline&#x27;s final mock draft!</title>
-<link>https://www.mlb.com/brewers/news/final-mlb-mock-draft-2026</link>
-<guid isPermaLink='false'>66665a139316ae3f4424cf78dd516589df2e8426</guid>
-<pubDate>Sat, 11 Jul 2026 15:45:00 +0000</pubDate>
-<description><![CDATA[MLB Pipeline's final mock draft!]]></description>
-</item>
-<item>
-<title>Brewers News: Brewers-Pirates opener ppd.; split doubleheader on Saturday</title>
-<link>https://www.mlb.com/brewers/news/brewers-pirates-postponed-july-10-2026</link>
-<guid isPermaLink='false'>27616287236972e5a31c57fcbcbbcc7fc0918396</guid>
-<pubDate>Sat, 11 Jul 2026 00:26:26 +0000</pubDate>
-<description><![CDATA[Brewers-Pirates opener ppd.; split doubleheader on Saturday]]></description>
 </item>
 <item>
 <title>Brewers News: Bryse Wilson back with Brewers on 1-year deal</title>
@@ -186,11 +188,11 @@
 <description><![CDATA[Misiorowski allows 2 homers, but bounces back to K 11 over 7 innings]]></description>
 </item>
 <item>
-<title>Brewers News: With fewest top-100 Draft picks in 8 years, Brewers must do more with less</title>
-<link>https://www.mlb.com/brewers/news/brewers-2026-draft-preview</link>
-<guid isPermaLink='false'>d0111b68a0a8a15737a9055df736b34b31e3db2e</guid>
-<pubDate>Tue, 07 Jul 2026 23:20:52 +0000</pubDate>
-<description><![CDATA[With fewest top-100 Draft picks in 8 years, Brewers must do more with less]]></description>
+<title>Brewers News: Brewers&#x27; Lara brings elite glove, breakout bat to Majors</title>
+<link>https://www.mlb.com/brewers/news/what-to-expect-from-brewers-prospect-luis-lara-in-the-bigs</link>
+<guid isPermaLink='false'>3371624ba84a03c48234d807fe495e6e83affc2b</guid>
+<pubDate>Tue, 07 Jul 2026 18:14:50 +0000</pubDate>
+<description><![CDATA[Brewers' Lara brings elite glove, breakout bat to Majors]]></description>
 </item>
 <item>
 <title>Brewers News: Redrafting the 2016 Draft class, 10 years later</title>
@@ -205,6 +207,13 @@
 <guid isPermaLink='false'>24df4554e9818ee8fa30dd64d213f4385a111198</guid>
 <pubDate>Tue, 07 Jul 2026 13:09:42 +0000</pubDate>
 <description><![CDATA[Brewers believe they're built for what's ahead with Miz leading the way]]></description>
+</item>
+<item>
+<title>Brewers News: Comeback win helps Brewers reach elusive franchise milestone</title>
+<link>https://www.mlb.com/brewers/news/brewers-rally-past-cardinals-to-reach-500-as-nl-franchise</link>
+<guid isPermaLink='false'>ae1d586270956fbd2f9099d385108f883df7f47e</guid>
+<pubDate>Tue, 07 Jul 2026 05:08:00 +0000</pubDate>
+<description><![CDATA[Comeback win helps Brewers reach elusive franchise milestone]]></description>
 </item>
 <item>
 <title>Brewers News: Crew sending Opening Day battery to Philly as Miz, Contreras named All-Stars</title>
