@@ -4,15 +4,36 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 11 Jul 2026 21:04:43 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 22:06:40 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Milwaukee Brewers 0 @ Pittsburgh Pirates 0 (Top 4th)</title>
+<title>Brewers News: MLB Draft Day 1 picks, analysis (LIVE on MLB.com, MLB.TV, MLB+)</title>
+<link>https://www.mlb.com/brewers/news/2026-mlb-draft-day-1-complete-coverage</link>
+<guid isPermaLink='false'>96469911d4fb4700b3b552e64764c2227d61e175</guid>
+<pubDate>Sat, 11 Jul 2026 21:41:00 +0000</pubDate>
+<description><![CDATA[MLB Draft Day 1 picks, analysis (LIVE on MLB.com, MLB.TV, MLB+)]]></description>
+</item>
+<item>
+<title>Brewers News: Brewers grab 22nd-ranked Draft prospect Strosnider with 2nd pick at No. 66</title>
+<link>https://www.mlb.com/brewers/news/sawyer-strosnider-drafted-at-no-66-by-brewers</link>
+<guid isPermaLink='false'>63f8f569cf16fd4cec14f94aaa0f86ec960253a3</guid>
+<pubDate>Sat, 11 Jul 2026 21:20:59 +0000</pubDate>
+<description><![CDATA[Brewers grab 22nd-ranked Draft prospect Strosnider with 2nd pick at No. 66]]></description>
+</item>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>baae58d90d547e738ab682d38ad4514ad10469bc</guid>
+<pubDate>Sat, 11 Jul 2026 21:16:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>MLB - Live: Milwaukee Brewers 2 @ Pittsburgh Pirates 3 (Bot 6th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401816115</link>
-<guid isPermaLink='false'>b25731673224c2998002c53860a7d79075009935</guid>
+<guid isPermaLink='false'>cff6663b0d11fbe09b5a2421abb4e944cc569864</guid>
 <pubDate>Sat, 11 Jul 2026 20:15:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Pittsburgh Pirates - Top 4th]]></description>
+<description><![CDATA[Milwaukee Brewers vs Pittsburgh Pirates - Bot 6th]]></description>
 </item>
 <item>
 <title>Brewers News: High school shortstop Ebel joins brother in Brewers system as No. 25 pick</title>
@@ -20,13 +41,6 @@
 <guid isPermaLink='false'>ea6fa0cb2bf93f767610fe207749a6e3c4feb8b7</guid>
 <pubDate>Sat, 11 Jul 2026 20:12:57 +0000</pubDate>
 <description><![CDATA[High school shortstop Ebel joins brother in Brewers system as No. 25 pick]]></description>
-</item>
-<item>
-<title>Brewers News: MLB Draft Day 1 picks, analysis (LIVE on MLB.com, MLB.TV, MLB+)</title>
-<link>https://www.mlb.com/brewers/news/2026-mlb-draft-day-1-complete-coverage</link>
-<guid isPermaLink='false'>2ecae706c9ea255c7890d4739abca1a462289389</guid>
-<pubDate>Sat, 11 Jul 2026 20:12:00 +0000</pubDate>
-<description><![CDATA[MLB Draft Day 1 picks, analysis (LIVE on MLB.com, MLB.TV, MLB+)]]></description>
 </item>
 <item>
 <title>Brewers News: LIVE Draft Tracker: Follow every pick</title>
@@ -43,13 +57,6 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" medium="image" />
 <description><![CDATA[Milwaukee Brewers vs Pittsburgh Pirates - Final]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>6cf9110eb15aaf5ed413ea31571f2e8e8f7e4a04</guid>
-<pubDate>Sat, 11 Jul 2026 16:05:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>Brewers News: Harrison (forearm tightness) placed on IL; Gasser recalled</title>
@@ -207,13 +214,6 @@
 <guid isPermaLink='false'>24df4554e9818ee8fa30dd64d213f4385a111198</guid>
 <pubDate>Tue, 07 Jul 2026 13:09:42 +0000</pubDate>
 <description><![CDATA[Brewers believe they're built for what's ahead with Miz leading the way]]></description>
-</item>
-<item>
-<title>Brewers News: Comeback win helps Brewers reach elusive franchise milestone</title>
-<link>https://www.mlb.com/brewers/news/brewers-rally-past-cardinals-to-reach-500-as-nl-franchise</link>
-<guid isPermaLink='false'>ae1d586270956fbd2f9099d385108f883df7f47e</guid>
-<pubDate>Tue, 07 Jul 2026 05:08:00 +0000</pubDate>
-<description><![CDATA[Comeback win helps Brewers reach elusive franchise milestone]]></description>
 </item>
 <item>
 <title>Brewers News: Crew sending Opening Day battery to Philly as Miz, Contreras named All-Stars</title>
