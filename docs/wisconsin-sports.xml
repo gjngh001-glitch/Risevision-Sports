@@ -4,20 +4,27 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 11 Jul 2026 23:09:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 00:09:38 +0000</lastBuildDate>
+<item>
+<title>Brewers News: Draft Day 1: Pick-by-pick rundown, analysis</title>
+<link>https://www.mlb.com/brewers/news/2026-mlb-draft-day-1-complete-coverage</link>
+<guid isPermaLink='false'>8f66d23c1aa7ed1341a38398da444a1acd086846</guid>
+<pubDate>Sat, 11 Jul 2026 23:48:00 +0000</pubDate>
+<description><![CDATA[Draft Day 1: Pick-by-pick rundown, analysis]]></description>
+</item>
+<item>
+<title>Brewers News: Brewers Draft Tracker: Follow every pick</title>
+<link>https://www.mlb.com/draft/tracker/2026/all/team/brewers</link>
+<guid isPermaLink='false'>7d542a7de957ef5f16baf399d01fb1623eb581a8</guid>
+<pubDate>Sat, 11 Jul 2026 23:25:32 +0000</pubDate>
+<description><![CDATA[Brewers Draft Tracker: Follow every pick]]></description>
+</item>
 <item>
 <title>Brewers News: High school shortstop Ebel joins brother in Brewers system as No. 25 pick</title>
 <link>https://www.mlb.com/brewers/news/trey-ebel-drafted-by-the-brewers-at-pick-no-25</link>
 <guid isPermaLink='false'>d33ce4d399fb154b049b5579e8f35503110e22aa</guid>
 <pubDate>Sat, 11 Jul 2026 22:07:00 +0000</pubDate>
 <description><![CDATA[High school shortstop Ebel joins brother in Brewers system as No. 25 pick]]></description>
-</item>
-<item>
-<title>Brewers News: MLB Draft Day 1 picks, analysis (LIVE on MLB.com, MLB.TV, MLB+)</title>
-<link>https://www.mlb.com/brewers/news/2026-mlb-draft-day-1-complete-coverage</link>
-<guid isPermaLink='false'>96469911d4fb4700b3b552e64764c2227d61e175</guid>
-<pubDate>Sat, 11 Jul 2026 21:41:00 +0000</pubDate>
-<description><![CDATA[MLB Draft Day 1 picks, analysis (LIVE on MLB.com, MLB.TV, MLB+)]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers grab 22nd-ranked Draft prospect Strosnider with 2nd pick at No. 66</title>
@@ -41,13 +48,6 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png" medium="image" />
 <description><![CDATA[Milwaukee Brewers vs Pittsburgh Pirates - Final]]></description>
-</item>
-<item>
-<title>Brewers News: LIVE Draft Tracker: Follow every pick</title>
-<link>https://www.mlb.com/draft/tracker</link>
-<guid isPermaLink='false'>9512e10db0656c8098dcc18a5d1aaeb2fd8ee5e6</guid>
-<pubDate>Sat, 11 Jul 2026 16:55:00 +0000</pubDate>
-<description><![CDATA[LIVE Draft Tracker: Follow every pick]]></description>
 </item>
 <item>
 <title>MLB - Final: Milwaukee Brewers 6 @ Pittsburgh Pirates 7 (Final)</title>
@@ -101,13 +101,6 @@
 <guid isPermaLink='false'>ad75ea6804939f968648200cf0148f154866b379</guid>
 <pubDate>Fri, 10 Jul 2026 03:46:00 +0000</pubDate>
 <description><![CDATA[MLB's No. 1 prospect rises to the occasion with second pro slam on 3-hit night]]></description>
-</item>
-<item>
-<title>Brewers News: Skenes vs. Misiorowski -- the perfect All-Star Game appetizer</title>
-<link>https://www.mlb.com/brewers/news/paul-skenes-jacob-misiorowski-set-to-match-up-for-pirates-brewers</link>
-<guid isPermaLink='false'>df80b0b3ab9551a5971bb61c2cb1359bbf6a4af2</guid>
-<pubDate>Fri, 10 Jul 2026 01:24:42 +0000</pubDate>
-<description><![CDATA[Skenes vs. Misiorowski -- the perfect All-Star Game appetizer]]></description>
 </item>
 <item>
 <title>Brewers News: Here is a look at each club&#x27;s best Draft pick from the past 10 years</title>
@@ -165,15 +158,6 @@
 <description><![CDATA[Woodruff's MRI shows new injury to anterior capsule, to get 2nd opinion]]></description>
 </item>
 <item>
-<title>MLB - Final: Milwaukee Brewers 1 @ St. Louis Cardinals 5 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401816079</link>
-<guid isPermaLink='false'>cddba637804d238ee70f8e4eae1ddd545650f7db</guid>
-<pubDate>Wed, 08 Jul 2026 23:45:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs St. Louis Cardinals - Final]]></description>
-</item>
-<item>
 <title>Brewers News: &#x27;A kid&#x27;s dream&#x27;: No. 67 overall prospect Lara collects 1st MLB hit in Crew debut</title>
 <link>https://www.mlb.com/brewers/news/luis-lara-brewers-prospect-call-up</link>
 <guid isPermaLink='false'>9cd883783c9dd8945ee70b950c014b659e01a523</guid>
@@ -214,6 +198,13 @@
 <guid isPermaLink='false'>24df4554e9818ee8fa30dd64d213f4385a111198</guid>
 <pubDate>Tue, 07 Jul 2026 13:09:42 +0000</pubDate>
 <description><![CDATA[Brewers believe they're built for what's ahead with Miz leading the way]]></description>
+</item>
+<item>
+<title>Brewers News: Comeback win helps Brewers reach elusive franchise milestone</title>
+<link>https://www.mlb.com/brewers/news/brewers-rally-past-cardinals-to-reach-500-as-nl-franchise</link>
+<guid isPermaLink='false'>ae1d586270956fbd2f9099d385108f883df7f47e</guid>
+<pubDate>Tue, 07 Jul 2026 05:08:00 +0000</pubDate>
+<description><![CDATA[Comeback win helps Brewers reach elusive franchise milestone]]></description>
 </item>
 <item>
 <title>Brewers News: Crew sending Opening Day battery to Philly as Miz, Contreras named All-Stars</title>
