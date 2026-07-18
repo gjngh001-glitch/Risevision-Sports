@@ -4,22 +4,43 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 18 Jul 2026 01:04:49 +0000</lastBuildDate>
-<item>
-<title>MLB - Live: Miami Marlins 1 @ Milwaukee Brewers 0 (Bot 5th)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401816148</link>
-<guid isPermaLink='false'>326e09fe7edab714ccf38d294f491aaa9a09036a</guid>
-<pubDate>Fri, 17 Jul 2026 23:40:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Miami Marlins vs Milwaukee Brewers - Bot 5th]]></description>
-</item>
+<lastBuildDate>Sat, 18 Jul 2026 04:13:19 +0000</lastBuildDate>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
 <link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>487e154c2ca1f346978e521e1b5caaf643073ec0</guid>
-<pubDate>Fri, 17 Jul 2026 23:10:00 +0000</pubDate>
+<guid isPermaLink='false'>048f3a1f5698c71e108a7249a55651874da9c95d</guid>
+<pubDate>Sat, 18 Jul 2026 03:57:00 +0000</pubDate>
 <description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>Brewers News: Frelick may miss significant time after leaving with right shoulder injury</title>
+<link>https://www.mlb.com/brewers/news/sal-frelick-has-right-shoulder-injury-for-brewers</link>
+<guid isPermaLink='false'>2a22c59b464b87f2b8c0bfad7c7bb8b0c808f53f</guid>
+<pubDate>Sat, 18 Jul 2026 03:56:53 +0000</pubDate>
+<description><![CDATA[Frelick may miss significant time after leaving with right shoulder injury]]></description>
+</item>
+<item>
+<title>Brewers News: 1 key player for each team in the second half</title>
+<link>https://www.mlb.com/brewers/news/key-player-for-each-team-in-second-half-2026</link>
+<guid isPermaLink='false'>1746b69d2e3d7365eb5caff90fd79438fd810a83</guid>
+<pubDate>Sat, 18 Jul 2026 03:16:22 +0000</pubDate>
+<description><![CDATA[1 key player for each team in the second half]]></description>
+</item>
+<item>
+<title>Brewers News: Mitchell twice saves game with his glove, then wins it with his bat</title>
+<link>https://www.mlb.com/brewers/news/garrett-mitchell-s-walk-off-hit-lifts-brewers-over-marlins</link>
+<guid isPermaLink='false'>09098fdb17d789dd9718604e3fac64e215e49313</guid>
+<pubDate>Sat, 18 Jul 2026 03:14:52 +0000</pubDate>
+<description><![CDATA[Mitchell twice saves game with his glove, then wins it with his bat]]></description>
+</item>
+<item>
+<title>MLB - Final: Miami Marlins 1 @ Milwaukee Brewers 2 (Final/10)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401816148</link>
+<guid isPermaLink='false'>b90a385279d944420af303c8e48ce4ee78e69a21</guid>
+<pubDate>Fri, 17 Jul 2026 23:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Miami Marlins vs Milwaukee Brewers - Final/10]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers officially bring Ebel Bros. together, sign top pick Trey</title>
@@ -34,13 +55,6 @@
 <guid isPermaLink='false'>58f083b907f3d5a44ff27809b0319f7adabfbd9a</guid>
 <pubDate>Fri, 17 Jul 2026 23:02:33 +0000</pubDate>
 <description><![CDATA[Crew examines statuses of Miz, McCullers, and Harrison]]></description>
-</item>
-<item>
-<title>Brewers News: Watch No. 1 prospect Made play at Double-A for FREE on Sunday</title>
-<link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
-<guid isPermaLink='false'>8463722033768a7934a7d3f6a4cb51cc958f17b5</guid>
-<pubDate>Fri, 17 Jul 2026 22:44:00 +0000</pubDate>
-<description><![CDATA[Watch No. 1 prospect Made play at Double-A for FREE on Sunday]]></description>
 </item>
 <item>
 <title>Brewers News: Status update on air quality for Friday&#x27;s Brewers game</title>
@@ -175,13 +189,6 @@
 <description><![CDATA[Here's a team-by-team breakdown from 2026 All-Star Game]]></description>
 </item>
 <item>
-<title>Brewers News: In City of Brotherly Love, AL rides 3-run 1st to win All-Star Game</title>
-<link>https://www.mlb.com/brewers/news/al-beats-nl-in-2026-mlb-all-star-game</link>
-<guid isPermaLink='false'>4010e4f8fbc37dbb6d275de2ff48d02464c40ccc</guid>
-<pubDate>Wed, 15 Jul 2026 04:35:00 +0000</pubDate>
-<description><![CDATA[In City of Brotherly Love, AL rides 3-run 1st to win All-Star Game]]></description>
-</item>
-<item>
 <title>UW News - Men&#x27;s Basketball: HOF CLASS OF 2026: &quot;A Promise Kept&#x27; - The Sam Dekker story</title>
 <link>https://uwbadgers.com/news/2026/7/14/mens-basketball-hof-class-of-2026-a-promise-kept-the-sam-dekker-story</link>
 <guid isPermaLink='false'>523469b3671c79ed4c7fbe36bb65d1bdd01c4751</guid>
@@ -205,13 +212,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/7/13/VB-20260712-B10_Volleyball_Media_Day-16x9.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/7/13/VB-20260712-B10_Volleyball_Media_Day-16x9.jpg" medium="image" />
 <description><![CDATA[<img alt="VB Media Day in Chicago 2026" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/13/VB-20260712-B10_Volleyball_Media_Day-16x9.jpg" /><br /><br />MADISON, Wis. - The fifth annual Big Ten Volleyball Media Day will occur on August 3 in Chicago with Wisconsin volleyball's head coach Kelly Sheffield and athletes Grace Egan and Charlie Fuerbringer to attend at the Big Ten Network studies in Chicago.]]></description>
-</item>
-<item>
-<title>Brewers News: Contreras&#x27; heater back to the pitcher? It&#x27;s a wakeup call: &#x27;Like a mound visit&#x27;</title>
-<link>https://www.mlb.com/brewers/news/william-contreras-earns-all-star-nod-while-leading-brewers-pitchers</link>
-<guid isPermaLink='false'>d11de875e757554c1324d13a483d698348900247</guid>
-<pubDate>Mon, 13 Jul 2026 15:24:00 +0000</pubDate>
-<description><![CDATA[Contreras' heater back to the pitcher? It's a wakeup call: 'Like a mound visit']]></description>
 </item>
 <item>
 <title>Brewers News: Get Brewers.TV for low price of $54.99</title>
