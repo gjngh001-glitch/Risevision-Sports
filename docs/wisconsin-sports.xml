@@ -4,7 +4,16 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Fri, 17 Jul 2026 23:36:54 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 01:04:49 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Miami Marlins 1 @ Milwaukee Brewers 0 (Bot 5th)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401816148</link>
+<guid isPermaLink='false'>326e09fe7edab714ccf38d294f491aaa9a09036a</guid>
+<pubDate>Fri, 17 Jul 2026 23:40:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[Miami Marlins vs Milwaukee Brewers - Bot 5th]]></description>
+</item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
 <link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
