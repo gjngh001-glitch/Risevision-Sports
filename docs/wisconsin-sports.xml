@@ -4,15 +4,29 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 19 Jul 2026 18:38:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 19:51:49 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Miami Marlins 0 @ Milwaukee Brewers 0 (Bot 2nd)</title>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>4efe17f5d9ff197c97a4bb4e256a874d393d3822</guid>
+<pubDate>Sun, 19 Jul 2026 18:57:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>Brewers News: Misiorowski rested and ready for second-half debut, dueling against former teammate Peralta</title>
+<link>https://www.mlb.com/brewers/news/jacob-misiorowski-opens-second-half-against-freddy-peralta</link>
+<guid isPermaLink='false'>e02b93aa9d43fc20e0983aea0316e50ef9127d63</guid>
+<pubDate>Sun, 19 Jul 2026 18:47:05 +0000</pubDate>
+<description><![CDATA[Misiorowski rested and ready for second-half debut, dueling against former teammate Peralta]]></description>
+</item>
+<item>
+<title>MLB - Live: Miami Marlins 1 @ Milwaukee Brewers 0 (Bot 6th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401816178</link>
-<guid isPermaLink='false'>d0ff9f04107c740b8807ebf75e65f4e33ee04e31</guid>
+<guid isPermaLink='false'>ee7e42c33aad0432ddf60f0b0204ce387cc1eed4</guid>
 <pubDate>Sun, 19 Jul 2026 18:10:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Miami Marlins vs Milwaukee Brewers - Bot 2nd]]></description>
+<description><![CDATA[Miami Marlins vs Milwaukee Brewers - Bot 6th]]></description>
 </item>
 <item>
 <title>Brewers News: Watch No. 1 prospect Made play at Double-A for FREE tonight</title>
@@ -34,13 +48,6 @@
 <guid isPermaLink='false'>1734572cbd563ea32604954a1e5c5cbb98d648d4</guid>
 <pubDate>Sat, 18 Jul 2026 21:43:00 +0000</pubDate>
 <description><![CDATA[Woodruff to undergo 2nd shoulder surgery, says he's 'not having a funeral']]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>210f78415dc4006eadc288954d62cbcb8cd21c0f</guid>
-<pubDate>Sat, 18 Jul 2026 20:20:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>MLB - Final: Miami Marlins 6 @ Milwaukee Brewers 8 (Final)</title>
@@ -182,13 +189,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/7/15/MBB-20260714-Philadelphia_Game_vs_Villanova-Web__1_.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/7/15/MBB-20260714-Philadelphia_Game_vs_Villanova-Web__1_.jpg" medium="image" />
 <description><![CDATA[<img alt="Philly Hoops Showdown Headline Image" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/15/MBB-20260714-Philadelphia_Game_vs_Villanova-Web__1_.jpg" /><br /><br />MADISON, Wis. – The Wisconsin men's basketball program announced on Wednesday that it will take on Villanova in the Philly Hoops Showdown at Xfinity Mobile Arena in Philadelphia.]]></description>
-</item>
-<item>
-<title>Brewers News: No, you&#x27;re not imagining it -- pitchers are throwing faster than ever this season</title>
-<link>https://www.mlb.com/brewers/news/mlb-pitchers-throwing-faster-than-ever-in-2026</link>
-<guid isPermaLink='false'>10b28342e871408b2788c30219375cb53fe2c7fc</guid>
-<pubDate>Wed, 15 Jul 2026 15:52:55 +0000</pubDate>
-<description><![CDATA[No, you're not imagining it -- pitchers are throwing faster than ever this season]]></description>
 </item>
 <item>
 <title>Brewers News: Each team&#x27;s biggest need at this year&#x27;s Deadline</title>
