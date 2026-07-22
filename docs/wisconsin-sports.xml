@@ -4,12 +4,21 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 22 Jul 2026 17:54:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 19:10:30 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: New York Mets 1 @ Milwaukee Brewers 3 (Bot 3rd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401816225</link>
+<guid isPermaLink='false'>f0b4d5f6d4a7719f014968c3ed24cf8136539a02</guid>
+<pubDate>Wed, 22 Jul 2026 18:10:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
+<description><![CDATA[New York Mets vs Milwaukee Brewers - Bot 3rd]]></description>
+</item>
 <item>
 <title>Brewers News: Watch top prospect Made play at Double-A for FREE in Sunday matinee</title>
 <link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
-<guid isPermaLink='false'>5304092cefc3b8b85abb42338537875929ace123</guid>
-<pubDate>Wed, 22 Jul 2026 17:35:00 +0000</pubDate>
+<guid isPermaLink='false'>7c3b28d7d5abdd56985c66aaba080310b0592ed4</guid>
+<pubDate>Wed, 22 Jul 2026 18:00:00 +0000</pubDate>
 <description><![CDATA[Watch top prospect Made play at Double-A for FREE in Sunday matinee]]></description>
 </item>
 <item>
