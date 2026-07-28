@@ -4,7 +4,14 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Mon, 27 Jul 2026 23:18:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 00:53:38 +0000</lastBuildDate>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>d11e48489c3dc087825efd0f9d0eb84a8ae3faaf</guid>
+<pubDate>Mon, 27 Jul 2026 23:55:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
 <item>
 <title>Brewers News: Brewers 1B prospect Burke makes Team of the Week</title>
 <link>https://www.mlb.com/brewers/news/prospect-team-of-the-week-july-27-2026</link>
@@ -43,13 +50,6 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
 <description><![CDATA[Colorado Rockies vs Milwaukee Brewers - Final]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>e501468237b3bfe961ff3792b0dfda536f91e0e0</guid>
-<pubDate>Sun, 26 Jul 2026 17:47:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>Brewers News: McCullers DFA&#x27;d by Brewers just 11 days after trade</title>
@@ -108,15 +108,6 @@
 <guid isPermaLink='false'>d9599d1e0cc0c87df0f6fd5b3c36c8a5c1da26db</guid>
 <pubDate>Sat, 25 Jul 2026 01:56:00 +0000</pubDate>
 <description><![CDATA[Hamilton's return gives Brewers a good problem to solve]]></description>
-</item>
-<item>
-<title>MLB - Final: Colorado Rockies 5 @ Milwaukee Brewers 2 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401816246</link>
-<guid isPermaLink='false'>3fb287eb4c807a677e1a1c4de5b45ecc2fa2c23c</guid>
-<pubDate>Fri, 24 Jul 2026 20:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Colorado Rockies vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Ortiz finding groove -- and positive results -- in new role at third base</title>
