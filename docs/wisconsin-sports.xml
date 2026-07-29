@@ -4,13 +4,20 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Tue, 28 Jul 2026 23:40:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 01:08:34 +0000</lastBuildDate>
 <item>
-<title>Brewers News: Brewers slugger Bauers out with fractured toe; timeline to return TBD</title>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>c8c3d75213536eed894579ded4ef0a2c0df2ea1b</guid>
+<pubDate>Wed, 29 Jul 2026 00:52:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>Brewers News: Foul ball reveals Bauers&#x27; fractured big toe -- but he&#x27;s just day to day</title>
 <link>https://www.mlb.com/brewers/news/jake-bauers-fractured-toe-injury</link>
-<guid isPermaLink='false'>c0ff5120a0084389628f24fe6e6511b5690a9780</guid>
-<pubDate>Tue, 28 Jul 2026 22:15:26 +0000</pubDate>
-<description><![CDATA[Brewers slugger Bauers out with fractured toe; timeline to return TBD]]></description>
+<guid isPermaLink='false'>9e8ea00d1be3ec08906db23dc122fd159e2181a5</guid>
+<pubDate>Wed, 29 Jul 2026 00:51:00 +0000</pubDate>
+<description><![CDATA[Foul ball reveals Bauers' fractured big toe -- but he's just day to day]]></description>
 </item>
 <item>
 <title>Brewers News: Watch baseball&#x27;s top prospect Made play at Double-A for FREE on Sunday</title>
@@ -48,13 +55,6 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png" medium="image" />
 <description><![CDATA[Milwaukee Brewers vs San Francisco Giants - Final]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>d11e48489c3dc087825efd0f9d0eb84a8ae3faaf</guid>
-<pubDate>Mon, 27 Jul 2026 23:55:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>Brewers News: Brewers 1B prospect Burke makes Team of the Week</title>
@@ -122,15 +122,6 @@
 <guid isPermaLink='false'>9a3ac3bb74119a0c20d06d2be1dc821a17ce2604</guid>
 <pubDate>Sun, 26 Jul 2026 04:35:00 +0000</pubDate>
 <description><![CDATA[Rookies Pratt, Lara combine for 6 RBIs to make franchise history for Brewers]]></description>
-</item>
-<item>
-<title>MLB - Final: Colorado Rockies 5 @ Milwaukee Brewers 8 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401816261</link>
-<guid isPermaLink='false'>53ba2c3515d1c8017fe804f30712523e64fc507c</guid>
-<pubDate>Sat, 25 Jul 2026 23:10:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Colorado Rockies vs Milwaukee Brewers - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Fischer becomes first Brewers Minor Leaguer with 30-HR year since 2001</title>
