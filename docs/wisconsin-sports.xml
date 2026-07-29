@@ -4,12 +4,21 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Wed, 29 Jul 2026 01:08:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 04:30:12 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 8 @ San Francisco Giants 0 (Bot 8th)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401816305</link>
+<guid isPermaLink='false'>38273566cb0278feb07927aaf98c77003e79391e</guid>
+<pubDate>Wed, 29 Jul 2026 01:45:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs San Francisco Giants - Bot 8th]]></description>
+</item>
 <item>
 <title>Brewers News: Latest Brewers injuries &amp; transactions</title>
 <link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>c8c3d75213536eed894579ded4ef0a2c0df2ea1b</guid>
-<pubDate>Wed, 29 Jul 2026 00:52:00 +0000</pubDate>
+<guid isPermaLink='false'>c8f59063c19ddafea7c1f36b4201b5aee0137abb</guid>
+<pubDate>Wed, 29 Jul 2026 01:15:00 +0000</pubDate>
 <description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
