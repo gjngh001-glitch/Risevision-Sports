@@ -4,7 +4,14 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sat, 01 Aug 2026 23:40:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 01:14:55 +0000</lastBuildDate>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>cc47f11f5d84383433b66042954c2c5be3bfab49</guid>
+<pubDate>Sun, 02 Aug 2026 00:43:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
 <item>
 <title>Brewers News: Watch baseball&#x27;s top prospect Made play at Double-A for FREE on Sunday</title>
 <link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
@@ -48,13 +55,6 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" medium="image" />
 <description><![CDATA[Milwaukee Brewers vs Los Angeles Angels - Final]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>3066d5c5d1cb215e61e69813272e06b06e4629a8</guid>
-<pubDate>Sat, 01 Aug 2026 01:24:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>Brewers News: Harrison breezes through rehab start, hopes to rejoin rotation soon</title>
@@ -124,15 +124,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/7/29/VB-20260727-Preseason_Team_WEB.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/7/29/VB-20260727-Preseason_Team_WEB.jpg" medium="image" />
 <description><![CDATA[<img alt="VB All-Big Ten Preseason Team" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/29/VB-20260727-Preseason_Team_WEB.jpg" /><br /><br />MADISON, Wis. – Charlie Fuerbringer and Jaela Auguste of the Wisconsin volleyball team have been named to the 2026 All-Big Ten Preseason Team, announced by the conference Thursday afternoon. The Badgers also came in at No. 2 in the Big Ten Preseason Poll.]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 3 @ San Francisco Giants 16 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401816320</link>
-<guid isPermaLink='false'>96338acf545e9b2faeb87585520b7c5338e20531</guid>
-<pubDate>Wed, 29 Jul 2026 19:45:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs San Francisco Giants - Final]]></description>
 </item>
 <item>
 <title>Brewers News: After historic 30th, Fischer&#x27;s home run binge reaches 4 straight games</title>
