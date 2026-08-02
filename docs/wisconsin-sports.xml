@@ -4,12 +4,28 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Sun, 02 Aug 2026 18:12:49 +0000</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 19:35:30 +0000</lastBuildDate>
+<item>
+<title>MLB - Live: Milwaukee Brewers 0 @ Los Angeles Angels 0 (Mid 2nd)</title>
+<link>https://www.espn.com/mlb/boxscore/_/gameId/401816374</link>
+<guid isPermaLink='false'>9e337ededf0f88b34a0b08ecc69986d3123768c9</guid>
+<pubDate>Sun, 02 Aug 2026 19:15:00 +0000</pubDate>
+<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" type="image/jpeg" />
+<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" medium="image" />
+<description><![CDATA[Milwaukee Brewers vs Los Angeles Angels - Mid 2nd]]></description>
+</item>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>707adf498a139c0b426450721dff8488357230f5</guid>
+<pubDate>Sun, 02 Aug 2026 18:43:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
 <item>
 <title>Brewers News: Watch baseball&#x27;s top prospect Made play at Double-A for FREE tonight</title>
 <link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
-<guid isPermaLink='false'>1f91dae7fd167946f104541360eb28cf1bdaa4c0</guid>
-<pubDate>Sun, 02 Aug 2026 15:50:00 +0000</pubDate>
+<guid isPermaLink='false'>be13828c5dcb1b913f76e4a7f18ffe402263d78d</guid>
+<pubDate>Sun, 02 Aug 2026 18:32:00 +0000</pubDate>
 <description><![CDATA[Watch baseball's top prospect Made play at Double-A for FREE tonight]]></description>
 </item>
 <item>
@@ -41,13 +57,6 @@
 <guid isPermaLink='false'>2df6d4a007fadc367d5252bd01114ff786c26363</guid>
 <pubDate>Sun, 02 Aug 2026 01:20:00 +0000</pubDate>
 <description><![CDATA[Brewers add catcher Bo Naylor in 4-player trade with Guardians]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>cc47f11f5d84383433b66042954c2c5be3bfab49</guid>
-<pubDate>Sun, 02 Aug 2026 00:43:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>Brewers News: Is this the year Brewers go big at Trade Deadline?</title>
