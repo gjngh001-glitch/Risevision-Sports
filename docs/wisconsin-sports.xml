@@ -4,15 +4,43 @@
 <title>Wisconsin Sports (Core Teams)</title>
 <link>https://www.espn.com/</link>
 <description>Packers, Bucks, Brewers scores + UW Badgers scores and news.</description>
-<lastBuildDate>Mon, 03 Aug 2026 23:47:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 02:09:50 +0000</lastBuildDate>
 <item>
-<title>MLB - Live: Pittsburgh Pirates 0 @ Milwaukee Brewers 0 (Top 1st)</title>
+<title>Brewers News: Brewers add pitchers May, Senzatela, Romero in deals with Cards, Rox</title>
+<link>https://www.mlb.com/brewers/news/brewers-trade-deadline-2026</link>
+<guid isPermaLink='false'>4918eb1e818eda7f026ff0a8874569319ccf10b3</guid>
+<pubDate>Tue, 04 Aug 2026 01:14:00 +0000</pubDate>
+<description><![CDATA[Brewers add pitchers May, Senzatela, Romero in deals with Cards, Rox]]></description>
+</item>
+<item>
+<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
+<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
+<guid isPermaLink='false'>6da5f8a86be988d38d1a9c89a88edee6ca055a90</guid>
+<pubDate>Tue, 04 Aug 2026 00:34:00 +0000</pubDate>
+<description><![CDATA[Latest Brewers injuries & transactions]]></description>
+</item>
+<item>
+<title>MLB - Live: Pittsburgh Pirates 4 @ Milwaukee Brewers 3 (Top 9th)</title>
 <link>https://www.espn.com/mlb/boxscore/_/gameId/401816380</link>
-<guid isPermaLink='false'>4b04e2957d29e1ed58671c2acd5fa280250c651a</guid>
+<guid isPermaLink='false'>d82409b706bbf9195e96396a342585ae8c1b5952</guid>
 <pubDate>Mon, 03 Aug 2026 23:40:00 +0000</pubDate>
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png" medium="image" />
-<description><![CDATA[Pittsburgh Pirates vs Milwaukee Brewers - Top 1st]]></description>
+<description><![CDATA[Pittsburgh Pirates vs Milwaukee Brewers - Top 9th]]></description>
+</item>
+<item>
+<title>Brewers News: Watch top prospect Made play at Double-A for FREE on Saturday</title>
+<link>https://www.mlb.com/brewers/news/watch-minor-league-baseball-games-for-free-2026</link>
+<guid isPermaLink='false'>82178c549a759992b5f3884b6b721db4c4888e4e</guid>
+<pubDate>Mon, 03 Aug 2026 23:36:00 +0000</pubDate>
+<description><![CDATA[Watch top prospect Made play at Double-A for FREE on Saturday]]></description>
+</item>
+<item>
+<title>Brewers News: Baseball No. 1 prospect Made headlines Brewers duo on Team of the Week</title>
+<link>https://www.mlb.com/brewers/news/prospect-team-of-the-week-august-3-2026</link>
+<guid isPermaLink='false'>33d85d5add5f11aa13d98723d945eb24081d3aae</guid>
+<pubDate>Mon, 03 Aug 2026 23:29:42 +0000</pubDate>
+<description><![CDATA[Baseball No. 1 prospect Made headlines Brewers duo on Team of the Week]]></description>
 </item>
 <item>
 <title>UW News - Football: Join the Badgers in Green Bay for Badger Bash North</title>
@@ -22,13 +50,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/5/18/UW-20260515_BadgerBashN_header.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/5/18/UW-20260515_BadgerBashN_header.jpg" medium="image" />
 <description><![CDATA[<img alt="Badger Bash North Fan Event in Green Bay, Wisconsin on September 5th, 2026" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/5/18/UW-20260515_BadgerBashN_header.jpg" /><br /><br />Day of Badger fun set for Saturday, Sept. 5 ahead of Wisconsin's matchup with Notre Dame]]></description>
-</item>
-<item>
-<title>Brewers News: Brewers add pitchers May, Senzatela, Romero in deals with Cards, Rox</title>
-<link>https://www.mlb.com/brewers/news/brewers-trade-deadline-2026</link>
-<guid isPermaLink='false'>10a02b230202287f8d8cc45e2f67d23c46e3b72c</guid>
-<pubDate>Mon, 03 Aug 2026 22:08:00 +0000</pubDate>
-<description><![CDATA[Brewers add pitchers May, Senzatela, Romero in deals with Cards, Rox]]></description>
 </item>
 <item>
 <title>UW News - Volleyball: Volleyball Announces Broadcast Schedule</title>
@@ -70,13 +91,6 @@
 <enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" type="image/jpeg" />
 <media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" medium="image" />
 <description><![CDATA[Milwaukee Brewers vs Los Angeles Angels - Final]]></description>
-</item>
-<item>
-<title>Brewers News: Latest Brewers injuries &amp; transactions</title>
-<link>https://www.mlb.com/brewers/news/brewers-injuries-and-roster-moves</link>
-<guid isPermaLink='false'>707adf498a139c0b426450721dff8488357230f5</guid>
-<pubDate>Sun, 02 Aug 2026 18:43:00 +0000</pubDate>
-<description><![CDATA[Latest Brewers injuries & transactions]]></description>
 </item>
 <item>
 <title>Brewers News: MLB-leading Brewers pivot after Skubal as Deadline nears</title>
@@ -121,15 +135,6 @@
 <guid isPermaLink='false'>78ba2a5a22a0d1778c48ada37a6576e6aa39a18c</guid>
 <pubDate>Sat, 01 Aug 2026 05:47:00 +0000</pubDate>
 <description><![CDATA[Drohan sharp in Brewers' winning start to 17-day gauntlet]]></description>
-</item>
-<item>
-<title>MLB - Final: Milwaukee Brewers 6 @ Los Angeles Angels 2 (Final)</title>
-<link>https://www.espn.com/mlb/boxscore/_/gameId/401816344</link>
-<guid isPermaLink='false'>f6ef1c14cbf4448345d2b048a929e1dc9321a15f</guid>
-<pubDate>Sat, 01 Aug 2026 01:38:00 +0000</pubDate>
-<enclosure url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" type="image/jpeg" />
-<media:content url="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png" medium="image" />
-<description><![CDATA[Milwaukee Brewers vs Los Angeles Angels - Final]]></description>
 </item>
 <item>
 <title>Brewers News: Harrison breezes through rehab start, hopes to rejoin rotation soon</title>
@@ -236,13 +241,6 @@
 <description><![CDATA['Young thoroughbred' Sproat flashes struggles, upside in quality start]]></description>
 </item>
 <item>
-<title>Brewers News: Where does Misiorowski land in latest MVP poll?</title>
-<link>https://www.mlb.com/brewers/news/yordan-alvarez-shohei-ohtani-lead-fourth-2026-mvp-poll</link>
-<guid isPermaLink='false'>42e31c2e02d2677d8f7691aec2627eda6c765a80</guid>
-<pubDate>Tue, 28 Jul 2026 04:04:21 +0000</pubDate>
-<description><![CDATA[Where does Misiorowski land in latest MVP poll?]]></description>
-</item>
-<item>
 <title>Brewers News: Brewers 1B prospect Burke makes Team of the Week</title>
 <link>https://www.mlb.com/brewers/news/prospect-team-of-the-week-july-27-2026</link>
 <guid isPermaLink='false'>5779fc89d1b1204a3d25659efaadeecf3c9128b8</guid>
@@ -257,13 +255,6 @@
 <enclosure url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/7/27/26VB_Alumni_Reveal.jpg" type="image/jpeg" />
 <media:content url="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&amp;image_path=/images/2026/7/27/26VB_Alumni_Reveal.jpg" medium="image" />
 <description><![CDATA[<img alt="VB Alumni Roster Reveal Web" src="https://admin.uwbadgers.com/common/controls/image_handler.aspx?thumb_prefix=rp_primary&image_path=/images/2026/7/27/26VB_Alumni_Reveal.jpg" /><br /><br />MADISON, Wis. – The Wisconsin volleyball program reveals a star-studded roster that includes 11 athletes currently playing professional volleyball and four National Champions for the Badgers' Alumni Match on Saturday, August 8. The evening will also celebrate the dropping of the 2025 NCAA National Semifinal banner.]]></description>
-</item>
-<item>
-<title>Brewers News: Brewers cling to No. 2 spot in Power Rankings</title>
-<link>https://www.mlb.com/brewers/news/mlb-power-rankings-for-week-of-july-26-2026</link>
-<guid isPermaLink='false'>c7289410bbfeaca88866709b3b240863ab1b79bd</guid>
-<pubDate>Mon, 27 Jul 2026 01:49:58 +0000</pubDate>
-<description><![CDATA[Brewers cling to No. 2 spot in Power Rankings]]></description>
 </item>
 <item>
 <title>UW News - Football: HOF CLASS OF 2026: ‘Big, big personality’ – The Bob Konovsky story</title>
